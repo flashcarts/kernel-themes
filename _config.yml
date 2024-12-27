@@ -1,7 +1,7 @@
 # theme       : jekyll-theme-slate
-title       : "NDS Flashcart Index"
-description : "An index of all Nintendo DS flashcarts"
-repo        : "flashcarts/nds-index"
+title       : "Kernel Themes"
+description : "A repository for flashcart kernel themes"
+repo        : "Sanrax/kernel-themes"
 color       : "#80158A"
 image       : "/assets/images/favicon/favicon-196x196.png"
 
@@ -12,11 +12,6 @@ exclude:
   - Gemfile*
   - vendor
   - LICENSE*
-
-analytics:
-  gtag:
-    id: G-Z9LJ9NMQCQ
-    anonymize_ip: true # false (default)
 
 defaults:
   - scope:
