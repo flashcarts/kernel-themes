@@ -11,8 +11,8 @@
 
 	<link id="bootstrap-stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
-	<link id="theme-css" rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css">
-	<script src="/assets/js/theme.js"></script>
+	<link id="theme-css" rel="stylesheet" type="text/css" media="screen" href={{ "/assets/css/style.css" | relative_url }}>
+	<script src={{ "/assets/js/theme.js" | relative_url }}></script>
 
 	{% if page.color_bg or page.color %}
 		{% assign accent = page.color_bg | default: page.color %}
@@ -40,10 +40,10 @@
 		</style>
 	{% endif %}
 
-	<link rel="alternate" type="application/rss+xml" title="RSS Feed | {{ site.title }}" href="/index.rss">
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed | {{ site.title }}" href={{ "/index.rss" | relative_url }}>
 
 	{% include favicon.html %}
 	{% include seo.html %}
 
-	<script src="/assets/js/i18n.js"></script>
+	<script src={{ "/assets/js/i18n.js" | relative_url }}></script>
 </head>

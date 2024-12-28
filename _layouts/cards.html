@@ -7,9 +7,6 @@ layout: compress
 {% include head.html%}
 
 <body>
-{% if jekyll.environment == 'production' %}
-	{% include gtag.html %}
-{% endif %}
 
 	<div class="content">
 		{% include nav.html %}
@@ -67,10 +64,10 @@ layout: compress
 								{% if page.category == Nil or app.categories contains page.category %}
 									<div class="col mb-3 {% if page.limit == 4 and forloop.index == 4 %}d-md-none d-xl-block{% endif %}">
 										<div class="card h-100" data-title="{{ app.title | escape}}" data-creator="{{ app.creator | escape}}" data-description="{{ app.description | escape }}">
-											<a class="flex-grow-1" href="{{ app.url | remove: ".html" }}">
+											<a class="flex-grow-1" href="{{ app.url | remove: ".html"  | relative_url }}">
 												{% if app.images.size > 0 %}
 													<div class="card-header card-image-header">
-														<img class="card-image" src="{{ app.images[0].url }}" alt="{{ app.images[0].description | default: app.title | escape }}" loading="lazy">
+														<img class="card-image" src="{{ app.images[0].url  | relative_url }}" alt="{{ app.images[0].description | default: app.title | escape }}" loading="lazy">
 													</div>
 												{% endif %}
 												<div class="card-body" dir="ltr">
@@ -97,10 +94,10 @@ layout: compress
 	{% include footer.html %}
 
 	{% include common-js.html %}
-	<script src="/assets/js/search.js"></script>
-	<script src="/assets/js/modal.js"></script>
+	<script src={{"/assets/js/search.js" | relative_url }}></script>
+	<script src={{"/assets/js/modal.js" | relative_url}}></script>
 	{% if page.system %}
-		<script src="/assets/js/sort.js"></script>
+		<script src={{"/assets/js/sort.js" | relative_url}}></script>
 	{% endif %}
 </body>
 </html>
