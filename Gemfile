@@ -24,9 +24,16 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
+gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 gem "webrick", "~> 1.8", ">= 1.8.1"
 
 # Removing this will break the site under Arch Linux's provided ruby package (3.0.6-1) as it appears to be missing the json gem.
 gem "json", "~>2.7", ">=2.7.2"
+
+# Add gems removed from Ruby 3.4.0 Standard library
+gem "csv", "~> 3.3", ">=3.3.2"
+gem "base64", "~> 0.2.0"
+
+# Add gems removed from Ruby 3.5.0 Standard library
+gem 'logger', '~> 1.6', '>= 1.6.4'
