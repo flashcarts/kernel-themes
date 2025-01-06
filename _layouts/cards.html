@@ -42,8 +42,8 @@ layout: compress
 							</div>
 						{% endif %}
 						
-						{% if page.system == "card" %}
-							{% assign cards = site.card %}
+						{% if page.system == "akmenu" %}
+							{% assign cards = site.akmenu %}
 						{% elsif page.title == "Home" %}
 							{% assign temp = site.card %}
 							{% for item in temp %}

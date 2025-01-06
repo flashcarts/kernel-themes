@@ -53,34 +53,6 @@ layout: compress
 													</dd>
 												</div>
 												{% endif %}
-												<div>
-													<dt class="i18n innerHTML-sdhc">SDHC:</dt>
-													{% if page.sdhc %}
-														<dd class="i18n innerHTML-supported">Supported</dd>
-													{% else %}
-														<dd class="i18n innerHTML-unsupported">Unsupported</dd>
-													{% endif %}
-												</div>
-												<div>
-													<dt class="i18n innerHTML-dsi-compatible">DSi compatible:</dt>
-													{% if page.dsi == true %}
-														<dd class="i18n innerHTML-supported">Yes</dd>
-													{% elsif page.dsi %}
-														<dd class="i18n innerHTML-supported">{{ page.dsi }}</dd>
-													{% else %}
-														<dd class="i18n innerHTML-unsupported">No</dd>
-													{% endif %}
-												</div>
-												<div>
-													<dt class="i18n innerHTML-dsi-compatible">3DS compatible:</dt>
-													{% if page["3ds"] == true %}
-														<dd class="i18n innerHTML-supported">Yes</dd>
-													{% elsif page["3ds"] %}
-														<dd class="i18n innerHTML-supported">{{ page["3ds"] }}</dd>
-													{% else %}
-														<dd class="i18n innerHTML-unsupported">No</dd>
-													{% endif %}
-												</div>
 											</dl>
 										</small>
 									</div>
@@ -113,7 +85,7 @@ layout: compress
 								{% if content.size > 1 %}
 									<div class="row mt-3">
 										<div class="col-12">
-											<h2 class="i18n innerHTML-description">Description</h2>
+											<h2 class="i18n innerHTML-description">Theme Installation Instructions</h2>
 											<div dir="ltr">
 												{{ content }}
 												{% if page.cheats %}

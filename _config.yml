@@ -20,5 +20,5 @@ defaults:
       layout: app
 
 collections:
-  card:
+  akmenu:
     output: true
