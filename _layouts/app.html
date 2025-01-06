@@ -76,7 +76,7 @@ layout: compress
 											<h2 class="i18n innerHTML-downloads">Downloads</h2>
 											{% for item in page.downloads %}
 												<span class="text-nowrap">
-													<a class="btn btn-primary m-1 i18n innerHTML-download-name" {% if item[1].size_str %}title="Size: {{ item[1].size_str }}"{% endif %} href="{{ item[1].url }}" data-name="{{ item[0] }}">Download {{ item[0] }}</a>
+													<a class="btn btn-primary m-1 i18n innerHTML-download-name" {% if item[1].size_str %}title="Size: {{ item[1].size_str }}"{% endif %} href="{{ item[1].url | relative_url }}" data-name="{{ item[0] }}">Download {{ item[0] }}</a>
 												</span>
 											{% endfor %}
 										</div>
@@ -88,14 +88,6 @@ layout: compress
 											<h2 class="i18n innerHTML-description">Theme Installation Instructions</h2>
 											<div dir="ltr">
 												{{ content }}
-												{% if page.cheats %}
-													Cheat database location(s):
-													<ul>
-													{% for cheat in page.cheats %}
-														<li class="cheat-database">{{ cheat.kernel }}</li>
-													{% endfor %}
-													</ul>
-												{% endif %}
 											</div>
 										</div>
 									</div>
