@@ -3,7 +3,7 @@ title: License Disclosure
 layout: default
 ---
 
-Copyright © 2023 lifehackerhansol and contributors
+Copyright © 2025 Sanras and contributors
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
@@ -22,5 +22,5 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-You may view a copy of this license on GitHub: <https://github.com/flashcarts/nds-index>
+You may view a copy of this license on GitHub: <https://github.com/Sanrax/kernel-themes>
 ```

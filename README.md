@@ -1,8 +1,8 @@
-# NDS Flashcart Index
+# Flashcart Kernel Themes Index
 
-This site aims to list every NDS flashcart in existence. It is based on [Universal-DB](https://github.com/Universal-Team/db)'s website files.
+This site is a download repository for flashcart kernel themes. Currently, the site is hosting AKMenu/WoodR4 themes, but more kernels will be added soon.
 
-<https://nds.flashcarts.net>
+<https://sanrax.github.io/kernel-themes/>
 
 ### Building the site locally
 
@@ -14,5 +14,5 @@ This site aims to list every NDS flashcart in existence. It is based on [Univers
 
 ### License
 
-- All files under the `_card` directory (the documentation) is licensed under CC-BY-NC-SA 4.0. You may read more in `LICENSE-docs.txt`.
+- All files under the `_akmenu` directory (the theme index) is licensed under CC-BY-NC-SA 4.0. You may read more in `LICENSE-docs.txt`.
 - All other files are licensed under the GPLv3 license. You may read more in `LICENSE-engine.txt`.
