@@ -1,5 +1,5 @@
 ---
 layout: cards
-title: AKMenu Themes
+title: AKMenu
 system: akmenu
 ---

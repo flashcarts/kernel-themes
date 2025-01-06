@@ -2,7 +2,7 @@
 title       : "Kernel Themes"
 description : "A repository for flashcart kernel themes"
 repo        : "Sanrax/kernel-themes"
-color       : "#80158A"
+color       : "#B23456"
 image       : "/assets/images/favicon/favicon-196x196.png"
 
 sass:
