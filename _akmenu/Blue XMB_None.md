@@ -1,9 +1,10 @@
 ---
 title: Blue XMB_None
-creator: Unknown
+creator: CannonFoddr
 description: 
 categories:
-- akmenu
+- blue
+- dark
 downloads:
   Blue XMB_None.7z:
     url: "/assets/downloads/Blue XMB_None.7z"

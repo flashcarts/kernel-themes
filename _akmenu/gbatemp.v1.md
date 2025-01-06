@@ -1,9 +1,12 @@
 ---
-title: gbatemp.v1
-creator: Unknown
+title: GBATemp v1
+creator:
 description: 
 categories:
-- akmenu
+- gbatemp
+- woodr4
+- light
+- blue
 downloads:
   gbatemp.v1.7z:
     url: "/assets/downloads/gbatemp.v1.7z"

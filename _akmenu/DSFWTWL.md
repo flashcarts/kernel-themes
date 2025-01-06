@@ -1,9 +1,10 @@
 ---
 title: DSFWTWL
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- os-replica
+- light
 downloads:
   DSFWTWL.7z:
     url: "/assets/downloads/DSFWTWL.7z"

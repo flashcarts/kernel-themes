@@ -3,7 +3,9 @@ title: gbSkin
 creator: Unknown
 description: 
 categories:
-- akmenu
+- os-replica
+- light
+- green
 downloads:
   gbSkin.7z:
     url: "/assets/downloads/gbSkin.7z"

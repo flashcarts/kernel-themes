@@ -1,9 +1,11 @@
 ---
-title: gbatemp
-creator: Unknown
+title: GBATemp - WoodR4
+creator: Yellow Wood Goblin
 description: 
 categories:
-- akmenu
+- woodr4
+- gbatemp
+- stock
 downloads:
   gbatemp.7z:
     url: "/assets/downloads/gbatemp.7z"

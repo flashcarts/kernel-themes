@@ -1,9 +1,11 @@
 ---
-title: AKAIO 1.6 theme_Bruised
-creator: Unknown
+title: AKAIO 1.6 Bruised
+creator: VatoLoco
 description: 
 categories:
-- akmenu
+- akaio
+- blue
+- dark
 downloads:
   AKAIO 1.6 theme_Bruised.7z:
     url: "/assets/downloads/AKAIO 1.6 theme_Bruised.7z"

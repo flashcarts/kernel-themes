@@ -1,9 +1,10 @@
 ---
-title: BlkDragon
-creator: Unknown
+title: Black Dragon
+creator:
 description: 
 categories:
-- akmenu
+- dark
+- dragon
 downloads:
   BlkDragon.7z:
     url: "/assets/downloads/BlkDragon.7z"

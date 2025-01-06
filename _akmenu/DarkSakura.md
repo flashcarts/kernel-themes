@@ -1,9 +1,10 @@
 ---
-title: DarkSakura
-creator: Unknown
+title: Dark Sakura
+creator:
 description: 
 categories:
-- akmenu
+- dark
+- sakura
 downloads:
   DarkSakura.7z:
     url: "/assets/downloads/DarkSakura.7z"

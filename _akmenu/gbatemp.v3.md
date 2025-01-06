@@ -1,9 +1,11 @@
 ---
-title: gbatemp.v3
-creator: Unknown
+title: GBATemp v3
+creator: LeonPro12
 description: 
 categories:
-- akmenu
+- gbatemp
+- light
+- blue
 downloads:
   gbatemp.v3.7z:
     url: "/assets/downloads/gbatemp.v3.7z"

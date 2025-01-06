@@ -1,9 +1,11 @@
 ---
-title: Adv.EvoI
-creator: Unknown
+title: Adv.EvoI - AKAIO 1.9.0
+creator: AKAIO Team
 description: 
 categories:
-- akmenu
+- akaio
+- dark
+- stock
 downloads:
   Adv.EvoI.7z:
     url: "/assets/downloads/Adv.EvoI.7z"

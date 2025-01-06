@@ -1,9 +1,11 @@
 ---
 title: Dry Bones 3D
-creator: Unknown
+creator: Chris Hair
 description: 
 categories:
-- akmenu
+- mario
+- game
+- light
 downloads:
   Dry Bones 3D.7z:
     url: "/assets/downloads/Dry Bones 3D.7z"

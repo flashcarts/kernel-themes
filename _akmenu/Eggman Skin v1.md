@@ -1,9 +1,11 @@
 ---
-title: Eggman Skin v1
-creator: Unknown
+title: Eggman
+creator: Biochao
 description: 
 categories:
-- akmenu
+- game
+- red
+- dark
 downloads:
   Eggman Skin v1.7z:
     url: "/assets/downloads/Eggman Skin v1.7z"

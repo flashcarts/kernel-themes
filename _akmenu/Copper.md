@@ -1,9 +1,10 @@
 ---
 title: Copper
-creator: Unknown
+creator: CannonFoddr
 description: 
 categories:
-- akmenu
+- light
+- abstract
 downloads:
   Copper.7z:
     url: "/assets/downloads/Copper.7z"

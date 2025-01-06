@@ -1,9 +1,10 @@
 ---
 title: Animal Crossing
-creator: Unknown
+creator: Cannonfoddr
 description: 
 categories:
-- akmenu
+- light
+- game
 downloads:
   Animal Crossing.7z:
     url: "/assets/downloads/Animal Crossing.7z"

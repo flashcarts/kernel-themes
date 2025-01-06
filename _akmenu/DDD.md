@@ -1,9 +1,10 @@
 ---
-title: DDD
-creator: Unknown
+title: Kingdom Hearts - Dream Drop Distance
+creator:
 description: 
 categories:
-- akmenu
+- game
+- dark
 downloads:
   DDD.7z:
     url: "/assets/downloads/DDD.7z"

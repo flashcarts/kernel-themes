@@ -1,9 +1,10 @@
 ---
-title: CastleVaniaSOTN
-creator: Unknown
+title: Castlevania - SOTN
+creator:
 description: 
 categories:
-- akmenu
+- game
+- dark
 downloads:
   CastleVaniaSOTN.7z:
     url: "/assets/downloads/CastleVaniaSOTN.7z"

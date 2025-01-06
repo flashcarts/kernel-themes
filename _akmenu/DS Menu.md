@@ -1,9 +1,10 @@
 ---
 title: DS Menu
-creator: Unknown
+creator: Vulpes-Vulpeos
 description: 
 categories:
-- akmenu
+- os-replica
+- light
 downloads:
   DS Menu.7z:
     url: "/assets/downloads/DS Menu.7z"

@@ -1,9 +1,10 @@
 ---
 title: Chrono Trigger
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- game
+- dark
 downloads:
   Chrono Trigger.7z:
     url: "/assets/downloads/Chrono Trigger.7z"

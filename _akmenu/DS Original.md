@@ -1,9 +1,10 @@
 ---
 title: DS Original
-creator: Unknown
+creator: Chris Hair
 description: 
 categories:
-- akmenu
+- os-replica
+- light
 downloads:
   DS Original.7z:
     url: "/assets/downloads/DS Original.7z"

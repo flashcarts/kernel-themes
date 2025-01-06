@@ -1,9 +1,12 @@
 ---
 title: Anime Lucario
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- dark
+- blue
+- game
+- pokemon
 downloads:
   Anime Lucario.7z:
     url: "/assets/downloads/Anime Lucario.7z"

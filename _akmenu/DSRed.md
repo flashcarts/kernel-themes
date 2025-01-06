@@ -1,9 +1,11 @@
 ---
 title: DSRed
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- os-replica
+- red
+- light
 downloads:
   DSRed.7z:
     url: "/assets/downloads/DSRed.7z"

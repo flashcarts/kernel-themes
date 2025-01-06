@@ -3,10 +3,11 @@ title: Black
 creator: Acekard Team
 description:
 categories:
-- black
+- akmenu
 - dark
+- stock
 downloads:
-  Acekard AK2Wii.7z:
+  black.7z:
     url: "/assets/downloads/black.7z"
 images:
 - url: /assets/images/akmenu/black/1.png

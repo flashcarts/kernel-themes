@@ -1,9 +1,10 @@
 ---
-title: BorderlandsAK2
-creator: Unknown
+title: Borderlands
+creator:
 description: 
 categories:
-- akmenu
+- game
+- dark
 downloads:
   BorderlandsAK2.7z:
     url: "/assets/downloads/BorderlandsAK2.7z"

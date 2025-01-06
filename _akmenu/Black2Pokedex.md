@@ -1,9 +1,12 @@
 ---
-title: Black2Pokedex
-creator: Unknown
+title: Pokemon Black 2 Pokedex
+creator:
 description: 
 categories:
-- akmenu
+- pokemon
+- pikachu
+- game
+- stock
 downloads:
   Black2Pokedex.7z:
     url: "/assets/downloads/Black2Pokedex.7z"

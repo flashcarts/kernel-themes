@@ -1,9 +1,11 @@
 ---
 title: AK2DX_Empress
-creator: Unknown
+creator: Piri_Silber
 description: 
 categories:
 - akmenu
+- red
+- light
 downloads:
   AK2DX_Empress.7z:
     url: "/assets/downloads/AK2DX_Empress.7z"

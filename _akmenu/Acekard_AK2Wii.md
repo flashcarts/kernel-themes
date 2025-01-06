@@ -3,6 +3,7 @@ title: Acekard AK2Wii
 creator: MaD BhOy
 description:
 categories:
+- os-replica
 - wii
 - light
 downloads:

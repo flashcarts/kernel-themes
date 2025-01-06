@@ -1,9 +1,10 @@
 ---
-title: COD Black Ops
-creator: Unknown
+title: "Call of Duty: Black Ops"
+creator: rockleeace
 description: 
 categories:
-- akmenu
+- game
+- dark
 downloads:
   COD Black Ops.7z:
     url: "/assets/downloads/COD Black Ops.7z"
