@@ -4,6 +4,8 @@ creator:
 description: 
 categories:
 - dark
+- black
+- landscape
 - sakura
 downloads:
   DarkSakura.7z:

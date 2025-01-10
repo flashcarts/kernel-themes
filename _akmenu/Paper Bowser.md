@@ -1,9 +1,12 @@
 ---
 title: Paper Bowser
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- green
+- light
 downloads:
   Paper Bowser.7z:
     url: "/assets/downloads/Paper Bowser.7z"

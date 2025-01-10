@@ -1,9 +1,12 @@
 ---
 title: Pokemon Black
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- pokemon
+- game
+- black
+- dark
 downloads:
   Pokemon Black.7z:
     url: "/assets/downloads/Pokemon Black.7z"

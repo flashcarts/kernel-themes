@@ -1,9 +1,12 @@
 ---
 title: Luigi's Mansion
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- mario
+- game
+- black
+- dark
 downloads:
   Luigi's Mansion.7z:
     url: "/assets/downloads/Luigi's Mansion.7z"

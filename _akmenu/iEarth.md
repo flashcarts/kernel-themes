@@ -1,9 +1,11 @@
 ---
 title: iEarth
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- os-replica
+- dark
+- landscape
 downloads:
   iEarth.7z:
     url: "/assets/downloads/iEarth.7z"

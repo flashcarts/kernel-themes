@@ -1,9 +1,11 @@
 ---
-title: luna XP
-creator: Unknown
+title: Luna XP
+creator:
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- light
 downloads:
   luna XP.7z:
     url: "/assets/downloads/luna XP.7z"

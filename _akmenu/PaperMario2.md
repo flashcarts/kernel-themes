@@ -1,9 +1,12 @@
 ---
-title: PaperMario2
-creator: Unknown
+title: Paper Mario 2
+creator: Sarah Evans
 description: 
 categories:
-- akmenu
+- game
+- mario
+- red
+- light
 downloads:
   PaperMario2.7z:
     url: "/assets/downloads/PaperMario2.7z"

@@ -1,9 +1,12 @@
 ---
 title: Shadow the Hedgehog Artwork
-creator: Unknown
+creator: Biochao
 description: 
 categories:
-- akmenu
+- game
+- red
+- black
+- dark
 downloads:
   Shadow the Hedgehog Artwork.7z:
     url: "/assets/downloads/Shadow the Hedgehog Artwork.7z"

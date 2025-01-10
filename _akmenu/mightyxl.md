@@ -1,9 +1,10 @@
 ---
-title: mightyxl
-creator: Unknown
+title: MightyXL
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- red
 downloads:
   mightyxl.7z:
     url: "/assets/downloads/mightyxl.7z"

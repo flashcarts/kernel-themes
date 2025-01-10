@@ -1,9 +1,11 @@
 ---
-title: HalloweenTown
-creator: Unknown
+title: Halloween Town
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- seasonal
+- dark
 downloads:
   HalloweenTown.7z:
     url: "/assets/downloads/HalloweenTown.7z"

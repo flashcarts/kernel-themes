@@ -1,9 +1,10 @@
 ---
-title: Blue XMB_None
+title: Blue XMB - No Date/Time
 creator: CannonFoddr
 description: 
 categories:
 - blue
+- black
 - dark
 downloads:
   Blue XMB_None.7z:

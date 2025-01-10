@@ -1,9 +1,11 @@
 ---
-title: Linux Cummunism
-creator: Unknown
+title: Linux Communism
+creator: The Catboy
 description: 
 categories:
-- akmenu
+- red
+- akaio
+- light
 downloads:
   Linux Cummunism.7z:
     url: "/assets/downloads/Linux Cummunism.7z"

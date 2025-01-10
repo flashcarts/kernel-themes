@@ -1,9 +1,10 @@
 ---
 title: Penguins of Madagascar
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- blue
+- green
 downloads:
   Penguins of Madagascar.7z:
     url: "/assets/downloads/Penguins of Madagascar.7z"

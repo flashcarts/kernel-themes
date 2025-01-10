@@ -1,9 +1,10 @@
 ---
-title: MacOSX
-creator: Unknown
+title: MacOS X
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- light
 downloads:
   MacOSX.7z:
     url: "/assets/downloads/MacOSX.7z"

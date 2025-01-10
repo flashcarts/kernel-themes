@@ -1,9 +1,10 @@
 ---
 title: Nintendo 3DS
-creator: Unknown
+creator: Xemnos
 description: 
 categories:
-- akmenu
+- os-replica
+- light
 downloads:
   Nintendo 3DS.7z:
     url: "/assets/downloads/Nintendo 3DS.7z"

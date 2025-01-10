@@ -1,9 +1,10 @@
 ---
 title: Purple Nebula
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- dark
+- abstract
 downloads:
   Purple Nebula.7z:
     url: "/assets/downloads/Purple Nebula.7z"

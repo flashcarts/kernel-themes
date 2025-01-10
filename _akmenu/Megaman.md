@@ -1,9 +1,12 @@
 ---
 title: Megaman
-creator: Unknown
+creator: Chris Hair
 description: 
 categories:
-- akmenu
+- game
+- blue
+- black
+- dark
 downloads:
   Megaman.7z:
     url: "/assets/downloads/Megaman.7z"

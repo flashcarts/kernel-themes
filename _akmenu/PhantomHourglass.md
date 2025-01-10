@@ -1,9 +1,12 @@
 ---
-title: PhantomHourglass
-creator: Unknown
+title: The Legend of Zelda - Phantom Hourglass
+creator: Centy
 description: 
 categories:
-- akmenu
+- game
+- zelda
+- blue
+- light
 downloads:
   PhantomHourglass.7z:
     url: "/assets/downloads/PhantomHourglass.7z"

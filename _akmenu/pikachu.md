@@ -1,9 +1,12 @@
 ---
-title: pikachu
-creator: Unknown
+title: Pikachu
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- pokemon
+- red
+- light
 downloads:
   pikachu.7z:
     url: "/assets/downloads/pikachu.7z"

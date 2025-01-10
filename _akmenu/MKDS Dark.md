@@ -1,9 +1,11 @@
 ---
-title: MKDS Dark
-creator: Unknown
+title: Mario Kart DS
+creator: 
 description: 
 categories:
-- akmenu
+- mario
+- game
+- blue
 downloads:
   MKDS Dark.7z:
     url: "/assets/downloads/MKDS Dark.7z"

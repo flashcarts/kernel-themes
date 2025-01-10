@@ -1,9 +1,12 @@
 ---
 title: Shadow the Hedgehog
-creator: Unknown
+creator: Chris Hair
 description: 
 categories:
-- akmenu
+- game
+- black
+- red
+- dark
 downloads:
   Shadow the Hedgehog.7z:
     url: "/assets/downloads/Shadow the Hedgehog.7z"

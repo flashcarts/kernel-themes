@@ -4,6 +4,7 @@ creator: CannonFoddr
 description: 
 categories:
 - blue
+- black
 - dark
 downloads:
   Blue XMB.7z:

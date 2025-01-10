@@ -1,9 +1,11 @@
 ---
 title: Lucario AKAIO
-creator: Unknown
+creator: The Catboy
 description: 
 categories:
-- akmenu
+- pokemon
+- game
+- light
 downloads:
   Lucario AKAIO.7z:
     url: "/assets/downloads/Lucario AKAIO.7z"

@@ -1,9 +1,12 @@
 ---
 title: Paper Mario
-creator: Unknown
+creator: Chris Hair
 description: 
 categories:
-- akmenu
+- game
+- mario
+- red
+- light
 downloads:
   Paper Mario.7z:
     url: "/assets/downloads/Paper Mario.7z"

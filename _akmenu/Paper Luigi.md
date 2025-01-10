@@ -1,9 +1,12 @@
 ---
 title: Paper Luigi
-creator: Unknown
+creator: Chris Hair
 description: 
 categories:
-- akmenu
+- game
+- mario
+- green
+- light
 downloads:
   Paper Luigi.7z:
     url: "/assets/downloads/Paper Luigi.7z"

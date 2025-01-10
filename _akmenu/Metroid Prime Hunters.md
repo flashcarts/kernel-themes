@@ -1,9 +1,11 @@
 ---
 title: Metroid Prime Hunters
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- black
+- dark
 downloads:
   Metroid Prime Hunters.7z:
     url: "/assets/downloads/Metroid Prime Hunters.7z"

@@ -1,9 +1,12 @@
 ---
 title: Paper Dry Bones
-creator: Unknown
+creator: Chris Hair
 description: 
 categories:
-- akmenu
+- game
+- mario
+- green
+- light
 downloads:
   Paper Dry Bones.7z:
     url: "/assets/downloads/Paper Dry Bones.7z"

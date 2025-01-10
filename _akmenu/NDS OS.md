@@ -1,9 +1,10 @@
 ---
 title: NDS OS
-creator: Unknown
+creator: Centy
 description: 
 categories:
-- akmenu
+- os-replica
+- light
 downloads:
   NDS OS.7z:
     url: "/assets/downloads/NDS OS.7z"

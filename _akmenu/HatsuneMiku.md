@@ -1,9 +1,11 @@
 ---
-title: HatsuneMiku
-creator: Unknown
+title: Hatsune Miku
+creator:
 description: 
 categories:
-- akmenu
+- miku
+- blue
+- dark
 downloads:
   HatsuneMiku.7z:
     url: "/assets/downloads/HatsuneMiku.7z"

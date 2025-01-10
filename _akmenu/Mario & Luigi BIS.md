@@ -1,9 +1,11 @@
 ---
-title: Mario & Luigi BIS
-creator: Unknown
+title: "Mario & Luigi: Bowser's Inside Story"
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- light
 downloads:
   Mario & Luigi BIS.7z:
     url: "/assets/downloads/Mario & Luigi BIS.7z"

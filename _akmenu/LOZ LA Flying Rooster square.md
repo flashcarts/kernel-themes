@@ -1,9 +1,12 @@
 ---
-title: LOZ LA Flying Rooster square
-creator: Unknown
+title: The Legend of Zelda: Link’s Awakening - Flying Rooster Square
+creator: Vulpes-Vulpeos
 description: 
 categories:
-- akmenu
+- zelda
+- game
+- green
+- light
 downloads:
   LOZ LA Flying Rooster square.7z:
     url: "/assets/downloads/LOZ LA Flying Rooster square.7z"

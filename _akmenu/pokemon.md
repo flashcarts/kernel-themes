@@ -1,9 +1,11 @@
 ---
-title: pokemon
-creator: Unknown
+title: Pokemon
+creator: Jayro
 description: 
 categories:
-- akmenu
+- pokemon
+- game
+- light
 downloads:
   pokemon.7z:
     url: "/assets/downloads/pokemon.7z"

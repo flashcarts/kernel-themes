@@ -1,9 +1,10 @@
 ---
-title: nintendo gamcube
-creator: Unknown
+title: Nintendo Gamecube
+creator:
 description: 
 categories:
-- akmenu
+- dark
+- trash
 downloads:
   nintendo gamcube.7z:
     url: "/assets/downloads/nintendo gamcube.7z"

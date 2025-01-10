@@ -1,9 +1,10 @@
 ---
 title: iKard
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- os-replica
+- dark
 downloads:
   iKard.7z:
     url: "/assets/downloads/iKard.7z"

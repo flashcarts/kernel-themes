@@ -1,9 +1,10 @@
 ---
-title: PurpleHaze
-creator: Unknown
+title: Purple Haze
+creator: 
 description: 
 categories:
-- akmenu
+- dark
+- abstract
 downloads:
   PurpleHaze.7z:
     url: "/assets/downloads/PurpleHaze.7z"

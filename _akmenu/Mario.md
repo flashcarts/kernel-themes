@@ -1,9 +1,12 @@
 ---
 title: Mario
-creator: Unknown
+creator: Chris Hair
 description: 
 categories:
-- akmenu
+- game
+- mario
+- red
+- light
 downloads:
   Mario.7z:
     url: "/assets/downloads/Mario.7z"

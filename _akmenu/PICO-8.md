@@ -1,9 +1,11 @@
 ---
-title: PICO-8
-creator: Unknown
+title: PICO-8 - AKMenu Edition
+creator: Vulpes-Vulpeos & Sanras
 description: 
 categories:
-- akmenu
+- os-replica
+- black
+- dark
 downloads:
   PICO-8.7z:
     url: "/assets/downloads/PICO-8.7z"

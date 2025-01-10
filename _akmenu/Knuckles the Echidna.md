@@ -1,9 +1,11 @@
 ---
 title: Knuckles the Echidna
-creator: Unknown
+creator: Biochao
 description: 
 categories:
-- akmenu
+- game
+- red
+- dark
 downloads:
   Knuckles the Echidna.7z:
     url: "/assets/downloads/Knuckles the Echidna.7z"

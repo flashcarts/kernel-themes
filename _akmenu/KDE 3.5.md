@@ -1,9 +1,11 @@
 ---
 title: KDE 3.5
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- light
 downloads:
   KDE 3.5.7z:
     url: "/assets/downloads/KDE 3.5.7z"

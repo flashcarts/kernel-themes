@@ -1,9 +1,11 @@
 ---
 title: Hatsune Miku 10th Anniversary
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- miku
+- blue
+- dark
 downloads:
   Hatsune Miku 10th Anniversary.7z:
     url: "/assets/downloads/Hatsune Miku 10th Anniversary.7z"

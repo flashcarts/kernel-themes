@@ -1,6 +1,6 @@
 ---
 title: gbSkin
-creator: Unknown
+creator:
 description: 
 categories:
 - os-replica

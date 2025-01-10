@@ -1,9 +1,11 @@
 ---
 title: NES
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- abstract
+- red
+- light
 downloads:
   NES.7z:
     url: "/assets/downloads/NES.7z"

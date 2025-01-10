@@ -1,9 +1,12 @@
 ---
-title: PKDXTHM
-creator: Unknown
+title: Pokedex
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- pokemon
+- blue
+- light
 downloads:
   PKDXTHM.7z:
     url: "/assets/downloads/PKDXTHM.7z"

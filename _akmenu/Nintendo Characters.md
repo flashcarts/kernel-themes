@@ -1,9 +1,12 @@
 ---
 title: Nintendo Characters
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- blue
+- light
 downloads:
   Nintendo Characters.7z:
     url: "/assets/downloads/Nintendo Characters.7z"

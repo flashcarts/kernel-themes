@@ -4,6 +4,7 @@ creator:
 description: 
 categories:
 - dark
+- black
 - blue
 - game
 - pokemon

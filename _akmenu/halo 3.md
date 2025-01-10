@@ -1,9 +1,10 @@
 ---
-title: halo 3
-creator: Unknown
+title: Halo 3
+creator:
 description: 
 categories:
-- akmenu
+- game
+- dark
 downloads:
   halo 3.7z:
     url: "/assets/downloads/halo 3.7z"

@@ -1,9 +1,12 @@
 ---
-title: PGearRed
-creator: Unknown
+title: PokeGear Red
+creator: 
 description: 
 categories:
-- akmenu
+- pokemon
+- game
+- red
+- dark
 downloads:
   PGearRed.7z:
     url: "/assets/downloads/PGearRed.7z"
