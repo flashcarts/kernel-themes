@@ -1,5 +1,5 @@
 ---
-title: The Legend of Zelda: Link’s Awakening - Flying Rooster Square
+title: "The Legend of Zelda: Link’s Awakening - Flying Rooster Square"
 creator: Vulpes-Vulpeos
 description: 
 categories:
