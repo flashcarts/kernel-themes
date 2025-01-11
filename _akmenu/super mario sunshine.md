@@ -1,9 +1,11 @@
 ---
-title: super mario sunshine
-creator: Unknown
+title: Super Mario Sunshine
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- light
 downloads:
   super mario sunshine.7z:
     url: "/assets/downloads/super mario sunshine.7z"

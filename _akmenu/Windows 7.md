@@ -1,9 +1,11 @@
 ---
 title: Windows 7
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- light
 downloads:
   Windows 7.7z:
     url: "/assets/downloads/Windows 7.7z"

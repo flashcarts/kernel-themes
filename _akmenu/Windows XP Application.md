@@ -1,9 +1,11 @@
 ---
 title: Windows XP Application
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- light
 downloads:
   Windows XP Application.7z:
     url: "/assets/downloads/Windows XP Application.7z"

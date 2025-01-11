@@ -1,9 +1,11 @@
 ---
 title: Windows 7 Application
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- red
+- light
 downloads:
   Windows 7 Application.7z:
     url: "/assets/downloads/Windows 7 Application.7z"

@@ -1,9 +1,12 @@
 ---
 title: Windows Vista
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- green
+- blue
+- light
 downloads:
   Windows Vista.7z:
     url: "/assets/downloads/Windows Vista.7z"

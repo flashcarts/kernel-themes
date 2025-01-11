@@ -1,9 +1,12 @@
 ---
-title: Winter2010
-creator: Unknown
+title: Winter 2010
+creator: 
 description: 
 categories:
-- akmenu
+- seasonal
+- landscape
+- black
+- dark
 downloads:
   Winter2010.7z:
     url: "/assets/downloads/Winter2010.7z"

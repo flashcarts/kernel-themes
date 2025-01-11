@@ -1,9 +1,12 @@
 ---
 title: Space Smash Mario
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- black
+- dark
 downloads:
   Space Smash Mario.7z:
     url: "/assets/downloads/Space Smash Mario.7z"

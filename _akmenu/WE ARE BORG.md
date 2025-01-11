@@ -1,9 +1,11 @@
 ---
 title: WE ARE BORG
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- green
+- abstract
+- dark
 downloads:
   WE ARE BORG.7z:
     url: "/assets/downloads/WE ARE BORG.7z"

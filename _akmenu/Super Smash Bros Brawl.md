@@ -1,9 +1,12 @@
 ---
 title: Super Smash Bros Brawl
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- red
+- light
 downloads:
   Super Smash Bros Brawl.7z:
     url: "/assets/downloads/Super Smash Bros Brawl.7z"

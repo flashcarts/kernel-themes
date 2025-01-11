@@ -1,9 +1,11 @@
 ---
-title: TrainSpiritTracks
-creator: Unknown
+title: "The Legend of Zelda: Spirit Tracks"
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- zelda
+- light
 downloads:
   TrainSpiritTracks.7z:
     url: "/assets/downloads/TrainSpiritTracks.7z"

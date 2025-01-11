@@ -1,9 +1,12 @@
 ---
-title: SuperMarioGalaxy
-creator: Unknown
+title: Super Mario Galaxy
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- black
+- dark
 downloads:
   SuperMarioGalaxy.7z:
     url: "/assets/downloads/SuperMarioGalaxy.7z"

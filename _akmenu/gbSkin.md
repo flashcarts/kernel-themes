@@ -1,5 +1,5 @@
 ---
-title: gbSkin
+title: Gameboy
 creator:
 description: 
 categories:

@@ -1,9 +1,11 @@
 ---
-title: TRIFORCE
-creator: Unknown
+title: Zelda - TriForce
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- zelda
+- light
 downloads:
   TRIFORCE.7z:
     url: "/assets/downloads/TRIFORCE.7z"

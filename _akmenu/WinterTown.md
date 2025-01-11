@@ -1,9 +1,11 @@
 ---
-title: WinterTown
-creator: Unknown
+title: Winter Town
+creator: 
 description: 
 categories:
-- akmenu
+- seasonal
+- landscape
+- dark
 downloads:
   WinterTown.7z:
     url: "/assets/downloads/WinterTown.7z"

@@ -1,5 +1,5 @@
 ---
-title: DodgeViperSRT10
+title: Dodge Viper SRT 10
 creator:
 description: 
 categories:

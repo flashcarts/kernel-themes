@@ -1,9 +1,14 @@
 ---
-title: zelda
-creator: Unknown
+title: Zelda
+creator: Acekard Team
 description: 
 categories:
 - akmenu
+- green
+- zelda
+- game
+- stock
+- light
 downloads:
   zelda.7z:
     url: "/assets/downloads/zelda.7z"

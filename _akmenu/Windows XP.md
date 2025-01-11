@@ -1,9 +1,11 @@
 ---
 title: Windows XP
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- light
 downloads:
   Windows XP.7z:
     url: "/assets/downloads/Windows XP.7z"

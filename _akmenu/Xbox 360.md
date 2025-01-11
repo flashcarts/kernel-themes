@@ -1,9 +1,11 @@
 ---
 title: Xbox 360
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- green
+- light
 downloads:
   Xbox 360.7z:
     url: "/assets/downloads/Xbox 360.7z"

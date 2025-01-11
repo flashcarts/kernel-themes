@@ -1,9 +1,11 @@
 ---
-title: yoshi_island
-creator: Unknown
+title: Yoshi Island
+creator: Sarah Evans
 description: 
 categories:
-- akmenu
+- mario
+- blue
+- light
 downloads:
   yoshi_island.7z:
     url: "/assets/downloads/yoshi_island.7z"

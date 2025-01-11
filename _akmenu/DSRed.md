@@ -1,5 +1,5 @@
 ---
-title: DSRed
+title: DS Red
 creator:
 description: 
 categories:

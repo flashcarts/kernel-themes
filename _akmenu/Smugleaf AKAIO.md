@@ -1,9 +1,11 @@
 ---
 title: Smugleaf AKAIO
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- pokemon
+- light
 downloads:
   Smugleaf AKAIO.7z:
     url: "/assets/downloads/Smugleaf AKAIO.7z"

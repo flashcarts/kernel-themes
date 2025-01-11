@@ -1,9 +1,13 @@
 ---
-title: ShyGuy
-creator: Unknown
+title: Shy Guy
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- red
+- black
+- dark
 downloads:
   ShyGuy.7z:
     url: "/assets/downloads/ShyGuy.7z"

@@ -1,9 +1,11 @@
 ---
 title: Windows Media Player
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- dark
+- black
 downloads:
   Windows Media Player.7z:
     url: "/assets/downloads/Windows Media Player.7z"

@@ -1,9 +1,10 @@
 ---
 title: Vyanjan
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- abstract
+- dark
 downloads:
   Vyanjan.7z:
     url: "/assets/downloads/Vyanjan.7z"

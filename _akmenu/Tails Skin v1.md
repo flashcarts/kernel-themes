@@ -1,9 +1,10 @@
 ---
-title: Tails Skin v1
-creator: Unknown
+title: Tails
+creator: Biochao
 description: 
 categories:
-- akmenu
+- game
+- light
 downloads:
   Tails Skin v1.7z:
     url: "/assets/downloads/Tails Skin v1.7z"

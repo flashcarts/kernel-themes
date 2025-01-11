@@ -1,9 +1,11 @@
 ---
 title: Silent Hill 4
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- black
+- dark
 downloads:
   Silent Hill 4.7z:
     url: "/assets/downloads/Silent Hill 4.7z"

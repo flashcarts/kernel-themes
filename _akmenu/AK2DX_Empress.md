@@ -1,5 +1,5 @@
 ---
-title: AK2DX_Empress
+title: AK2DX Empress
 creator: Piri_Silber
 description: 
 categories:
