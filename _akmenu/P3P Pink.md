@@ -1,9 +1,12 @@
 ---
-title: P3P Pink
-creator: Unknown
+title: Persona 3 Portable - Pink
+creator: jurassicplayer
 description: 
 categories:
-- akmenu
+- game
+- anime
+- red
+- dark
 downloads:
   P3P Pink.7z:
     url: "/assets/downloads/P3P Pink.7z"

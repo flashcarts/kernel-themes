@@ -1,9 +1,11 @@
 ---
 title: Stardew Valley
-creator: Unknown
+creator: ManuJeroZX
 description: 
 categories:
-- akmenu
+- game
+- landscape
+- light
 downloads:
   Stardew Valley.7z:
     url: "/assets/downloads/Stardew Valley.7z"

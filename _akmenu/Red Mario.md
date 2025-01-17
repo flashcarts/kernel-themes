@@ -1,9 +1,13 @@
 ---
 title: Red Mario
-creator: Unknown
+creator: Cryonics
 description: 
 categories:
-- akmenu
+- mario
+- game
+- red
+- black
+- dark
 downloads:
   Red Mario.7z:
     url: "/assets/downloads/Red Mario.7z"

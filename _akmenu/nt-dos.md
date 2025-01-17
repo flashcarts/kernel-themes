@@ -1,9 +1,11 @@
 ---
-title: nt-dos
-creator: Unknown
+title: NT-DOS
+creator: Chris Winters
 description: 
 categories:
-- akmenu
+- os-replica
+- black
+- dark
 downloads:
   nt-dos.7z:
     url: "/assets/downloads/nt-dos.7z"

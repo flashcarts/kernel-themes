@@ -1,9 +1,12 @@
 ---
 title: Cyberpunk
-creator: Unknown
+creator: AkulaStas
 description: 
 categories:
-- akmenu
+- red
+- black
+- abstract
+- dark
 downloads:
   Cyberpunk.7z:
     url: "/assets/downloads/Cyberpunk.7z"

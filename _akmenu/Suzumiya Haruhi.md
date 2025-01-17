@@ -1,9 +1,10 @@
 ---
 title: Suzumiya Haruhi
-creator: Unknown
+creator: jurassicplayer
 description: 
 categories:
-- akmenu
+- anime
+- light
 downloads:
   Suzumiya Haruhi.7z:
     url: "/assets/downloads/Suzumiya Haruhi.7z"

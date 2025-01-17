@@ -1,9 +1,11 @@
 ---
-title: pokemon 20th
-creator: Unknown
+title: Pokemon 20th Anniversary
+creator: CrazyThemes
 description: 
 categories:
-- akmenu
+- game
+- pokemon
+- light
 downloads:
   pokemon 20th.7z:
     url: "/assets/downloads/pokemon 20th.7z"

@@ -1,9 +1,13 @@
 ---
 title: Zorua [Animated]
-creator: Unknown
+creator: Snailface
 description: 
 categories:
-- akmenu
+- game
+- pokemon
+- animated
+- black
+- dark
 downloads:
   Zorua [Animated].7z:
     url: "/assets/downloads/Zorua [Animated].7z"

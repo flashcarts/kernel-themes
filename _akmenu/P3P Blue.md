@@ -1,9 +1,12 @@
 ---
-title: P3P Blue
-creator: Unknown
+title: Persona 3 Portable - Blue
+creator: jurassicplayer
 description: 
 categories:
-- akmenu
+- game
+- blue
+- anime
+- dark
 downloads:
   P3P Blue.7z:
     url: "/assets/downloads/P3P Blue.7z"

@@ -1,9 +1,10 @@
 ---
-title: CD - Indigo
-creator: Unknown
+title: Clean Dark - Indigo
+creator: johnbear
 description: 
 categories:
-- akmenu
+- abstract
+- dark
 downloads:
   CD - Indigo.7z:
     url: "/assets/downloads/CD - Indigo.7z"

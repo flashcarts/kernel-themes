@@ -1,9 +1,12 @@
 ---
-title: N Harmonia Skin
-creator: Unknown
+title: N Harmonia
+creator: cam74dpg
 description: 
 categories:
-- akmenu
+- game
+- pokemon
+- green
+- light
 downloads:
   N Harmonia Skin.7z:
     url: "/assets/downloads/N Harmonia Skin.7z"

@@ -1,9 +1,11 @@
 ---
-title: CD - Strawberry
-creator: Unknown
+title: Clean Dark - Strawberry
+creator: johnbear
 description: 
 categories:
-- akmenu
+- abstract
+- red
+- dark
 downloads:
   CD - Strawberry.7z:
     url: "/assets/downloads/CD - Strawberry.7z"

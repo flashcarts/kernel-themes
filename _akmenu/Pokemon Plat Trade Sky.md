@@ -1,9 +1,12 @@
 ---
-title: Pokemon Plat Trade Sky
-creator: Unknown
+title: Pokemon Platinum Trading Sky
+creator: Exaltys
 description: 
 categories:
-- akmenu
+- game
+- pokemon
+- blue
+- light
 downloads:
   Pokemon Plat Trade Sky.7z:
     url: "/assets/downloads/Pokemon Plat Trade Sky.7z"

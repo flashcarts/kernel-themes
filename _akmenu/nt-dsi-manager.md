@@ -1,9 +1,12 @@
 ---
-title: nt-dsi-manager
-creator: Unknown
+title: NT-DSi-Manager
+creator: Glitchk0ud1001
 description: 
 categories:
-- akmenu
+- os-replica
+- anime
+- black
+- dark
 downloads:
   nt-dsi-manager.7z:
     url: "/assets/downloads/nt-dsi-manager.7z"

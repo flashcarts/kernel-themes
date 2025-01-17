@@ -1,9 +1,12 @@
 ---
 title: Super Mario Galaxy
-creator: Unknown
+creator: CrazyThemes
 description: 
 categories:
-- akmenu
+- game
+- mario
+- green
+- dark
 downloads:
   Super Mario Galaxy.7z:
     url: "/assets/downloads/Super Mario Galaxy.7z"

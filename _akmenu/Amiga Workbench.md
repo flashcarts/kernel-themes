@@ -1,9 +1,11 @@
 ---
 title: Amiga Workbench
-creator: Unknown
+creator: msxer
 description: 
 categories:
-- akmenu
+- os-replica
+- light
+- blue
 downloads:
   Amiga Workbench.7z:
     url: "/assets/downloads/Amiga Workbench.7z"

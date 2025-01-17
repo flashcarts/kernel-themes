@@ -1,9 +1,12 @@
 ---
 title: PiPBoy
-creator: Unknown
+creator: MOOZIX
 description: 
 categories:
-- akmenu
+- game
+- green
+- dark
+- black
 downloads:
   PiPBoy.7z:
     url: "/assets/downloads/PiPBoy.7z"

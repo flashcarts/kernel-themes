@@ -1,9 +1,10 @@
 ---
 title: Centorea
-creator: Unknown
+creator: Glitchk0ud1001
 description: 
 categories:
-- akmenu
+- anime
+- light
 downloads:
   Centorea.7z:
     url: "/assets/downloads/Centorea.7z"

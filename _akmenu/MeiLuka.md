@@ -1,9 +1,11 @@
 ---
 title: MeiLuka
-creator: Unknown
+creator: Lyrica
 description: 
 categories:
-- akmenu
+- miku
+- anime
+- light
 downloads:
   MeiLuka.7z:
     url: "/assets/downloads/MeiLuka.7z"

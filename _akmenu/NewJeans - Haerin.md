@@ -1,9 +1,10 @@
 ---
 title: NewJeans - Haerin
-creator: Unknown
+creator: freshberries
 description: 
 categories:
-- akmenu
+- music
+- light
 downloads:
   NewJeans - Haerin.7z:
     url: "/assets/downloads/NewJeans - Haerin.7z"

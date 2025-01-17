@@ -1,9 +1,10 @@
 ---
-title: CD - Candy
-creator: Unknown
+title: Clean Dark - Candy
+creator: johnbear
 description: 
 categories:
-- akmenu
+- abstract
+- dark
 downloads:
   CD - Candy.7z:
     url: "/assets/downloads/CD - Candy.7z"

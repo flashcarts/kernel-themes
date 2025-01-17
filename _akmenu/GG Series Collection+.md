@@ -1,9 +1,11 @@
 ---
 title: GG Series Collection+
-creator: Unknown
+creator: jurassicplayer
 description: 
 categories:
-- akmenu
+- anime
+- green
+- light
 downloads:
   GG Series Collection+.7z:
     url: "/assets/downloads/GG Series Collection+.7z"

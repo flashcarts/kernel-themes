@@ -1,9 +1,12 @@
 ---
 title: Angel Beats!
-creator: Unknown
+creator: ChadrCheze
 description: 
 categories:
-- akmenu
+- anime
+- red
+- black
+- light
 downloads:
   Angel Beats!.7z:
     url: "/assets/downloads/Angel Beats!.7z"

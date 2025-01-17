@@ -1,9 +1,13 @@
 ---
 title: Pink Peach
-creator: Unknown
+creator: Cryonics
 description: 
 categories:
-- akmenu
+- mario
+- game
+- red
+- black
+- dark
 downloads:
   Pink Peach.7z:
     url: "/assets/downloads/Pink Peach.7z"

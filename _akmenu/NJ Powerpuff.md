@@ -1,9 +1,10 @@
 ---
-title: NJ Powerpuff
-creator: Unknown
+title: NewJeans Powerpuff
+creator: freshberries
 description: 
 categories:
-- akmenu
+- music
+- light
 downloads:
   NJ Powerpuff.7z:
     url: "/assets/downloads/NJ Powerpuff.7z"

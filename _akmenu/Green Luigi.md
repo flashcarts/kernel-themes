@@ -1,9 +1,13 @@
 ---
 title: Green Luigi
-creator: Unknown
+creator: Cryonics
 description: 
 categories:
-- akmenu
+- mario
+- game
+- green
+- black
+- dark
 downloads:
   Green Luigi.7z:
     url: "/assets/downloads/Green Luigi.7z"

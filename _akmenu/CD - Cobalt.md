@@ -1,9 +1,11 @@
 ---
-title: CD - Cobalt
-creator: Unknown
+title: Clean Dark - Cobalt
+creator: johnbear
 description: 
 categories:
-- akmenu
+- abstract
+- blue
+- dark
 downloads:
   CD - Cobalt.7z:
     url: "/assets/downloads/CD - Cobalt.7z"

@@ -1,9 +1,11 @@
 ---
 title: SGA Atlantis
-creator: Unknown
+creator: Prime Zero
 description: 
 categories:
-- akmenu
+- abstract
+- blue
+- dark
 downloads:
   SGA Atlantis.7z:
     url: "/assets/downloads/SGA Atlantis.7z"

@@ -1,9 +1,11 @@
 ---
 title: Blue Shooter
-creator: Unknown
+creator: jurassicplayer
 description: 
 categories:
-- akmenu
+- anime
+- blue
+- dark
 downloads:
   Blue Shooter.7z:
     url: "/assets/downloads/Blue Shooter.7z"

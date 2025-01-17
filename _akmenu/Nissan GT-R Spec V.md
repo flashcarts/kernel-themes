@@ -1,9 +1,11 @@
 ---
 title: Nissan GT-R Spec V
-creator: Unknown
+creator: arpeejajo
 description: 
 categories:
-- akmenu
+- cars
+- black
+- dark
 downloads:
   Nissan GT-R Spec V.7z:
     url: "/assets/downloads/Nissan GT-R Spec V.7z"

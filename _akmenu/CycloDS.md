@@ -1,9 +1,11 @@
 ---
 title: CycloDS
-creator: Unknown
+creator: darkone150
 description: 
 categories:
-- akmenu
+- os-replica
+- green
+- light
 downloads:
   CycloDS.7z:
     url: "/assets/downloads/CycloDS.7z"

@@ -1,9 +1,12 @@
 ---
 title: Tetris [Animated]
-creator: Unknown
+creator: Snailface
 description: 
 categories:
-- akmenu
+- game
+- black
+- animated
+- dark
 downloads:
   Tetris [Animated].7z:
     url: "/assets/downloads/Tetris [Animated].7z"

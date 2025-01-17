@@ -1,9 +1,12 @@
 ---
 title: Rokkuman X
-creator: Unknown
+creator: Mirby
 description: 
 categories:
-- akmenu
+- game
+- green
+- blue
+- dark
 downloads:
   Rokkuman X.7z:
     url: "/assets/downloads/Rokkuman X.7z"
