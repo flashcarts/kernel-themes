@@ -1,6 +1,6 @@
 ---
 title: Purple Nebula
-creator: 
+creator: jurassicplayer
 description: 
 categories:
 - dark

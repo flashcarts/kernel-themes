@@ -1,6 +1,6 @@
 ---
 title: GBATemp v1
-creator:
+creator: jurassicplayer
 description: 
 categories:
 - gbatemp

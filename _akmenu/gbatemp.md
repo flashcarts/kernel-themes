@@ -1,6 +1,6 @@
 ---
 title: GBATemp - WoodR4
-creator: Yellow Wood Goblin
+creator: jurassicplayer
 description: 
 categories:
 - woodr4
