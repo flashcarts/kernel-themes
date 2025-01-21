@@ -1,9 +1,11 @@
 ---
 title: Black R4iTT
-creator: Unknown
+creator: TheSegaKid
 description: 
 categories:
-- akmenu
+- os-replica
+- black
+- dark
 downloads:
   Black R4iTT.7z:
     url: "/assets/downloads/Black R4iTT.7z"

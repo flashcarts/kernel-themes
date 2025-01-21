@@ -1,9 +1,12 @@
 ---
 title: Zero Escape-999
-creator: Unknown
+creator: The Minecrafter
 description: 
 categories:
-- akmenu
+- game
+- anime
+- black
+- dark
 downloads:
   Zero Escape-999.7z:
     url: "/assets/downloads/Zero Escape-999.7z"

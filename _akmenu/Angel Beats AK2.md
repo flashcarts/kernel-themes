@@ -1,9 +1,11 @@
 ---
-title: Angel Beats AK2
-creator: Unknown
+title: Angel Beats! AK2
+creator: Ziplashsivery
 description: 
 categories:
-- akmenu
+- anime
+- blue
+- light
 downloads:
   Angel Beats AK2.7z:
     url: "/assets/downloads/Angel Beats AK2.7z"

@@ -1,9 +1,12 @@
 ---
-title: D-Survivor
-creator: Unknown
+title: "SMT: Devil Survivor"
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- abstract
+- red
+- dark
 downloads:
   D-Survivor.7z:
     url: "/assets/downloads/D-Survivor.7z"

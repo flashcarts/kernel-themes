@@ -1,9 +1,12 @@
 ---
 title: AKAIO Blue
-creator: Unknown
+creator: VatoLoco
 description: 
 categories:
-- akmenu
+- akaio
+- abstract
+- blue
+- light
 downloads:
   AKAIO Blue.7z:
     url: "/assets/downloads/AKAIO Blue.7z"

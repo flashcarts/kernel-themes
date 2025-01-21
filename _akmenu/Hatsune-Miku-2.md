@@ -1,9 +1,11 @@
 ---
-title: Hatsune Miku 2
-creator: Unknown
+title: Hatsune Miku
+creator: exangel
 description: 
 categories:
-- akmenu
+- anime
+- miku
+- light
 downloads:
   Hatsune-Miku-2.7z:
     url: "/assets/downloads/Hatsune-Miku-2.7z"

@@ -1,9 +1,11 @@
 ---
-title: ElementalRed
-creator: Unknown
+title: Elemental Red
+creator: 
 description: 
 categories:
-- akmenu
+- abstract
+- red
+- dark
 downloads:
   ElementalRed.7z:
     url: "/assets/downloads/ElementalRed.7z"

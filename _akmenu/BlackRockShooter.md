@@ -1,9 +1,10 @@
 ---
-title: BlackRockShooter
-creator: Unknown
+title: Black Rock Shooter
+creator: exangel
 description: 
 categories:
-- akmenu
+- anime
+- light
 downloads:
   BlackRockShooter.7z:
     url: "/assets/downloads/BlackRockShooter.7z"

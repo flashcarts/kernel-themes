@@ -1,9 +1,12 @@
 ---
 title: RedScope
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- abstract
+- red
+- black
+- dark
 downloads:
   RedScope.7z:
     url: "/assets/downloads/RedScope.7z"

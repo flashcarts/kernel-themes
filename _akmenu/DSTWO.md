@@ -1,9 +1,12 @@
 ---
 title: DSTWO
-creator: Unknown
+creator: YayMii
 description: 
 categories:
-- akmenu
+- os-replica
+- red
+- abstract
+- dark
 downloads:
   DSTWO.7z:
     url: "/assets/downloads/DSTWO.7z"
