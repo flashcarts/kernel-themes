@@ -1,9 +1,11 @@
 ---
 title: DSi Aqua
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- blue
+- abstract
+- light
 downloads:
   DSi Aqua.7z:
     url: "/assets/downloads/DSi Aqua.7z"

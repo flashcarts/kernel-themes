@@ -1,9 +1,12 @@
 ---
 title: AceKard 7i
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- abstract
+- light
 downloads:
   AceKard 7i.7z:
     url: "/assets/downloads/AceKard 7i.7z"

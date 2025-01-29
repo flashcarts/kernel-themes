@@ -1,9 +1,11 @@
 ---
 title: DSi Dark
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- abstract
+- black
+- dark
 downloads:
   DSi Dark.7z:
     url: "/assets/downloads/DSi Dark.7z"

@@ -1,9 +1,12 @@
 ---
-title: Bowser The Inside Story
-creator: Unknown
+title: "Mario & Luigi: Bowser's Inside Story"
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- mario
+- blue
+- dark
 downloads:
   Bowser The Inside Story.7z:
     url: "/assets/downloads/Bowser The Inside Story.7z"

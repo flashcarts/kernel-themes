@@ -1,9 +1,11 @@
 ---
-title: DS Vista U2.3
-creator: Unknown
+title: DS Vista v2.3
+creator: Gamer-D
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- dark
 downloads:
   DS Vista U2.3.7z:
     url: "/assets/downloads/DS Vista U2.3.7z"

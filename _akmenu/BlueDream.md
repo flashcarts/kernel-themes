@@ -1,9 +1,11 @@
 ---
-title: BlueDream
-creator: Unknown
+title: Blue Dreams
+creator: 
 description: 
 categories:
-- akmenu
+- abstract
+- blue
+- light
 downloads:
   BlueDream.7z:
     url: "/assets/downloads/BlueDream.7z"

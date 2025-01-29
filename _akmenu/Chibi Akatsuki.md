@@ -1,9 +1,11 @@
 ---
 title: Chibi Akatsuki
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- anime
+- black
+- dark
 downloads:
   Chibi Akatsuki.7z:
     url: "/assets/downloads/Chibi Akatsuki.7z"

@@ -1,9 +1,10 @@
 ---
-title: DSlite
+title: DS Lite - Acekard 2
 creator: Unknown
 description: 
 categories:
 - akmenu
+- light
 downloads:
   DSlite.7z:
     url: "/assets/downloads/DSlite.7z"

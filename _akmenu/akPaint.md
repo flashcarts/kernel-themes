@@ -1,9 +1,11 @@
 ---
 title: akPaint
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- abstract
+- black
+- dark
 downloads:
   akPaint.7z:
     url: "/assets/downloads/akPaint.7z"

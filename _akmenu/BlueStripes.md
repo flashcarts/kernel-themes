@@ -1,9 +1,12 @@
 ---
-title: BlueStripes
-creator: Unknown
+title: Blue Stripes
+creator: 
 description: 
 categories:
 - akmenu
+- abstract
+- blue
+- dark
 downloads:
   BlueStripes.7z:
     url: "/assets/downloads/BlueStripes.7z"

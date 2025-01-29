@@ -1,9 +1,11 @@
 ---
 title: DSi Menu
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- os-replica
+- dark
+- black
 downloads:
   DSi Menu.7z:
     url: "/assets/downloads/DSi Menu.7z"

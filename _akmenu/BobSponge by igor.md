@@ -1,9 +1,11 @@
 ---
-title: BobSponge by igor
-creator: Unknown
+title: SpongeBob
+creator: Igor
 description: 
 categories:
-- akmenu
+- game
+- landscape
+- light
 downloads:
   BobSponge by igor.7z:
     url: "/assets/downloads/BobSponge by igor.7z"

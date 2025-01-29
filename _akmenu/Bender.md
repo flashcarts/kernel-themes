@@ -1,9 +1,10 @@
 ---
 title: Bender
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- blue
+- light
 downloads:
   Bender.7z:
     url: "/assets/downloads/Bender.7z"

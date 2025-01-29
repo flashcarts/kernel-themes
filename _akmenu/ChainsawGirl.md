@@ -1,9 +1,12 @@
 ---
-title: ChainsawGirl
-creator: Unknown
+title: Chainsaw Girl
+creator: 
 description: 
 categories:
-- akmenu
+- anime
+- abstract
+- blue
+- light
 downloads:
   ChainsawGirl.7z:
     url: "/assets/downloads/ChainsawGirl.7z"

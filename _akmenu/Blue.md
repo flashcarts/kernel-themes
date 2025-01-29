@@ -1,9 +1,11 @@
 ---
 title: Blue
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- abstract
+- blue
+- light
 downloads:
   Blue.7z:
     url: "/assets/downloads/Blue.7z"

@@ -1,9 +1,12 @@
 ---
-title: AnimeTuna
-creator: Unknown
+title: "Love Plus: Rinko - Tuna"
+creator: 
 description: 
 categories:
-- akmenu
+- game
+- anime
+- loveplus
+- light
 downloads:
   AnimeTuna.7z:
     url: "/assets/downloads/AnimeTuna.7z"

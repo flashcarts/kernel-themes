@@ -1,9 +1,12 @@
 ---
 title: akEQ
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- abstract
+- music
+- black
+- dark
 downloads:
   akEQ.7z:
     url: "/assets/downloads/akEQ.7z"

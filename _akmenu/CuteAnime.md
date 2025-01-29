@@ -1,9 +1,10 @@
 ---
-title: CuteAnime
-creator: Unknown
+title: Cute Anime
+creator: 
 description: 
 categories:
-- akmenu
+- anime
+- light
 downloads:
   CuteAnime.7z:
     url: "/assets/downloads/CuteAnime.7z"

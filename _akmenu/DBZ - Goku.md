@@ -1,9 +1,10 @@
 ---
-title: DBZ - Goku
-creator: Unknown
+title: Dragon Ball Z - Goku
+creator: 
 description: 
 categories:
-- akmenu
+- anime
+- light
 downloads:
   DBZ - Goku.7z:
     url: "/assets/downloads/DBZ - Goku.7z"

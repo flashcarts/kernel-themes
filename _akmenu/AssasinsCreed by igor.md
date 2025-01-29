@@ -1,9 +1,10 @@
 ---
-title: AssasinsCreed by igor
-creator: Unknown
+title: Assasins Creed
+creator: Igor
 description: 
 categories:
-- akmenu
+- game
+- dark
 downloads:
   AssasinsCreed by igor.7z:
     url: "/assets/downloads/AssasinsCreed by igor.7z"
