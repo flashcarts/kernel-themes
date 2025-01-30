@@ -1,6 +1,6 @@
 ---
 title: Hatsune Miku
-creator:
+creator: Dralucard BRM
 description: 
 categories:
 - miku

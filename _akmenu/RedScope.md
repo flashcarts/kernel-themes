@@ -1,6 +1,6 @@
 ---
 title: RedScope
-creator: 
+creator: Murdyll
 description: 
 categories:
 - abstract

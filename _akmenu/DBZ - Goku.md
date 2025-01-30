@@ -1,6 +1,6 @@
 ---
 title: Dragon Ball Z - Goku
-creator: 
+creator: rofelix
 description: 
 categories:
 - anime

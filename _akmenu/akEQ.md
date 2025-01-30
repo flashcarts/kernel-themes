@@ -1,6 +1,6 @@
 ---
 title: akEQ
-creator:
+creator: dangy
 description: 
 categories:
 - abstract

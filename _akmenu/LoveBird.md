@@ -1,9 +1,11 @@
 ---
-title: LoveBird
-creator: Unknown
+title: Love Bird
+creator: Lizz0784
 description: 
 categories:
-- akmenu
+- abstract
+- dark
+- black
 downloads:
   LoveBird.7z:
     url: "/assets/downloads/LoveBird.7z"

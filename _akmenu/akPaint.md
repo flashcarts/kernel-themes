@@ -1,6 +1,6 @@
 ---
 title: akPaint
-creator:
+creator: dangy
 description: 
 categories:
 - abstract
