@@ -1,9 +1,11 @@
 ---
-title: PSPiAK2i
-creator: Unknown
+title: PSPi AK2i
+creator: Chepe
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- light
 downloads:
   PSPiAK2i.7z:
     url: "/assets/downloads/PSPiAK2i.7z"
