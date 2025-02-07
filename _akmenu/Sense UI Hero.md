@@ -1,6 +1,6 @@
 ---
-title: Sense UI
-creator: 
+title: HTC Sense UI
+creator: Sonic0509
 description: 
 categories:
 - os-replica

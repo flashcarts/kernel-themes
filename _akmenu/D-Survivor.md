@@ -1,6 +1,6 @@
 ---
 title: "SMT: Devil Survivor"
-creator: 
+creator: Diego Liberal
 description: 
 categories:
 - game

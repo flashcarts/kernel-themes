@@ -1,9 +1,11 @@
 ---
 title: r4isdhc
-creator: Unknown
+creator: r4isdhc.com
 description: 
 categories:
-- akmenu
+- stock
+- abstract
+- dark
 downloads:
   r4isdhc.7z:
     url: "/assets/downloads/r4isdhc.7z"

@@ -1,9 +1,12 @@
 ---
-title: VistaBlueStripes
-creator: Unknown
+title: Vista Blue Stripes
+creator: fokkusuhaundo
 description: 
 categories:
-- akmenu
+- os-replica
+- blue
+- abstract
+- light
 downloads:
   VistaBlueStripes.7z:
     url: "/assets/downloads/VistaBlueStripes.7z"
