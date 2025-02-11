@@ -2,7 +2,7 @@
 
 This site is a download repository for flashcart kernel themes. Currently, the site is hosting AKMenu/WoodR4 themes, but more kernels will be added soon.
 
-<https://sanrax.github.io/kernel-themes/>
+<https://themes.flashcarts.net>
 
 ### Building the site locally
 
