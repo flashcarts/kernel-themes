@@ -67,7 +67,7 @@ layout: compress
 											<a class="flex-grow-1" href="{{ app.url | remove: ".html"  | relative_url }}">
 												{% if app.images.size > 0 %}
 													<div class="card-header card-image-header">
-														<img class="card-image" src="{{ app.images[0].url  | relative_url }}" alt="{{ app.images[0].description | default: app.title | escape }}" loading="lazy">
+														<img class="card-image" src="{{ app.images[0].url }}" alt="{{ app.images[0].description | default: app.title | escape }}" loading="lazy">
 													</div>
 												{% endif %}
 												<div class="card-body" dir="ltr">
@@ -94,10 +94,10 @@ layout: compress
 	{% include footer.html %}
 
 	{% include common-js.html %}
-	<script src={{"/assets/js/search.js" | relative_url }}></script>
-	<script src={{"/assets/js/modal.js" | relative_url}}></script>
+	<script src="/assets/js/search.js"></script>
+	<script src="/assets/js/modal.js"></script>
 	{% if page.system %}
-		<script src={{"/assets/js/sort.js" | relative_url}}></script>
+		<script src="/assets/js/sort.js"></script>
 	{% endif %}
 </body>
 </html>

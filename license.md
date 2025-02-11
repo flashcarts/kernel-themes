@@ -22,5 +22,5 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-You may view a copy of this license on GitHub: <https://github.com/Sanrax/kernel-themes>
+You may view a copy of this license on GitHub: <https://github.com/flashcarts/kernel-themes>
 ```

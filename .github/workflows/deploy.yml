@@ -23,7 +23,7 @@ jobs:
 
       - name: Run Jekyll
         # Build the site using Jekyll
-        run: JEKYLL_ENV=production bundle exec jekyll build --baseurl "/kernel-themes"
+        run: JEKYLL_ENV=production bundle exec jekyll build
 
         # Copy (or touch) other needed files
         # .nojekyll: to tell GH Pages to not rebuild (lol)

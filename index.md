@@ -11,7 +11,7 @@ title: Home
 
 *Click an option below to browse available themes:*
 
-[![WoodR4/AKMenu]({{site.baseurl}}/assets/images/site-images/AKMenu_TitlePage.png){: width="384" }]({{site.baseurl}}/akmenu/)
+[![WoodR4/AKMenu](/assets/images/site-images/AKMenu_TitlePage.png){: width="384" }](/akmenu/)
 
 ### Site Status
 ---

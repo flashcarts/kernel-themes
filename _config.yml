@@ -1,7 +1,7 @@
 # theme       : jekyll-theme-slate
 title       : "Kernel Themes"
 description : "A repository for flashcart kernel themes"
-repo        : "Sanrax/kernel-themes"
+repo        : "flashcarts/kernel-themes"
 color       : "#B23456"
 image       : "/assets/images/favicon/favicon-196x196.png"
 
