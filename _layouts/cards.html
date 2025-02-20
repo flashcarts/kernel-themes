@@ -44,6 +44,8 @@ layout: compress
 						
 						{% if page.system == "akmenu" %}
 							{% assign cards = site.akmenu %}
+						{% elsif page.system == "ysmenu" %}
+							{% assign cards = site.ysmenu %}
 						{% elsif page.title == "Home" %}
 							{% assign temp = site.card %}
 							{% for item in temp %}

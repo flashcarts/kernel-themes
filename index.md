@@ -11,10 +11,19 @@ title: Home
 
 *Click an option below to browse available themes:*
 
-[![WoodR4/AKMenu](/assets/images/site-images/AKMenu_TitlePage.png){: width="384" }](/akmenu/)
+[![WoodR4/AKMenu](/assets/images/site-images/AKMenu_TitlePage.png){: width="404" style="padding:10px;" }](/akmenu/)
+[![YSMenu](/assets/images/site-images/YSMenu_TitlePage.png){: width="404" style="padding:10px;" }](/ysmenu/)
 
 ### Site Status
 ---
+
+#### [2/19/2025]
+
+- Initial YSMenu support has been added, and the YSMenu page now hosts the stock themes YSMenu ships with. More themes will be added soon!
+
+- Some more AKMenu themes have been tagged and had authors updated. Not all of them are tagged just yet.
+
+- Help is appreciated! If you would like to add a theme to the website, please fork the repo and create a pull request. Theme screenshots are captured by emulating an R4 with melonDS 1.0-RC.
 
 #### [1/21/2025]
 

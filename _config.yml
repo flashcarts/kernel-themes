@@ -22,3 +22,5 @@ defaults:
 collections:
   akmenu:
     output: true
+  ysmenu:
+    output: true
