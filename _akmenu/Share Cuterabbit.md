@@ -1,9 +1,10 @@
 ---
 title: Share Cuterabbit
-creator: Unknown
+creator: mochi
 description: 
 categories:
-- akmenu
+- anime
+- light
 downloads:
   Share Cuterabbit.7z:
     url: "/assets/downloads/Share Cuterabbit.7z"

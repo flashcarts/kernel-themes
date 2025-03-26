@@ -1,9 +1,11 @@
 ---
 title: SkullCandy
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- blue
+- light
+- abstract
 downloads:
   SkullCandy.7z:
     url: "/assets/downloads/SkullCandy.7z"

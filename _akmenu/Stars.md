@@ -1,9 +1,13 @@
 ---
 title: Stars
-creator: Unknown
+creator: 
 description: 
 categories:
-- akmenu
+- abstract
+- landscape
+- dark
+- blue
+- black
 downloads:
   Stars.7z:
     url: "/assets/downloads/Stars.7z"

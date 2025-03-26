@@ -1,9 +1,11 @@
 ---
 title: SkyPic
-creator: Unknown
+creator: mochi
 description: 
 categories:
-- akmenu
+- landscape
+- dark
+- black
 downloads:
   SkyPic.7z:
     url: "/assets/downloads/SkyPic.7z"

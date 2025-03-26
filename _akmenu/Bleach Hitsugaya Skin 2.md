@@ -1,9 +1,11 @@
 ---
 title: Bleach Hitsugaya Skin 2
-creator: Unknown
+creator: darthbleach
 description: 
 categories:
-- akmenu
+- anime
+- blue
+- light
 downloads:
   Bleach Hitsugaya Skin 2.7z:
     url: "/assets/downloads/Bleach Hitsugaya Skin 2.7z"

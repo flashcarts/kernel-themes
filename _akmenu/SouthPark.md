@@ -1,9 +1,11 @@
 ---
-title: SouthPark
-creator: Unknown
+title: South Park
+creator: 
 description: 
 categories:
-- akmenu
+- cartoon
+- green
+- light
 downloads:
   SouthPark.7z:
     url: "/assets/downloads/SouthPark.7z"

@@ -1,9 +1,10 @@
 ---
 title: Super Sonico
-creator: Unknown
+creator:
 description: 
 categories:
-- akmenu
+- anime
+- light
 downloads:
   Super Sonico.7z:
     url: "/assets/downloads/Super Sonico.7z"
