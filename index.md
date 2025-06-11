@@ -17,6 +17,10 @@ title: Home
 ### Site Status
 ---
 
+#### [6/11/2025]
+
+- [ShaolinAssassin YSMenu themes](https://www.deviantart.com/shaolinassassin/gallery/27116814/ysmenu-skins) have been added to the repository.
+
 #### [2/19/2025]
 
 - Initial YSMenu support has been added, and the YSMenu page now hosts the stock themes YSMenu ships with. More themes will be added soon!
