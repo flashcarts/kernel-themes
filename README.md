@@ -1,6 +1,6 @@
 # Flashcart Kernel Themes Index
 
-This site is a download repository for flashcart kernel themes. Currently, the site is hosting AKMenu/WoodR4 themes, but more kernels will be added soon.
+This site is a download repository for flashcart kernel themes. Currently, the site is hosting AKMenu/WoodR4 and YSMenu themes, but more kernels are planned to be added.
 
 <https://themes.flashcarts.net>
 
@@ -14,5 +14,5 @@ This site is a download repository for flashcart kernel themes. Currently, the s
 
 ### License
 
-- All files under the `_akmenu` directory (the theme index) is licensed under CC-BY-NC-SA 4.0. You may read more in `LICENSE-docs.txt`.
+- All files under the `_akmenu` and `_ysmenu` directory (the theme index) is licensed under CC-BY-NC-SA 4.0. You may read more in `LICENSE-docs.txt`.
 - All other files are licensed under the GPLv3 license. You may read more in `LICENSE-engine.txt`.
