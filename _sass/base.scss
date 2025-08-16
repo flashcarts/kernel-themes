@@ -1,3 +1,4 @@
+@use "colours";
 // For the bottom aligned footer
 html, body {
 	height: 100%;
@@ -14,16 +15,16 @@ footer {
 }
 
 body {
-	color: $main-color;
-	background-color: $main-bg;
+	color: colours.$main-color;
+	background-color: colours.$main-bg;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: $header-color;
+	color: colours.$header-color;
 }
 
 h2 {
-	border-bottom: 1px solid $borders;
+	border-bottom: 1px solid colours.$borders;
 }
 
 hr {
@@ -31,15 +32,15 @@ hr {
 }
 
 blockquote {
-	color: $blockquote-color;
+	color: colours.$blockquote-color;
 	margin-bottom: 20px;
 	padding: 0 0 0 20px;
-	border-left: 3px solid $borders;
+	border-left: 3px solid colours.$borders;
 }
 
 :not(pre) > code, pre {
-	color: $code-color;
-	background-color: $code-bg;
+	color: colours.$code-color;
+	background-color: colours.$code-bg;
 	padding: 3px;
 	border-radius: 0.25rem;
 }
@@ -63,15 +64,15 @@ a > code {
 }
 
 div.language-bash pre.highlight code::before {
-	content: "$ ";
-	color: $code-light;
+	content: "colours.$ ";
+	color: colours.$code-light;
 }
 
 // .a is for making other things look like <a>s
 a, .a {
 	text-decoration: none;
 	text-decoration-thickness: 1px;
-	color: $a-color;
+	color: colours.$a-color;
 	cursor: pointer;
 }
 a:hover, .a:hover {
@@ -94,7 +95,7 @@ footer a:hover {
 
 small {
 	font-size: 75%;
-	color: $small-color;
+	color: colours.$small-color;
 }
 
 img {
@@ -127,57 +128,57 @@ div .btn-primary:hover {
 
 // Override bootstraps primary color
 .bg-primary {
-	background-color: $primary!important;
+	background-color: colours.$primary!important;
 }
 .btn-primary, .btn-primary:focus {
-	color: $nav-link-color;
-	background-color: $primary!important;
-	border-color: $primary!important;
+	color: colours.$nav-link-color;
+	background-color: colours.$primary!important;
+	border-color: colours.$primary!important;
 }
 .btn-primary:hover, .btn-primary:active {
-	color: $nav-link-color!important;
+	color: colours.$nav-link-color!important;
 	opacity: 0.8;
 }
 .btn-outline-primary {
-	color: $primary;
-	border-color: $primary;
+	color: colours.$primary;
+	border-color: colours.$primary;
 }
 .btn-outline-primary:hover, .btn-outline-primary:active {
-	background-color: $primary!important;
-	border-color: $primary!important;
+	background-color: colours.$primary!important;
+	border-color: colours.$primary!important;
 }
 .text-primary {
-	background-color: $primary!important;
+	background-color: colours.$primary!important;
 }
 
 // Override the secondary text color
 .btn-outline-secondary {
-	color: $main-color;
+	color: colours.$main-color;
 }
 
 .alert-secondary {
-	color: $code-color;
-	background-color: $alert-secondary-bg;
-	border-color: $alert-secondary-border;
+	color: colours.$code-color;
+	background-color: colours.$alert-secondary-bg;
+	border-color: colours.$alert-secondary-border;
 }
 
 // Override the dark text too
 .text-dark {
-	color: $dark!important;
+	color: colours.$dark!important;
 }
 // text-dark that I dont override
 .text-dark-always {
-	color: $dark-always!important;
+	color: colours.$dark-always!important;
 }
 
 // And the light bg
 .bg-light {
-	background-color: $light!important;
-	border-color: $light-border!important;
+	background-color: colours.$light!important;
+	border-color: colours.$light-border!important;
 }
 
 .bg-light::placeholder {
-	color: $light-placeholder;
+	color: colours.$light-placeholder;
 }
 
 // No underline on navbar links
@@ -192,18 +193,18 @@ div .btn-primary:hover {
 
 // Override nav-link color
 .navbar .nav-link {
-	color: $nav-link-color!important;
+	color: colours.$nav-link-color!important;
 }
 .navbar .nav-link:hover {
-	color: $nav-link-color-hover!important;
+	color: colours.$nav-link-color-hover!important;
 }
 
 // And the active nav-link color
 .navbar .nav-link.active {
-	color: $nav-link-color-active!important;
+	color: colours.$nav-link-color-active!important;
 }
 .navbar .nav-link.active:hover {
-	color: $nav-link-color-hover!important;
+	color: colours.$nav-link-color-hover!important;
 }
 
 // Fixes for navbar on older browsers
@@ -225,7 +226,7 @@ html[dir=rtl] .navbar-toggler {
 
 // Make dropdowns site-colored and animated
 .dropdown-menu, .dropdown .hover-content {
-	background-color: $primary;
+	background-color: colours.$primary;
 	-webkit-transition: 300ms ease;
 	transition: 300ms ease;
 	display: block;
@@ -252,14 +253,14 @@ html[dir=rtl] .navbar-toggler {
 }
 
 .dropdown-item {
-	color: $nav-link-color;
+	color: colours.$nav-link-color;
 }
 .dropdown-item.active {
 	background-color: unset;
 }
 .dropdown-item:hover, .dropdown-item:active, .dropdown-item:focus {
-	background-color: $dropdown-item-bg-hover;
-	color: $nav-link-color-hover;
+	background-color: colours.$dropdown-item-bg-hover;
+	color: colours.$nav-link-color-hover;
 }
 
 html:not([dir=rtl]) {
@@ -324,33 +325,33 @@ html[dir=rtl] {
 
 // Input box
 .input-group-text {
-	color: $light-placeholder;
-	background-color: $light;
-	border-color: $light-border;
+	color: colours.$light-placeholder;
+	background-color: colours.$light;
+	border-color: colours.$light-border;
 }
 .form-control, .form-control:focus, .form-control::placeholder {
-	color: $main-color;
-	background-color: $light;
-	border-color: $light-border;
+	color: colours.$main-color;
+	background-color: colours.$light;
+	border-color: colours.$light-border;
 }
 .form-control:disabled {
-	background-color: $light-disabled;
+	background-color: colours.$light-disabled;
 }
 
 .input-group-text, .form-control::-webkit-file-upload-button {
-	background-color: $alert-secondary-bg;
-	color: $main-color;
+	background-color: colours.$alert-secondary-bg;
+	color: colours.$main-color;
 }
 .form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button {
-	background-color: $alert-secondary-border;
+	background-color: colours.$alert-secondary-border;
 }
 // Safari is dumb and doesn't let the Firefox one be with the others
 .form-control::file-selector-button {
-	background-color: $alert-secondary-bg;
-	color: $main-color;
+	background-color: colours.$alert-secondary-bg;
+	color: colours.$main-color;
 }
 .form-control:hover:not(:disabled):not([readonly])::file-selector-button {
-	background-color: $alert-secondary-border;
+	background-color: colours.$alert-secondary-border;
 }
 
 // Cards
@@ -383,11 +384,11 @@ html[dir=rtl] {
 }
 
 .card {
-	background-color: $card-background;
+	background-color: colours.$card-background;
 }
 
 .card-header, .card-footer {
-	background-color: $card-edges-background;
+	background-color: colours.$card-edges-background;
 }
 
 .pointer {
@@ -395,7 +396,7 @@ html[dir=rtl] {
 }
 
 .card-qr {
-	color: $small-color;
+	color: colours.$small-color;
 }
 
 .card-qr:hover {
@@ -407,17 +408,17 @@ html[dir=rtl] {
 }
 
 .modal-content {
-	background-color: $main-bg;
+	background-color: colours.$main-bg;
 }
 .modal-header {
-	border-bottom: $modal-borders;
+	border-bottom: colours.$modal-borders;
 }
 .modal-footer {
-	border-top: $modal-borders;
+	border-top: colours.$modal-borders;
 }
 
 .carousel-label {
-	background-color: $carousel-caption-bg;
+	background-color: colours.$carousel-caption-bg;
 	border-radius: 10px;
 }
 
@@ -453,27 +454,27 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
 
 // File forms
 .form-control {
-	background-color: $main-bg;
-	color: $main-color;
-	border: 1px solid $borders;
+	background-color: colours.$main-bg;
+	color: colours.$main-color;
+	border: 1px solid colours.$borders;
 }
 
 .input-group-text, .form-control::-webkit-file-upload-button {
-	background-color: $secondary-bg;
-	color: $main-color;
-	border: 1px solid $borders;
+	background-color: colours.$secondary-bg;
+	color: colours.$main-color;
+	border: 1px solid colours.$borders;
 }
 .form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button {
-	background-color: $code-bg;
+	background-color: colours.$code-bg;
 }
 // Safari is dumb and don't let the Firefox one be with the others
 .form-control::file-selector-button {
-	background-color: $secondary-bg;
-	color: $main-color;
-	border: 1px solid $borders;
+	background-color: colours.$secondary-bg;
+	color: colours.$main-color;
+	border: 1px solid colours.$borders;
 }
 .form-control:hover:not(:disabled):not([readonly])::file-selector-button {
-	background-color: $code-bg;
+	background-color: colours.$code-bg;
 }
 
 // Tables
@@ -485,14 +486,14 @@ table th {
 }
 table th, table td {
 	padding: 6px 13px;
-	border: 1px solid $light-borders;
+	border: 1px solid colours.$light-borders;
 }
 table tr:nth-child(2n) {
-	background-color: $table-alt-bg;
+	background-color: colours.$table-alt-bg;
 }
 // Fix bootstrap messing up the th bottom borders and dark mode text
 .table>:not(:last-child)>:last-child>* {
-	border-bottom-color: $light-borders;
+	border-bottom-color: colours.$light-borders;
 }
 
 .table {
@@ -504,12 +505,12 @@ kbd {
 	padding: 3px 6px;
 	font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
 	line-height: 10px;
-	color: $main-color;
+	color: colours.$main-color;
 	vertical-align: middle;
-	background-color: $kbd-bg;
-	border: 1px solid $kbd-border;
+	background-color: colours.$kbd-bg;
+	border: 1px solid colours.$kbd-border;
 	border-radius: 6px;
-	box-shadow: inset 0 -1px 0 $kbd-border;
+	box-shadow: inset 0 -1px 0 colours.$kbd-border;
 }
 
 kbd.l {
@@ -529,7 +530,7 @@ kbd.face {
 // Sidebar
 .sidebar-container {
 	font-size: 0.9rem;
-	border: 1px solid $borders;
+	border: 1px solid colours.$borders;
 }
 
 .sidebar-container ul {
@@ -546,7 +547,7 @@ kbd.face {
 }
 
 .details-content {
-	background-color: $details-bg;
+	background-color: colours.$details-bg;
 	margin-left: 1rem;
 	padding: 0.5rem;
 	border-radius: 0.5rem;
@@ -596,7 +597,7 @@ a.footnote::after {
 	flex-wrap: wrap;
 
 	.tab-link {
-		border: 1px solid $borders;
+		border: 1px solid colours.$borders;
 		border-bottom-width: 0;
 		padding: 0.5rem 1rem;
 		transition: 150ms ease;
@@ -647,7 +648,7 @@ a.footnote::after {
 		padding: 1rem 1rem 0 1rem;
 		margin-bottom: 1rem;
 		width: 100%;
-		border: 1px solid $borders;
+		border: 1px solid colours.$borders;
 
 		@media screen and (min-width: 576px) {
 			border-radius: 0 0.25rem 0.25rem 0.25rem;
@@ -668,13 +669,13 @@ a.footnote::after {
 	}
 
 	input:checked + .tab-link:not(:hover):not(:active):not(:focus) {
-		background-color: $borders;
-		border-color: $borders;
+		background-color: colours.$borders;
+		border-color: colours.$borders;
 	}
 	.tab-link:hover, .tab-link:active, .tab-link:focus {
-		color: $borders-hover-color;
-		background-color: $borders-hover;
-		border-color: $borders-hover;
+		color: colours.$borders-hover-color;
+		background-color: colours.$borders-hover;
+		border-color: colours.$borders-hover;
 	}
 }
 
@@ -687,7 +688,7 @@ a.footnote::after {
 		margin-bottom: 0;
 
 		> summary.accordion-button {
-			color: $header-color;
+			color: colours.$header-color;
 
 			// Padding for chevron
 			html[dir=ltr] & {
@@ -715,13 +716,13 @@ a.footnote::after {
 		}
 
 		> .faq {
-			background-color: $active-accordian-bg-color;
+			background-color: colours.$active-accordian-bg-color;
 		}
 
 		&[open] {
 			summary.accordion-button {
-				color: $active-accordian-header-color;
-				background-color: $active-accordian-header-bg-color;
+				color: colours.$active-accordian-header-color;
+				background-color: colours.$active-accordian-header-bg-color;
 
 				&::after {
 					background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%230c63e4'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");

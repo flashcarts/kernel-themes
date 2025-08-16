@@ -2,56 +2,57 @@
 ---
 
 /// Variables
-// Main contents
-$main-bg: #333;
-$main-color: #ccc;
-$secondary-bg: #4f4f4f;
-$header-color: #ddd;
-$borders: #555;
-$borders-hover: #777;
-$borders-hover-color: #fff;
-$light-borders: #444;
-$blockquote-color: #999;
-$code-bg: #5559;
-$code-color: #ddd;
-$code-light: #999;
-$a-color: #58a6ff;
-$small-color: gray;
-$textarea-bg: #303030;
-$textarea-color: #fff;
-$carousel-caption-bg: #333b;
-$table-alt-bg: #303030;
-$kbd-bg: #666;
-$kbd-border: #444;
-$alert-secondary-bg: #444;
-$alert-secondary-border: #2f2f2f;
-$details-bg: #3f3f3f;
-$active-accordian-bg-color: #393939;
-$active-accordian-header-color: #222;
-$active-accordian-header-bg-color: #4477ac;
+@use "colours" with (
+	// Main contents
+	$main-bg: #333,
+	$main-color: #ccc,
+	$secondary-bg: #4f4f4f,
+	$header-color: #ddd,
+	$borders: #555,
+	$borders-hover: #777,
+	$borders-hover-color: #fff,
+	$light-borders: #444,
+	$blockquote-color: #999,
+	$code-bg: #5559,
+	$code-color: #ddd,
+	$code-light: #999,
+	$a-color: #58a6ff,
+	$small-color: gray,
+	$textarea-bg: #303030,
+	$textarea-color: #fff,
+	$carousel-caption-bg: #333b,
+	$table-alt-bg: #303030,
+	$kbd-bg: #666,
+	$kbd-border: #444,
+	$alert-secondary-bg: #444,
+	$alert-secondary-border: #2f2f2f,
+	$details-bg: #3f3f3f,
+	$active-accordian-bg-color: #393939,
+	$active-accordian-header-color: #222,
+	$active-accordian-header-bg-color: #4477ac,
 
-// Cards
-$card-background: #444;
-$card-edges-background: rgba(0, 0, 0, 0.15);
+	// Cards
+	$card-background: #444,
+	$card-edges-background: rgba(0, 0, 0, 0.15),
 
-// Modal
-$modal-borders: 1px solid rgba(0, 0, 0, 0.2);
+	// Modal
+	$modal-borders: 1px solid rgba(0, 0, 0, 0.2),
 
-// Nav
-$nav-link-color: rgba(255, 255, 255, 0.7);
-$nav-link-color-hover: rgba(255, 255, 255, 0.5);
-$nav-link-color-active: rgba(255, 255, 255, 1);
-$dropdown-item-bg-hover: rgba(0, 0, 0, 0.3);
-$primary: {{ page.color | default: site.color }};
-$dark: #f8f9fa;
-$dark-always: #343a40;
-$light: #3f3f3f;
-$light-border: #292929;
-$light-placeholder: #999;
-$light-disabled: #303030;
-
+	// Nav
+	$nav-link-color: rgba(255, 255, 255, 0.7),
+	$nav-link-color-hover: rgba(255, 255, 255, 0.5),
+	$nav-link-color-active: rgba(255, 255, 255, 1),
+	$dropdown-item-bg-hover: rgba(0, 0, 0, 0.3),
+	$primary: {{ page.color | default: site.color }},
+	$dark: #f8f9fa,
+	$dark-always: #343a40,
+	$light: #3f3f3f,
+	$light-border: #292929,
+	$light-placeholder: #999,
+	$light-disabled: #303030
+);
 /// Import base style
-@import "base";
+@use "base";
 
 /// CSS Overrides
 // Override FAQ accordian chevron color
