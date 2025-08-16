@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3", ">= 4.3.3"
+gem "jekyll", "~> 4.4", ">= 4.4.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -18,22 +18,10 @@ gem "jekyll", "~> 4.3", ">= 4.3.3"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
-install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
-end
+gem 'tzinfo', '~> 2.0', '>= 2.0.6', platforms: :windows
+gem "tzinfo-data", platforms: :windows
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
+gem "wdm", "~> 0.2.0", platforms: :windows
 
-gem "webrick", "~> 1.8", ">= 1.8.1"
-
-# Removing this will break the site under Arch Linux's provided ruby package (3.0.6-1) as it appears to be missing the json gem.
-gem "json", "~>2.7", ">=2.7.2"
-
-# Add gems removed from Ruby 3.4.0 Standard library
-gem "csv", "~> 3.3", ">=3.3.2"
-gem "base64", "~> 0.2.0"
-
-# Add gems removed from Ruby 3.5.0 Standard library
-gem 'logger', '~> 1.6', '>= 1.6.4'
+gem "webrick", "~> 1.9", ">= 1.9.1"
