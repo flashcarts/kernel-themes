@@ -11,8 +11,7 @@ title: Home
 
 *Click an option below to browse available themes:*
 
-[![WoodR4/AKMenu](/assets/images/site-images/AKMenu_TitlePage.png){: width="404" style="padding:10px;" }](/akmenu/)
-[![YSMenu](/assets/images/site-images/YSMenu_TitlePage.png){: width="404" style="padding:10px;" }](/ysmenu/)
+{% include home-categories.html %}
 
 ### Site Status
 ---

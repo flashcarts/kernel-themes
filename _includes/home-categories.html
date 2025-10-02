@@ -1,0 +1,17 @@
+<div class="row">
+    {% for collection in site.collections %}
+    {% unless collection.label == "posts" %}
+    <div class="col-md-6">
+        <div class="card">
+            <a href="/{{ collection.label }}/">
+            <img src="{{collection.image}}" class="card-img" alt="{{collection.title}} Theme Examples">
+            <div class="card-body">
+                <h4 class="card-text text-center">{{collection.title}}</h4>
+            </div>
+            </a>
+        </div>
+    </div>
+    {% endunless %}
+    {% endfor %}
+</div>
+<br/>

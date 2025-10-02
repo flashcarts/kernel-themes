@@ -22,5 +22,9 @@ defaults:
 collections:
   akmenu:
     output: true
+    title: "WoodR4/AKMenu"
+    image: "/assets/images/site-images/AKMenu_TitlePage.png"
   ysmenu:
     output: true
+    title: "YSMenu"
+    image: "/assets/images/site-images/YSMenu_TitlePage.png"
