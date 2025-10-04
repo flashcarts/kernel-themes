@@ -15,6 +15,11 @@ title: Home
 
 ### Site Status
 ---
+#### [10/3/2025]
+
+- YSMenu themes from NDSThemes.com are now being uploaded to the repository. Currently, themes from authors with usernames A-F have been processed and uploaded.
+- The menu select tiles above have been updated to be dynamic, and will now resize and recolor text to properly support both white and dark theme users.
+- More AKMenu themes will be tagged and uploaded in the future as well, once I am finished working through the YSMenu theme backlog.
 
 #### [6/11/2025]
 
