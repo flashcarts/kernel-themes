@@ -362,6 +362,7 @@ html[dir=rtl] {
 .card a {
 	text-decoration: none;
 	font-weight: normal;
+	color: inherit;
 }
 
 .card a:hover h4, .card a:hover small, .card a:hover p.card-text {
