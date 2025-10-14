@@ -97,11 +97,11 @@ layout: compress
 										<div class="col-12">
 											<h2 class="i18n innerHTML-images">Images</h2>
 											<div id="imageCarousel" class="carousel carousel-dark-when-light slide mb-3" data-bs-ride="carousel">
-												<ol class="carousel-indicators">
+												<div class="carousel-indicators">
 													{% for img in page.images %}
-														<li data-bs-target="#imageCarousel" data-bs-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
+														<button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></button>
 													{% endfor %}
-												</ol>
+												</div>
 												<div class="carousel-inner">
 													{% for img in page.images %}
 														<div class="carousel-item mt-2 mb-2 {% if forloop.first %}active{% endif %}">
