@@ -423,6 +423,12 @@ html[dir=rtl] {
 	border-radius: 10px;
 }
 
+//FCNET CHANGE
+.carousel-indicators {
+	bottom: -2rem;	// keep indicators out of screenshots
+}
+//END FCNET CHANGE
+
 html[dir=lrt] .li-bullet {
 	list-style: disc;
 	margin-left: 1.25em;
