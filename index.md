@@ -15,9 +15,13 @@ title: Home
 
 ### Site Status
 ---
+#### [10/30/2025]
+
+- YSMenu themes from NDSThemes.com with author usernames Q-S have been processed and uploaded.
+
 #### [10/29/2025]
 
-- YSMenu themes from NDSThemes.com with authors usernames G-P have been processed and uploaded.
+- YSMenu themes from NDSThemes.com with author usernames G-P have been processed and uploaded.
 - Website dark mode has been updated to fix color inconsistencies when the site defaults to dark theme rather than being manually selected.
 
 #### [10/3/2025]
