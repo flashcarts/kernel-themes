@@ -17,7 +17,8 @@ title: Home
 ---
 #### [10/30/2025]
 
-- YSMenu themes from NDSThemes.com with author usernames Q-S have been processed and uploaded.
+- YSMenu themes from NDSThemes.com with author usernames Q-Z have been processed and uploaded. This wraps up the collection of YSMenu themes from NDSThemes.com, at least the ones that are recoverable from Internet Archive. I will continue to update the repo with other YSMenu themes if I come across them on other sources.
+- Going forward, Moonshell 2 theme support is planned, and more AKMenu themes will be uploaded, as there is still a large backlog of those waiting to be processed.
 
 #### [10/29/2025]
 
@@ -37,15 +38,11 @@ title: Home
 #### [2/19/2025]
 
 - Initial YSMenu support has been added, and the YSMenu page now hosts the stock themes YSMenu ships with. More themes will be added soon!
-
 - Some more AKMenu themes have been tagged and had authors updated. Not all of them are tagged just yet.
-
 - Help is appreciated! If you would like to add a theme to the website, please fork the repo and create a pull request. Theme screenshots are captured by emulating an R4 with melonDS 1.0-RC.
 
 #### [1/21/2025]
 
 - Currently, the site only hosts WoodR4 themes, YSMenu themes will be added soon. R4iMenu support is planned.
-
 - Not all themes are properly tagged if they were added recently. Themes with "Unknown" authors are untagged. I work on tagging them when I have time.
-
 - Themes that have no author listed are themes that I have tagged, but don't know who made them. If you know or are the author of such a theme, please contact me by email: `sanras[at]flashcarts(dot)net`
