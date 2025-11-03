@@ -25,3 +25,6 @@ gem "tzinfo-data", platforms: :windows
 gem "wdm", "~> 0.2.0", platforms: :windows
 
 gem "webrick", "~> 1.9", ">= 1.9.1"
+
+# Logger will no longer be part of the default gems starting from Ruby 3.5.0. Add it explicitly.
+gem "logger", "~> 1.6", ">= 1.6.4"
