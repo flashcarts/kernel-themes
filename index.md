@@ -15,6 +15,11 @@ title: Home
 
 ### Site Status
 ---
+
+#### [11/12/2025]
+
+- Initial Moonshell 2 support has been added. Currently, only the best Moonshell 2 theme, MikuShell, is hosted to start. However, more Moonshell 2 themes will be added soon.
+
 #### [10/30/2025]
 
 - YSMenu themes from NDSThemes.com with author usernames Q-Z have been processed and uploaded. This wraps up the collection of YSMenu themes from NDSThemes.com, at least the ones that are recoverable from Internet Archive. I will continue to update the repo with other YSMenu themes if I come across them on other sources.
