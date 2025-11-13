@@ -28,3 +28,7 @@ collections:
     output: true
     title: "YSMenu"
     image: "/assets/images/site-images/YSMenu_TitlePage.png"
+  moonshell2:
+    output: true
+    title: "Moonshell 2"
+    image: "/assets/images/site-images/MS2_TitlePage.png"
