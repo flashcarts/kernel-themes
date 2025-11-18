@@ -1,8 +1,9 @@
 <div class="row">
-    {% for collection in site.collections %}
+    {% assign theme_collections = site.collections | sort: "order" %}
+    {% for collection in theme_collections %}
     {% unless collection.label == "posts" %}
     <div class="col-md-6">
-        <div class="card">
+        <div class="card mb-3">
             <a href="/{{ collection.label }}/">
             <img src="{{collection.image}}" class="card-img" alt="{{collection.title}} Theme Examples">
             <div class="card-body">

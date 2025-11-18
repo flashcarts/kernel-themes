@@ -24,11 +24,14 @@ collections:
     output: true
     title: "WoodR4/AKMenu"
     image: "/assets/images/site-images/AKMenu_TitlePage.png"
+    order: 1
   ysmenu:
     output: true
     title: "YSMenu"
     image: "/assets/images/site-images/YSMenu_TitlePage.png"
+    order: 2
   moonshell2:
     output: true
     title: "Moonshell 2"
     image: "/assets/images/site-images/MS2_TitlePage.png"
+    order: 3
