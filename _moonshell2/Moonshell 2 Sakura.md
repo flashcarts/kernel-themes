@@ -19,3 +19,7 @@ images:
 ---
 
 {% include kernels/moonshell2.md moonshell2_themeFile="Moonshell 2 Sakura.7z" moonshell2_themeName="Moonshell 2 Sakura" moonshell2_themeSkn="Moonshell 2 Sakura.skn" %}
+
+### Extras
+
+{% include kernels/ms2-splash.md %}
