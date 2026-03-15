@@ -1,0 +1,1 @@
+- This theme ships with a replacement start-up animation. If you'd like to use the theme's splash instead of Moonshell's default splash, copy `Splash.ani` to `/moonshl2/internal`, replacing the existing file.

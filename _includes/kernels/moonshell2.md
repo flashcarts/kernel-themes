@@ -8,10 +8,6 @@
 
 1. From this folder, copy `{{ include.moonshell2_themeSkn }}` to the `Skins` folder on your SD.
 
-1. [Optional] Some themes ship with a replacement start-up animation. If present, copy `Splash.ani` to `/moonshl2/internal`, replacing the existing file.
-
-1. [Optional] Some themes also ship with replacement sound effects. If present, copy `sndeff.dat` to `/moonshl2/internal`, replacing the existing file.
-
 1. Place the SD card back into your cart, and launch Moonshell 2.
 
 1. In Moonshell 2, navigate to the `Skins` folder and press `A` on `{{ include.moonshell2_themeSkn }}` to apply the theme.

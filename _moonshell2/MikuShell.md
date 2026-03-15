@@ -19,3 +19,9 @@ images:
 ---
 
 {% include kernels/moonshell2.md moonshell2_themeFile="MikuShell.7z" moonshell2_themeName="MikuShell" moonshell2_themeSkn="MikuShell.skn" %}
+
+### Extras
+
+{% include kernels/ms2-splash.md %}
+
+{% include kernels/ms2-sndeff.md %}

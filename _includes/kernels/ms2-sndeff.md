@@ -1,0 +1,1 @@
+- This theme ships with replacement sound effects. If you'd like to use the theme's sound effects, copy `sndeff.dat` to `/moonshl2/internal`, replacing the existing file.
