@@ -16,6 +16,11 @@ title: Home
 ### Site Status
 ---
 
+#### [3/15/2026]
+
+- Moonshell 2 themes I have collected so far from various sources have been imported into the website. There may be a few more Moonshell 2 themes I will add later on from a MS2 theme archive I found as well. Unfortunately, there are not nearly as many themes available for MS2 as popular flashcart kernels like AKMenu or YSMenu.
+- Pico-Launcher theme support is planned. Look out for a Pico-Launcher themes tile in the future!
+
 #### [11/12/2025]
 
 - Initial Moonshell 2 support has been added. Currently, only the best Moonshell 2 theme, MikuShell, is hosted to start. However, more Moonshell 2 themes will be added soon.
