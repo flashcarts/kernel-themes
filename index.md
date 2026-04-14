@@ -16,6 +16,11 @@ title: Home
 ### Site Status
 ---
 
+#### [4/14/2026]
+
+- Pico-Launcher support has been added. Currently, themes from authors with A-D has been added. Themes with multiple layout variants are hosted under one theme tile, with multiple downloads available. More Pico-Launcher themes will be added soon in the next update.
+- More Moonshell 2, AKMenu, and YSMenu themes will still be uploaded in the future, once I am done going through the current batch of Pico-Launcher themes that are available.
+
 #### [3/15/2026]
 
 - Moonshell 2 themes I have collected so far from various sources have been imported into the website. There may be a few more Moonshell 2 themes I will add later on from a MS2 theme archive I found as well. Unfortunately, there are not nearly as many themes available for MS2 as popular flashcart kernels like AKMenu or YSMenu.
