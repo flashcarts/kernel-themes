@@ -30,8 +30,13 @@ collections:
     title: "YSMenu"
     image: "/assets/images/site-images/YSMenu_TitlePage.png"
     order: 2
+  pico:
+    output: true
+    title: "Pico-Launcher"
+    image: "/assets/images/site-images/Pico_TitlePage.png"
+    order: 3
   moonshell2:
     output: true
     title: "Moonshell 2"
     image: "/assets/images/site-images/MS2_TitlePage.png"
-    order: 3
+    order: 4

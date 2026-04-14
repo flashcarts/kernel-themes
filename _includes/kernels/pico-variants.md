@@ -1,0 +1,1 @@
+This theme includes multiple layout variants. To use {{ include.pico_altLayout }} layout, subsitute `{{ include.pico_themeFolder }}` with `{{ include.pico_themeAltFolder }}` in the instructions above.
