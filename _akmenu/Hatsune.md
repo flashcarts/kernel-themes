@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Hatsune.7z
 images:
 - url: "/assets/images/akmenu/Hatsune/1.png"
 - url: "/assets/images/akmenu/Hatsune/2.png"

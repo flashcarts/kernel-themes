@@ -4,6 +4,8 @@ creator: 360ad
 description:
 categories:
 - pico
+downloads:
+- SimpleTerminal.7z
 images:
 - url: "/assets/images/pico/SimpleTerminal/1.png"
 - url: "/assets/images/pico/SimpleTerminal/2.png"

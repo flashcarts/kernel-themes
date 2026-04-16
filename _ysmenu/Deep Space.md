@@ -4,6 +4,8 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
+downloads:
+- Deep Space.7z
 images:
 - url: "/assets/images/ysmenu/Deep Space/1.png"
 ---

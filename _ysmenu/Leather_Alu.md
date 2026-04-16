@@ -4,6 +4,8 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
+downloads:
+- Leather Alu.7z
 images:
 - url: "/assets/images/ysmenu/Leather Alu/1.png"
 ---

@@ -4,6 +4,8 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
+downloads:
+- Sasuke Naruto Shipuuden.7z
 images:
 - url: "/assets/images/ysmenu/Sasuke Naruto Shipuuden/1.png"
 ---

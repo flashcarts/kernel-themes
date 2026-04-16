@@ -4,6 +4,8 @@ creator: Anna
 description: 
 categories:
 - ysmenu
+downloads:
+- NAMIEAMURO.7z
 images:
 - url: "/assets/images/ysmenu/NAMIEAMURO/1.png"
 ---

@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- Charizard.7z
 images:
 - url: "/assets/images/ysmenu/Charizard/1.png"
 ---

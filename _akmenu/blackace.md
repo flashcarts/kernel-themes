@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- blackace.7z
 images:
 - url: "/assets/images/akmenu/blackace/1.png"
 - url: "/assets/images/akmenu/blackace/2.png"

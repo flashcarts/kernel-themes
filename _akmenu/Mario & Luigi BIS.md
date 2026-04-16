@@ -6,6 +6,8 @@ categories:
 - game
 - mario
 - light
+downloads:
+- Mario & Luigi BIS.7z
 images:
 - url: "/assets/images/akmenu/Mario & Luigi BIS/1.png"
 - url: "/assets/images/akmenu/Mario & Luigi BIS/2.png"

@@ -5,6 +5,8 @@ description:
 categories:
 - os-replica
 - light
+downloads:
+- DSFWTWL.7z
 images:
 - url: "/assets/images/akmenu/DSFWTWL/1.png"
 - url: "/assets/images/akmenu/DSFWTWL/2.png"

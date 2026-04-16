@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- NarutoSensei.7z
 images:
 - url: "/assets/images/akmenu/NarutoSensei/1.png"
 - url: "/assets/images/akmenu/NarutoSensei/2.png"

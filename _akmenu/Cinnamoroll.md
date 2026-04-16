@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Cinnamoroll.7z
 images:
 - url: "/assets/images/akmenu/Cinnamoroll/1.png"
 - url: "/assets/images/akmenu/Cinnamoroll/2.png"

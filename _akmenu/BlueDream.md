@@ -6,6 +6,8 @@ categories:
 - abstract
 - blue
 - light
+downloads:
+- BlueDream.7z
 images:
 - url: "/assets/images/akmenu/BlueDream/1.png"
 - url: "/assets/images/akmenu/BlueDream/2.png"

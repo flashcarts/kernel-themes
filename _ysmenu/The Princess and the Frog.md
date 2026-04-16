@@ -4,6 +4,8 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
+downloads:
+- The Princess and the Frog.7z
 images:
 - url: "/assets/images/ysmenu/The Princess and the Frog/1.png"
 ---

@@ -4,6 +4,8 @@ creator: redriolu
 description: 
 categories:
 - ysmenu
+downloads:
+- Little Black Cat.7z
 images:
 - url: "/assets/images/ysmenu/Little Black Cat/1.png"
 ---

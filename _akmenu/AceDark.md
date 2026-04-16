@@ -7,6 +7,8 @@ categories:
 - black
 - dark
 - stock
+downloads:
+- AceDark.7z
 images:
 - url: "/assets/images/akmenu/AceDark/1.png"
 - url: "/assets/images/akmenu/AceDark/2.png"

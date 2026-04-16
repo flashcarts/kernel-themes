@@ -4,6 +4,8 @@ creator: Meronpan
 description: 
 categories:
 - moonshell2
+downloads:
+- Tengen Toppa Gurren Lagann.7z
 images:
 - url: "/assets/images/moonshell2/Tengen Toppa Gurren Lagann/1.png"
 - url: "/assets/images/moonshell2/Tengen Toppa Gurren Lagann/2.png"

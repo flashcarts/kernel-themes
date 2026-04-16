@@ -4,6 +4,8 @@ creator: Dartz
 description:
 categories:
 - pico
+downloads:
+- Shadow the Hedgehog.7z
 images:
 - url: "/assets/images/pico/Shadow the Hedgehog/1.png"
 - url: "/assets/images/pico/Shadow the Hedgehog/2.png"

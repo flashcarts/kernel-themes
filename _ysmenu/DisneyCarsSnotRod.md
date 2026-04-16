@@ -4,6 +4,8 @@ creator: Dragonman
 description: 
 categories:
 - ysmenu
+downloads:
+- DisneyCarsSnotRod.7z
 images:
 - url: "/assets/images/ysmenu/DisneyCarsSnotRod/1.png"
 ---

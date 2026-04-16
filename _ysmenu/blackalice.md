@@ -4,6 +4,8 @@ creator: Anna
 description: 
 categories:
 - ysmenu
+downloads:
+- blackalice.7z
 images:
 - url: "/assets/images/ysmenu/blackalice/1.png"
 ---

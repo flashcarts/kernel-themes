@@ -4,6 +4,8 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
+downloads:
+- Simple Orange.7z
 images:
 - url: "/assets/images/ysmenu/Simple Orange/1.png"
 ---

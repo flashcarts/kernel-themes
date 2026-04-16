@@ -4,6 +4,8 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
+downloads:
+- Fallout 3.7z
 images:
 - url: "/assets/images/ysmenu/Fallout 3/1.png"
 ---

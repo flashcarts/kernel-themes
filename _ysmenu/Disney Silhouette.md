@@ -4,6 +4,8 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
+downloads:
+- Disney Silhouette.7z
 images:
 - url: "/assets/images/ysmenu/Disney Silhouette/1.png"
 ---

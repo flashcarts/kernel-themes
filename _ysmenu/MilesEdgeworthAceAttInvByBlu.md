@@ -4,6 +4,8 @@ creator: blumac
 description: 
 categories:
 - ysmenu
+downloads:
+- MilesEdgeworthAceAttInvByBlu.7z
 images:
 - url: "/assets/images/ysmenu/MilesEdgeworthAceAttInvByBlu/1.png"
 ---

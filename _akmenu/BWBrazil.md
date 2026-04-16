@@ -6,6 +6,8 @@ categories:
 - dark
 - black
 - abstract
+downloads:
+- BWBrazil.7z
 images:
 - url: "/assets/images/akmenu/BWBrazil/1.png"
 - url: "/assets/images/akmenu/BWBrazil/2.png"

@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- Shinee.7z
 images:
 - url: "/assets/images/ysmenu/Shinee/1.png"
 ---

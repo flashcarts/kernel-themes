@@ -6,6 +6,8 @@ categories:
 - blue
 - black
 - dark
+downloads:
+- Blue XMB_None.7z
 images:
 - url: "/assets/images/akmenu/Blue XMB_None/1.png"
 - url: "/assets/images/akmenu/Blue XMB_None/2.png"

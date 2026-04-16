@@ -6,6 +6,8 @@ categories:
 - cartoon
 - green
 - light
+downloads:
+- SouthPark.7z
 images:
 - url: "/assets/images/akmenu/SouthPark/1.png"
 - url: "/assets/images/akmenu/SouthPark/2.png"

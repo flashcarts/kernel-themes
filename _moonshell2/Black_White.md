@@ -4,6 +4,8 @@ creator: antonkan
 description: 
 categories:
 - moonshell2
+downloads:
+- Black_White.7z
 images:
 - url: "/assets/images/moonshell2/Black_White/1.png"
 - url: "/assets/images/moonshell2/Black_White/2.png"

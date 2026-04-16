@@ -4,6 +4,8 @@ creator: NachtaraChecker
 description: 
 categories:
 - moonshell2
+downloads:
+- Neko_Moonshell.7z
 images:
 - url: "/assets/images/moonshell2/Neko_Moonshell/1.png"
 - url: "/assets/images/moonshell2/Neko_Moonshell/2.png"

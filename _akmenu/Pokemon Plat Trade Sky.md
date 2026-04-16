@@ -7,6 +7,8 @@ categories:
 - pokemon
 - blue
 - light
+downloads:
+- Pokemon Plat Trade Sky.7z
 images:
 - url: "/assets/images/akmenu/Pokemon Plat Trade Sky/1.png"
 - url: "/assets/images/akmenu/Pokemon Plat Trade Sky/2.png"

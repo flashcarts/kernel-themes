@@ -4,6 +4,8 @@ creator: newkira
 description: 
 categories:
 - ysmenu
+downloads:
+- Erza Scarlet.7z
 images:
 - url: "/assets/images/ysmenu/Erza Scarlet/1.png"
 ---

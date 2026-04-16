@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Hello Kitty 2.7z
 images:
 - url: "/assets/images/akmenu/Hello Kitty 2/1.png"
 - url: "/assets/images/akmenu/Hello Kitty 2/2.png"

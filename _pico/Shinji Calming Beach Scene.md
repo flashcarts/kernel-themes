@@ -4,6 +4,8 @@ creator: AdoptedJellyFish
 description:
 categories:
 - pico
+downloads:
+- Shinji Calming Beach Scene.7z
 images:
 - url: "/assets/images/pico/Shinji Calming Beach Scene/1.png"
 - url: "/assets/images/pico/Shinji Calming Beach Scene/2.png"

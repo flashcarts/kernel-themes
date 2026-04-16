@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Mario Revolution.7z
 images:
 - url: "/assets/images/akmenu/Mario Revolution/1.png"
 - url: "/assets/images/akmenu/Mario Revolution/2.png"

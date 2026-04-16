@@ -4,6 +4,8 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
+downloads:
+- Pretty Flowers.7z
 images:
 - url: "/assets/images/ysmenu/Pretty Flowers/1.png"
 ---

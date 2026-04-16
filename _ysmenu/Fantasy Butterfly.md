@@ -4,6 +4,8 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
+downloads:
+- Fantasy Butterfly.7z
 images:
 - url: "/assets/images/ysmenu/Fantasy Butterfly/1.png"
 ---

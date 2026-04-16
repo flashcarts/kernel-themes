@@ -4,6 +4,8 @@ creator: newkira
 description: 
 categories:
 - ysmenu
+downloads:
+- Lucy Heartfilia.7z
 images:
 - url: "/assets/images/ysmenu/Lucy Heartfilia/1.png"
 ---

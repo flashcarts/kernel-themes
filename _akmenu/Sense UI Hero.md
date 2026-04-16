@@ -7,6 +7,8 @@ categories:
 - green
 - black
 - dark
+downloads:
+- Sense UI Hero.7z
 images:
 - url: "/assets/images/akmenu/Sense UI Hero/1.png"
 - url: "/assets/images/akmenu/Sense UI Hero/2.png"

@@ -70,16 +70,18 @@ layout: compress
 								</div>
 							</div>
 							<div class="col-md-8">
+								{% if page.downloads %}
 								<div class="row">
 									<div class="col-12">
 											<h2 class="i18n innerHTML-downloads">Downloads</h2>
-												{% assign download_uri = page.url | replace: ".html", ".7z" %}
-												{% assign download_file = download_uri | url_decode | split: "/" %}
+											{% for item in page.downloads %}
 												<span class="text-nowrap">
-													<a class="btn btn-primary m-1 i18n innerHTML-download-name" href="https://dl.themes.flashcarts.net{{ download_uri }}" data-name="{{ download_file[2] }}">Download {{ download_file[2] }}</a>
+													<a class="btn btn-primary m-1 i18n innerHTML-download-name" href="https://dl.themes.flashcarts.net/{{ page.collection }}/{{ item }}" data-name="{{ item }}">Download {{ item }}</a>
 												</span>
+											{% endfor %}
 										</div>
 									</div>
+								{% endif %}
 								{% if content.size > 1 %}
 									<div class="row mt-3">
 										<div class="col-12">

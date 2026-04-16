@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- FemaleNinja.7z
 images:
 - url: "/assets/images/akmenu/FemaleNinja/1.png"
 - url: "/assets/images/akmenu/FemaleNinja/2.png"

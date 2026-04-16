@@ -8,6 +8,8 @@ categories:
 - red
 - black
 - dark
+downloads:
+- ShyGuy.7z
 images:
 - url: "/assets/images/akmenu/ShyGuy/1.png"
 - url: "/assets/images/akmenu/ShyGuy/2.png"

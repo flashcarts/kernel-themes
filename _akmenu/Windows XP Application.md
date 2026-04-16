@@ -6,6 +6,8 @@ categories:
 - os-replica
 - blue
 - light
+downloads:
+- Windows XP Application.7z
 images:
 - url: "/assets/images/akmenu/Windows XP Application/1.png"
 - url: "/assets/images/akmenu/Windows XP Application/2.png"

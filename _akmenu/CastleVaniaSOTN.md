@@ -5,6 +5,8 @@ description:
 categories:
 - game
 - dark
+downloads:
+- CastleVaniaSOTN.7z
 images:
 - url: "/assets/images/akmenu/CastleVaniaSOTN/1.png"
 - url: "/assets/images/akmenu/CastleVaniaSOTN/2.png"

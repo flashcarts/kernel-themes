@@ -4,6 +4,8 @@ creator: Anna
 description: 
 categories:
 - ysmenu
+downloads:
+- meiko2.7z
 images:
 - url: "/assets/images/ysmenu/meiko2/1.png"
 ---

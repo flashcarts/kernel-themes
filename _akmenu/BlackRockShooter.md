@@ -5,6 +5,8 @@ description:
 categories:
 - anime
 - light
+downloads:
+- BlackRockShooter.7z
 images:
 - url: "/assets/images/akmenu/BlackRockShooter/1.png"
 - url: "/assets/images/akmenu/BlackRockShooter/2.png"

@@ -6,6 +6,8 @@ categories:
 - os-replica
 - red
 - light
+downloads:
+- DSRed.7z
 images:
 - url: "/assets/images/akmenu/DSRed/1.png"
 - url: "/assets/images/akmenu/DSRed/2.png"

@@ -4,6 +4,8 @@ creator: cawala
 description: 
 categories:
 - ysmenu
+downloads:
+- Ariel.7z
 images:
 - url: "/assets/images/ysmenu/Ariel/1.png"
 ---

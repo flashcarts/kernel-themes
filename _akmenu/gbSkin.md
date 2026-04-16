@@ -6,6 +6,8 @@ categories:
 - os-replica
 - light
 - green
+downloads:
+- gbSkin.7z
 images:
 - url: "/assets/images/akmenu/gbSkin/1.png"
 - url: "/assets/images/akmenu/gbSkin/2.png"

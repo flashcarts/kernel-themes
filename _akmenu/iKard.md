@@ -5,6 +5,8 @@ description:
 categories:
 - os-replica
 - dark
+downloads:
+- iKard.7z
 images:
 - url: "/assets/images/akmenu/iKard/1.png"
 - url: "/assets/images/akmenu/iKard/2.png"

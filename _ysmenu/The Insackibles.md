@@ -4,6 +4,8 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
+downloads:
+- The Insackibles.7z
 images:
 - url: "/assets/images/ysmenu/The Insackibles/1.png"
 ---

@@ -4,6 +4,8 @@ creator: kamannetje
 description: 
 categories:
 - ysmenu
+downloads:
+- Cute Bunny.7z
 images:
 - url: "/assets/images/ysmenu/Cute Bunny/1.png"
 ---

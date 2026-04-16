@@ -4,6 +4,8 @@ creator: RyukeDragon
 description: 
 categories:
 - moonshell2
+downloads:
+- Okami.7z
 images:
 - url: "/assets/images/moonshell2/Okami/1.png"
 - url: "/assets/images/moonshell2/Okami/2.png"

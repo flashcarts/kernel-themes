@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- PokemonBlack.7z
 images:
 - url: "/assets/images/akmenu/PokemonBlack/1.png"
 - url: "/assets/images/akmenu/PokemonBlack/2.png"

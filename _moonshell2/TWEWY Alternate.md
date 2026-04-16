@@ -4,6 +4,8 @@ creator: JurassicPlayer
 description: 
 categories:
 - moonshell2
+downloads:
+- TWEWY Alternate.7z
 images:
 - url: "/assets/images/moonshell2/TWEWY Alternate/1.png"
 - url: "/assets/images/moonshell2/TWEWY Alternate/2.png"

@@ -5,6 +5,8 @@ description:
 categories:
 - game
 - light
+downloads:
+- Tails Skin v1.7z
 images:
 - url: "/assets/images/akmenu/Tails Skin v1/1.png"
 - url: "/assets/images/akmenu/Tails Skin v1/2.png"

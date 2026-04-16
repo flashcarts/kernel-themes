@@ -4,8 +4,9 @@ creator: 360ad
 description:
 categories:
 - pico
-  Pico64_Vertical_Loading.7z:
-    url: "/assets/downloads/pico/Pico64_Vertical_Loading.7z"
+downloads:
+- Pico64_Flow_Loading.7z
+- Pico64_Vertical_Loading.7z
 images:
 - url: "/assets/images/pico/Pico64_Flow_Loading/1.png"
 - url: "/assets/images/pico/Pico64_Flow_Loading/2.png"

@@ -4,6 +4,8 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
+downloads:
+- Princess Aurora.7z
 images:
 - url: "/assets/images/ysmenu/Princess Aurora/1.png"
 ---

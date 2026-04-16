@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- PET Megaman.exe.7z
 images:
 - url: "/assets/images/akmenu/PET Megaman.exe/1.png"
 - url: "/assets/images/akmenu/PET Megaman.exe/2.png"

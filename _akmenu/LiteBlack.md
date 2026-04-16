@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- LiteBlack.7z
 images:
 - url: "/assets/images/akmenu/LiteBlack/1.png"
 - url: "/assets/images/akmenu/LiteBlack/2.png"

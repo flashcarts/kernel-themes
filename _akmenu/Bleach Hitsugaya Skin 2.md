@@ -6,6 +6,8 @@ categories:
 - anime
 - blue
 - light
+downloads:
+- Bleach Hitsugaya Skin 2.7z
 images:
 - url: "/assets/images/akmenu/Bleach Hitsugaya Skin 2/1.png"
 - url: "/assets/images/akmenu/Bleach Hitsugaya Skin 2/2.png"

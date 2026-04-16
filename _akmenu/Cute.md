@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Cute.7z
 images:
 - url: "/assets/images/akmenu/Cute/1.png"
 - url: "/assets/images/akmenu/Cute/2.png"

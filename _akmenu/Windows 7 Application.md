@@ -6,6 +6,8 @@ categories:
 - os-replica
 - red
 - light
+downloads:
+- Windows 7 Application.7z
 images:
 - url: "/assets/images/akmenu/Windows 7 Application/1.png"
 - url: "/assets/images/akmenu/Windows 7 Application/2.png"

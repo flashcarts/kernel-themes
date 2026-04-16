@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Love Plus 3.7z
 images:
 - url: "/assets/images/akmenu/Love Plus 3/1.png"
 - url: "/assets/images/akmenu/Love Plus 3/2.png"

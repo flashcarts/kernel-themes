@@ -6,6 +6,8 @@ categories:
 - abstract
 - blue
 - light
+downloads:
+- Blue.7z
 images:
 - url: "/assets/images/akmenu/Blue/1.png"
 - url: "/assets/images/akmenu/Blue/2.png"

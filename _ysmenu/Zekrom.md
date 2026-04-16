@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- Zekrom.7z
 images:
 - url: "/assets/images/ysmenu/Zekrom/1.png"
 ---

@@ -7,6 +7,8 @@ categories:
 - green
 - dark
 - black
+downloads:
+- PiPBoy.7z
 images:
 - url: "/assets/images/akmenu/PiPBoy/1.png"
 - url: "/assets/images/akmenu/PiPBoy/2.png"

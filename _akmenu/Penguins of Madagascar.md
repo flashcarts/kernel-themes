@@ -5,6 +5,8 @@ description:
 categories:
 - blue
 - green
+downloads:
+- Penguins of Madagascar.7z
 images:
 - url: "/assets/images/akmenu/Penguins of Madagascar/1.png"
 - url: "/assets/images/akmenu/Penguins of Madagascar/2.png"

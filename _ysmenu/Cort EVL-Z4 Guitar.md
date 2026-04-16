@@ -4,6 +4,8 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
+downloads:
+- Cort EVL-Z4 Guitar.7z
 images:
 - url: "/assets/images/ysmenu/Cort EVL-Z4 Guitar/1.png"
 ---

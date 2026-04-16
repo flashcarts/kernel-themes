@@ -6,6 +6,8 @@ categories:
 - os-replica
 - green
 - light
+downloads:
+- CycloDS.7z
 images:
 - url: "/assets/images/akmenu/CycloDS/1.png"
 - url: "/assets/images/akmenu/CycloDS/2.png"

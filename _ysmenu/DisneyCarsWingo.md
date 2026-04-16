@@ -4,6 +4,8 @@ creator: Dragonman
 description: 
 categories:
 - ysmenu
+downloads:
+- DisneyCarsWingo.7z
 images:
 - url: "/assets/images/ysmenu/DisneyCarsWingo/1.png"
 ---

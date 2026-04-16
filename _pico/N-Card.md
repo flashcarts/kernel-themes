@@ -4,6 +4,8 @@ creator: Apache Thunder
 description:
 categories:
 - pico
+downloads:
+- N-Card.7z
 images:
 - url: "/assets/images/pico/N-Card/1.png"
 - url: "/assets/images/pico/N-Card/2.png"

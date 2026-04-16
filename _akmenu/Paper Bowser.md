@@ -7,6 +7,8 @@ categories:
 - mario
 - green
 - light
+downloads:
+- Paper Bowser.7z
 images:
 - url: "/assets/images/akmenu/Paper Bowser/1.png"
 - url: "/assets/images/akmenu/Paper Bowser/2.png"

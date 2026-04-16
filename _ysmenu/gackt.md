@@ -4,6 +4,8 @@ creator: Anna
 description: 
 categories:
 - ysmenu
+downloads:
+- gackt.7z
 images:
 - url: "/assets/images/ysmenu/gackt/1.png"
 ---

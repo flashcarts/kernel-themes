@@ -5,6 +5,8 @@ description:
 categories:
 - dark
 - abstract
+downloads:
+- PurpleHaze.7z
 images:
 - url: "/assets/images/akmenu/PurpleHaze/1.png"
 - url: "/assets/images/akmenu/PurpleHaze/2.png"

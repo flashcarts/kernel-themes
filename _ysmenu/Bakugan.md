@@ -4,6 +4,8 @@ creator: Gabbynaruto
 description: 
 categories:
 - ysmenu
+downloads:
+- Bakugan.7z
 images:
 - url: "/assets/images/ysmenu/Bakugan/1.png"
 ---

@@ -4,6 +4,8 @@ creator: Anna
 description: 
 categories:
 - ysmenu
+downloads:
+- JAPAN.7z
 images:
 - url: "/assets/images/ysmenu/JAPAN/1.png"
 ---

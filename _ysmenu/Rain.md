@@ -4,6 +4,8 @@ creator: kdeuserx
 description: 
 categories:
 - ysmenu
+downloads:
+- Rain.7z
 images:
 - url: "/assets/images/ysmenu/Rain/1.png"
 ---

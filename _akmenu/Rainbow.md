@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Rainbow.7z
 images:
 - url: "/assets/images/akmenu/Rainbow/1.png"
 - url: "/assets/images/akmenu/Rainbow/2.png"

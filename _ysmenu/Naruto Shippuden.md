@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- Naruto Shippuden.7z
 images:
 - url: "/assets/images/ysmenu/Naruto Shippuden/1.png"
 ---

@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- Unicorn.7z
 images:
 - url: "/assets/images/ysmenu/Unicorn/1.png"
 ---

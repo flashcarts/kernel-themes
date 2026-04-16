@@ -7,6 +7,8 @@ categories:
 - pokemon
 - blue
 - light
+downloads:
+- PKDXTHM.7z
 images:
 - url: "/assets/images/akmenu/PKDXTHM/1.png"
 - url: "/assets/images/akmenu/PKDXTHM/2.png"

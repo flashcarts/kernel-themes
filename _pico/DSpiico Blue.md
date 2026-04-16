@@ -4,6 +4,8 @@ creator: 360ad
 description:
 categories:
 - pico
+downloads:
+- DSpiico Blue.7z
 images:
 - url: "/assets/images/pico/DSpiico Blue/1.png"
 - url: "/assets/images/pico/DSpiico Blue/2.png"

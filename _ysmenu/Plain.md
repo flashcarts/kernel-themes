@@ -5,6 +5,8 @@ description:
 categories:
 - os-replica
 - light
+downloads:
+- Plain.7z
 images:
 - url: "/assets/images/ysmenu/Plain/1.png"
 ---

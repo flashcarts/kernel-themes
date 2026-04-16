@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Love Plus - Nene.7z
 images:
 - url: "/assets/images/akmenu/Love Plus - Nene/1.png"
 - url: "/assets/images/akmenu/Love Plus - Nene/2.png"

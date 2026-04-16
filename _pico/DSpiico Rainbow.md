@@ -4,6 +4,8 @@ creator: 360ad
 description:
 categories:
 - pico
+downloads:
+- DSpiico Rainbow.7z
 images:
 - url: "/assets/images/pico/DSpiico Rainbow/1.png"
 - url: "/assets/images/pico/DSpiico Rainbow/2.png"

@@ -4,6 +4,8 @@ creator: yukari~
 description: 
 categories:
 - ysmenu
+downloads:
+- Gumi Twinkle Twinkle Little Star.7z
 images:
 - url: "/assets/images/ysmenu/Gumi Twinkle Twinkle Little Star/1.png"
 ---

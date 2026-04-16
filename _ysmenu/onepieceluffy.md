@@ -4,6 +4,8 @@ creator: Anna
 description: 
 categories:
 - ysmenu
+downloads:
+- onepieceluffy.7z
 images:
 - url: "/assets/images/ysmenu/onepieceluffy/1.png"
 ---

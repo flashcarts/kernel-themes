@@ -4,6 +4,8 @@ creator: DiD
 description: 
 categories:
 - ysmenu
+downloads:
+- BlueNoseFriends.7z
 images:
 - url: "/assets/images/ysmenu/BlueNoseFriends/1.png"
 ---

@@ -4,6 +4,8 @@ creator: yukari~
 description: 
 categories:
 - ysmenu
+downloads:
+- Kagamine Rin Sunflowers.7z
 images:
 - url: "/assets/images/ysmenu/Kagamine Rin Sunflowers/1.png"
 ---

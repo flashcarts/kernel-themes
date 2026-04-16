@@ -4,6 +4,8 @@ creator: redriolu
 description: 
 categories:
 - ysmenu
+downloads:
+- Winx Club Flora.7z
 images:
 - url: "/assets/images/ysmenu/Winx Club Flora/1.png"
 ---

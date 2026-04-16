@@ -4,6 +4,8 @@ creator: Dragonman
 description: 
 categories:
 - ysmenu
+downloads:
+- ShrekForeverAfter4.7z
 images:
 - url: "/assets/images/ysmenu/ShrekForeverAfter4/1.png"
 ---

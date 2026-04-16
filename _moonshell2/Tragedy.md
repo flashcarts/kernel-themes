@@ -4,6 +4,8 @@ creator: RyukeDragon
 description: 
 categories:
 - moonshell2
+downloads:
+- Tragedy.7z
 images:
 - url: "/assets/images/moonshell2/Tragedy/1.png"
 - url: "/assets/images/moonshell2/Tragedy/2.png"

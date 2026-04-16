@@ -4,6 +4,8 @@ creator: newkira
 description: 
 categories:
 - ysmenu
+downloads:
+- Ladymade Star.7z
 images:
 - url: "/assets/images/ysmenu/Ladymade Star/1.png"
 ---

@@ -6,6 +6,8 @@ categories:
 - anime
 - blue
 - dark
+downloads:
+- Blue Shooter.7z
 images:
 - url: "/assets/images/akmenu/Blue Shooter/1.png"
 - url: "/assets/images/akmenu/Blue Shooter/2.png"

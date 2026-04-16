@@ -4,6 +4,8 @@ creator: darkscurart
 description: 
 categories:
 - ysmenu
+downloads:
+- ZoroarkZorua.7z
 images:
 - url: "/assets/images/ysmenu/ZoroarkZorua/1.png"
 ---

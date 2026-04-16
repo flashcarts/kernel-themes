@@ -4,6 +4,8 @@ creator: DejectedAngel
 description: 
 categories:
 - ysmenu
+downloads:
+- EmiyaArcher.7z
 images:
 - url: "/assets/images/ysmenu/EmiyaArcher/1.png"
 ---

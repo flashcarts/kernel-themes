@@ -7,6 +7,8 @@ categories:
 - blue
 - anime
 - dark
+downloads:
+- P3P Blue.7z
 images:
 - url: "/assets/images/akmenu/P3P Blue/1.png"
 - url: "/assets/images/akmenu/P3P Blue/2.png"

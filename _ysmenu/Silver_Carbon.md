@@ -4,6 +4,8 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
+downloads:
+- Silver Carbon.7z
 images:
 - url: "/assets/images/ysmenu/Silver Carbon/1.png"
 ---

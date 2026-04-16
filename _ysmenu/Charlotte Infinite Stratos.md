@@ -4,6 +4,8 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
+downloads:
+- Charlotte Infinite Stratos.7z
 images:
 - url: "/assets/images/ysmenu/Charlotte Infinite Stratos/1.png"
 ---

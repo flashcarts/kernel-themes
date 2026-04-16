@@ -6,6 +6,8 @@ categories:
 - abstract
 - dark
 - blue
+downloads:
+- Brushed Metal Blue.7z
 images:
 - url: "/assets/images/ysmenu/Brushed Metal Blue/1.png"
 ---

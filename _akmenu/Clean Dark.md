@@ -6,6 +6,8 @@ categories:
 - red
 - abstract
 - dark
+downloads:
+- Clean Dark.7z
 images:
 - url: "/assets/images/akmenu/Clean Dark/1.png"
 - url: "/assets/images/akmenu/Clean Dark/2.png"

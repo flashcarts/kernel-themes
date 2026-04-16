@@ -4,6 +4,8 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
+downloads:
+- Nemo Aquarium.7z
 images:
 - url: "/assets/images/ysmenu/Nemo Aquarium/1.png"
 ---

@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- The Pig.7z
 images:
 - url: "/assets/images/ysmenu/The Pig/1.png"
 ---

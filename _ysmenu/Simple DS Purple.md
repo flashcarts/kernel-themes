@@ -4,6 +4,8 @@ creator: Yuki
 description: 
 categories:
 - ysmenu
+downloads:
+- Simple DS Purple.7z
 images:
 - url: "/assets/images/ysmenu/Simple DS Purple/1.png"
 ---

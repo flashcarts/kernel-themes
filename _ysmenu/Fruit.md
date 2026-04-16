@@ -4,6 +4,8 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
+downloads:
+- Fruit.7z
 images:
 - url: "/assets/images/ysmenu/Fruit/1.png"
 ---

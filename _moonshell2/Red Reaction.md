@@ -4,6 +4,8 @@ creator: wolfmanz51
 description: 
 categories:
 - moonshell2
+downloads:
+- Red Reaction.7z
 images:
 - url: "/assets/images/moonshell2/Red Reaction/1.png"
 - url: "/assets/images/moonshell2/Red Reaction/2.png"

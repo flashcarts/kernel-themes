@@ -7,6 +7,8 @@ categories:
 - black
 - dark
 - stock
+downloads:
+- black.7z
 images:
 - url: /assets/images/akmenu/black/1.png
 - url: /assets/images/akmenu/black/2.png

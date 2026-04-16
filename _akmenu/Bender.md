@@ -5,6 +5,8 @@ description:
 categories:
 - blue
 - light
+downloads:
+- Bender.7z
 images:
 - url: "/assets/images/akmenu/Bender/1.png"
 - url: "/assets/images/akmenu/Bender/2.png"

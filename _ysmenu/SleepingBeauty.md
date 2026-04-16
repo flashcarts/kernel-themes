@@ -4,6 +4,8 @@ creator: Amy--Rose
 description: 
 categories:
 - ysmenu
+downloads:
+- SleepingBeauty.7z
 images:
 - url: "/assets/images/ysmenu/SleepingBeauty/1.png"
 ---

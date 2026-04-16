@@ -5,6 +5,8 @@ description:
 categories:
 - os-replica
 - light
+downloads:
+- NDS OS.7z
 images:
 - url: "/assets/images/akmenu/NDS OS/1.png"
 - url: "/assets/images/akmenu/NDS OS/2.png"

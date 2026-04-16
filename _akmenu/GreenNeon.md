@@ -8,6 +8,8 @@ categories:
 - green
 - abstract
 - dark
+downloads:
+- GreenNeon.7z
 images:
 - url: "/assets/images/akmenu/GreenNeon/1.png"
 - url: "/assets/images/akmenu/GreenNeon/2.png"

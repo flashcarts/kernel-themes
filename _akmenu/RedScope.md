@@ -7,6 +7,8 @@ categories:
 - red
 - black
 - dark
+downloads:
+- RedScope.7z
 images:
 - url: "/assets/images/akmenu/RedScope/1.png"
 - url: "/assets/images/akmenu/RedScope/2.png"

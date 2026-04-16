@@ -4,6 +4,8 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
+downloads:
+- YSMint.7z
 images:
 - url: "/assets/images/ysmenu/YSMint/1.png"
 ---

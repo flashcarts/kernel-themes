@@ -4,6 +4,8 @@ creator: DejectedAngel
 description: 
 categories:
 - ysmenu
+downloads:
+- NeroSaber.7z
 images:
 - url: "/assets/images/ysmenu/NeroSaber/1.png"
 ---

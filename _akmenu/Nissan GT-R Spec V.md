@@ -6,6 +6,8 @@ categories:
 - cars
 - black
 - dark
+downloads:
+- Nissan GT-R Spec V.7z
 images:
 - url: "/assets/images/akmenu/Nissan GT-R Spec V/1.png"
 - url: "/assets/images/akmenu/Nissan GT-R Spec V/2.png"

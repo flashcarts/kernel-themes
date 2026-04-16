@@ -7,6 +7,8 @@ categories:
 - anime
 - red
 - dark
+downloads:
+- P3P Pink.7z
 images:
 - url: "/assets/images/akmenu/P3P Pink/1.png"
 - url: "/assets/images/akmenu/P3P Pink/2.png"

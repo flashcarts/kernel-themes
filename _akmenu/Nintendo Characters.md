@@ -7,6 +7,8 @@ categories:
 - mario
 - blue
 - light
+downloads:
+- Nintendo Characters.7z
 images:
 - url: "/assets/images/akmenu/Nintendo Characters/1.png"
 - url: "/assets/images/akmenu/Nintendo Characters/2.png"

@@ -6,6 +6,8 @@ categories:
 - miku
 - blue
 - dark
+downloads:
+- Hatsune Miku 10th Anniversary.7z
 images:
 - url: "/assets/images/akmenu/Hatsune Miku 10th Anniversary/1.png"
 - url: "/assets/images/akmenu/Hatsune Miku 10th Anniversary/2.png"

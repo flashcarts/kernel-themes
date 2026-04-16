@@ -7,6 +7,8 @@ categories:
 - landscape
 - black
 - dark
+downloads:
+- Winter2010.7z
 images:
 - url: "/assets/images/akmenu/Winter2010/1.png"
 - url: "/assets/images/akmenu/Winter2010/2.png"

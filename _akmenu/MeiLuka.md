@@ -6,6 +6,8 @@ categories:
 - miku
 - anime
 - light
+downloads:
+- MeiLuka.7z
 images:
 - url: "/assets/images/akmenu/MeiLuka/1.png"
 - url: "/assets/images/akmenu/MeiLuka/2.png"

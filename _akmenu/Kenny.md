@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Kenny.7z
 images:
 - url: "/assets/images/akmenu/Kenny/1.png"
 - url: "/assets/images/akmenu/Kenny/2.png"

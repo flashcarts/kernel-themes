@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- Reshiram V2.7z
 images:
 - url: "/assets/images/ysmenu/Reshiram V2/1.png"
 ---

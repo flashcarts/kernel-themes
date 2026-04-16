@@ -5,6 +5,8 @@ description:
 categories:
 - anime
 - light
+downloads:
+- Suzumiya Haruhi.7z
 images:
 - url: "/assets/images/akmenu/Suzumiya Haruhi/1.png"
 - url: "/assets/images/akmenu/Suzumiya Haruhi/2.png"

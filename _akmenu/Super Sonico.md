@@ -5,6 +5,8 @@ description:
 categories:
 - anime
 - light
+downloads:
+- Super Sonico.7z
 images:
 - url: "/assets/images/akmenu/Super Sonico/1.png"
 - url: "/assets/images/akmenu/Super Sonico/2.png"

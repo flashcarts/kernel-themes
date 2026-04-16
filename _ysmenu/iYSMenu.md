@@ -4,6 +4,8 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
+downloads:
+- iYSMenu.7z
 images:
 - url: "/assets/images/ysmenu/iYSMenu/1.png"
 ---

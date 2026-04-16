@@ -4,6 +4,8 @@ creator: Project R4
 description: 
 categories:
 - moonshell2
+downloads:
+- Looking Glass.7z
 images:
 - url: "/assets/images/moonshell2/Looking Glass/1.png"
 - url: "/assets/images/moonshell2/Looking Glass/2.png"

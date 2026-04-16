@@ -6,6 +6,8 @@ categories:
 - mario
 - game
 - blue
+downloads:
+- MKDS Dark.7z
 images:
 - url: "/assets/images/akmenu/MKDS Dark/1.png"
 - url: "/assets/images/akmenu/MKDS Dark/2.png"

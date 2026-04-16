@@ -7,6 +7,8 @@ categories:
 - green
 - blue
 - dark
+downloads:
+- Rokkuman X.7z
 images:
 - url: "/assets/images/akmenu/Rokkuman X/1.png"
 - url: "/assets/images/akmenu/Rokkuman X/2.png"

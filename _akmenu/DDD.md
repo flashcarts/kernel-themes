@@ -6,6 +6,8 @@ categories:
 - game
 - black
 - dark
+downloads:
+- DDD.7z
 images:
 - url: "/assets/images/akmenu/DDD/1.png"
 - url: "/assets/images/akmenu/DDD/2.png"

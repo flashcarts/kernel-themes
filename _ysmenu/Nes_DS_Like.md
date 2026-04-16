@@ -4,6 +4,8 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
+downloads:
+- Nes DS Like.7z
 images:
 - url: "/assets/images/ysmenu/Nes DS Like/1.png"
 ---

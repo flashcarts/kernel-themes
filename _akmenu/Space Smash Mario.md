@@ -7,6 +7,8 @@ categories:
 - mario
 - black
 - dark
+downloads:
+- Space Smash Mario.7z
 images:
 - url: "/assets/images/akmenu/Space Smash Mario/1.png"
 - url: "/assets/images/akmenu/Space Smash Mario/2.png"

@@ -4,6 +4,8 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
+downloads:
+- Apple Carbon.7z
 images:
 - url: "/assets/images/ysmenu/Apple Carbon/1.png"
 ---

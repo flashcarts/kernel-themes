@@ -6,6 +6,8 @@ categories:
 - os-replica
 - black
 - dark
+downloads:
+- Black R4iTT.7z
 images:
 - url: "/assets/images/akmenu/Black R4iTT/1.png"
 - url: "/assets/images/akmenu/Black R4iTT/2.png"

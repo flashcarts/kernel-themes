@@ -4,6 +4,8 @@ creator: cawala
 description: 
 categories:
 - ysmenu
+downloads:
+- alittlenightmusic.7z
 images:
 - url: "/assets/images/ysmenu/alittlenightmusic/1.png"
 ---

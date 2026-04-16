@@ -7,6 +7,8 @@ categories:
 - music
 - black
 - dark
+downloads:
+- akEQ.7z
 images:
 - url: "/assets/images/akmenu/akEQ/1.png"
 - url: "/assets/images/akmenu/akEQ/2.png"

@@ -4,6 +4,8 @@ creator: Dragonman
 description: 
 categories:
 - ysmenu
+downloads:
+- ChocolateCadbury.7z
 images:
 - url: "/assets/images/ysmenu/ChocolateCadbury/1.png"
 ---

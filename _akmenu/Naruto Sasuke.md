@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Naruto Sasuke.7z
 images:
 - url: "/assets/images/akmenu/Naruto Sasuke/1.png"
 - url: "/assets/images/akmenu/Naruto Sasuke/2.png"

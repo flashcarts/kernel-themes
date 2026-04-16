@@ -5,6 +5,8 @@ description:
 categories:
 - os-replica
 - light
+downloads:
+- DS Menu.7z
 images:
 - url: "/assets/images/akmenu/DS Menu/1.png"
 - url: "/assets/images/akmenu/DS Menu/2.png"

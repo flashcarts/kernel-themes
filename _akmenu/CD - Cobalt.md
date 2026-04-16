@@ -6,6 +6,8 @@ categories:
 - abstract
 - blue
 - dark
+downloads:
+- CD - Cobalt.7z
 images:
 - url: "/assets/images/akmenu/CD - Cobalt/1.png"
 - url: "/assets/images/akmenu/CD - Cobalt/2.png"

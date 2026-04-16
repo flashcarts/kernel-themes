@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- My Little Pony.7z
 images:
 - url: "/assets/images/ysmenu/My Little Pony/1.png"
 ---

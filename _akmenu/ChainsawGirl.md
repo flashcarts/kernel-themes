@@ -7,6 +7,8 @@ categories:
 - abstract
 - blue
 - light
+downloads:
+- ChainsawGirl.7z
 images:
 - url: "/assets/images/akmenu/ChainsawGirl/1.png"
 - url: "/assets/images/akmenu/ChainsawGirl/2.png"

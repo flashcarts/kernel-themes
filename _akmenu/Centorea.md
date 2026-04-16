@@ -5,6 +5,8 @@ description:
 categories:
 - anime
 - light
+downloads:
+- Centorea.7z
 images:
 - url: "/assets/images/akmenu/Centorea/1.png"
 - url: "/assets/images/akmenu/Centorea/2.png"

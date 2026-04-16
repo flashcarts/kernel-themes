@@ -4,6 +4,8 @@ creator: env
 description: 
 categories:
 - moonshell2
+downloads:
+- DarkSakura.7z
 images:
 - url: "/assets/images/moonshell2/DarkSakura/1.png"
 - url: "/assets/images/moonshell2/DarkSakura/2.png"

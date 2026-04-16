@@ -6,6 +6,8 @@ categories:
 - game
 - mario
 - light
+downloads:
+- super mario sunshine.7z
 images:
 - url: "/assets/images/akmenu/super mario sunshine/1.png"
 - url: "/assets/images/akmenu/super mario sunshine/2.png"

@@ -7,6 +7,8 @@ categories:
 - light
 - red
 - blue
+downloads:
+- Flames.7z
 images:
 - url: "/assets/images/ysmenu/Flames/1.png"
 ---

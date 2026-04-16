@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- Hello Kitty Pink.7z
 images:
 - url: "/assets/images/akmenu/Hello Kitty Pink/1.png"
 - url: "/assets/images/akmenu/Hello Kitty Pink/2.png"

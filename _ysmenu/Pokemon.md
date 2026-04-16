@@ -7,6 +7,8 @@ categories:
 - pokemon
 - black
 - dark
+downloads:
+- Pokemon.7z
 images:
 - url: "/assets/images/ysmenu/Pokemon/1.png"
 ---

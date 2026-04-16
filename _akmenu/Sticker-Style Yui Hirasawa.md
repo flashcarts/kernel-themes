@@ -7,6 +7,8 @@ categories:
 - music
 - red
 - light
+downloads:
+- Sticker-Style Yui Hirasawa.7z
 images:
 - url: "/assets/images/akmenu/Sticker-Style Yui Hirasawa/1.png"
 - url: "/assets/images/akmenu/Sticker-Style Yui Hirasawa/2.png"

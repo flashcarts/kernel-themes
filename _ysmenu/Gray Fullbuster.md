@@ -4,6 +4,8 @@ creator: newkira
 description: 
 categories:
 - ysmenu
+downloads:
+- Gray Fullbuster.7z
 images:
 - url: "/assets/images/ysmenu/Gray Fullbuster/1.png"
 ---

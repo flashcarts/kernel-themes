@@ -6,6 +6,8 @@ categories:
 - abstract
 - red
 - dark
+downloads:
+- ElementalRed.7z
 images:
 - url: "/assets/images/akmenu/ElementalRed/1.png"
 - url: "/assets/images/akmenu/ElementalRed/2.png"

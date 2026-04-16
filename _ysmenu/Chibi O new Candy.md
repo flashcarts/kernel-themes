@@ -4,6 +4,8 @@ creator: kamannetje
 description: 
 categories:
 - ysmenu
+downloads:
+- Chibi O new Candy.7z
 images:
 - url: "/assets/images/ysmenu/Chibi O new Candy/1.png"
 ---

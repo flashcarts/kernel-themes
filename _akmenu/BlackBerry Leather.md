@@ -6,6 +6,8 @@ categories:
 - os-replica
 - black
 - dark
+downloads:
+- BlackBerry Leather.7z
 images:
 - url: "/assets/images/akmenu/BlackBerry Leather/1.png"
 - url: "/assets/images/akmenu/BlackBerry Leather/2.png"

@@ -7,6 +7,8 @@ categories:
 - blue
 - black
 - dark
+downloads:
+- Megaman.7z
 images:
 - url: "/assets/images/akmenu/Megaman/1.png"
 - url: "/assets/images/akmenu/Megaman/2.png"

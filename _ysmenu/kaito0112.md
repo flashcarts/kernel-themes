@@ -4,6 +4,8 @@ creator: Anna
 description: 
 categories:
 - ysmenu
+downloads:
+- kaito0112.7z
 images:
 - url: "/assets/images/ysmenu/kaito0112/1.png"
 ---

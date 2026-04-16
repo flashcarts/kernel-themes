@@ -7,6 +7,8 @@ categories:
 - blue
 - abstract
 - light
+downloads:
+- AceKard 7i.7z
 images:
 - url: "/assets/images/akmenu/AceKard 7i/1.png"
 - url: "/assets/images/akmenu/AceKard 7i/2.png"

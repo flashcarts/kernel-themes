@@ -4,6 +4,8 @@ creator: DiD
 description: 
 categories:
 - ysmenu
+downloads:
+- TikiParty.7z
 images:
 - url: "/assets/images/ysmenu/TikiParty/1.png"
 ---

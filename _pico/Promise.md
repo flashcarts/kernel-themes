@@ -4,6 +4,8 @@ creator: detenog
 description:
 categories:
 - pico
+downloads:
+- Promise.7z
 images:
 - url: "/assets/images/pico/Promise/1.png"
 - url: "/assets/images/pico/Promise/2.png"

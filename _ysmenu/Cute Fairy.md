@@ -4,6 +4,8 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
+downloads:
+- Cute Fairy.7z
 images:
 - url: "/assets/images/ysmenu/Cute Fairy/1.png"
 ---

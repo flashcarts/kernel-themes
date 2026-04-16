@@ -6,6 +6,8 @@ categories:
 - abstract
 - dark
 - black
+downloads:
+- LoveBird.7z
 images:
 - url: "/assets/images/akmenu/LoveBird/1.png"
 - url: "/assets/images/akmenu/LoveBird/2.png"

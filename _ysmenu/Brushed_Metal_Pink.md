@@ -6,6 +6,8 @@ categories:
 - abstract
 - dark
 - pink
+downloads:
+- Brushed Metal Pink.7z
 images:
 - url: "/assets/images/ysmenu/Brushed Metal Pink/1.png"
 ---

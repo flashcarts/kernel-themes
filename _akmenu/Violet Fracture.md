@@ -6,6 +6,8 @@ categories:
 - abstract
 - black
 - dark
+downloads:
+- Violet Fracture.7z
 images:
 - url: "/assets/images/akmenu/Violet Fracture/1.png"
 - url: "/assets/images/akmenu/Violet Fracture/2.png"

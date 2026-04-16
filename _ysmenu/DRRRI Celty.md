@@ -4,6 +4,8 @@ creator: revo2
 description: 
 categories:
 - ysmenu
+downloads:
+- DRRRI Celty.7z
 images:
 - url: "/assets/images/ysmenu/DRRRI Celty/1.png"
 ---

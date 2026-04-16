@@ -4,6 +4,8 @@ creator: Anna
 description: 
 categories:
 - ysmenu
+downloads:
+- rebornfran.7z
 images:
 - url: "/assets/images/ysmenu/rebornfran/1.png"
 ---

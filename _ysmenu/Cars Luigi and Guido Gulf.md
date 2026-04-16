@@ -4,6 +4,8 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
+downloads:
+- Cars Luigi and Guido Gulf.7z
 images:
 - url: "/assets/images/ysmenu/Cars Luigi and Guido Gulf/1.png"
 ---

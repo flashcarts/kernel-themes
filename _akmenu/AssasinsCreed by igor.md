@@ -5,6 +5,8 @@ description:
 categories:
 - game
 - dark
+downloads:
+- AssasinsCreed by igor.7z
 images:
 - url: "/assets/images/akmenu/AssasinsCreed by igor/1.png"
 - url: "/assets/images/akmenu/AssasinsCreed by igor/2.png"

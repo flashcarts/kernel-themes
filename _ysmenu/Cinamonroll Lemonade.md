@@ -4,6 +4,8 @@ creator: MelodyKitn
 description: 
 categories:
 - ysmenu
+downloads:
+- Cinamonroll Lemonade.7z
 images:
 - url: "/assets/images/ysmenu/Cinamonroll Lemonade/1.png"
 ---

@@ -4,6 +4,8 @@ creator: Dragonman
 description: 
 categories:
 - ysmenu
+downloads:
+- DisneyPixarUp.7z
 images:
 - url: "/assets/images/ysmenu/DisneyPixarUp/1.png"
 ---

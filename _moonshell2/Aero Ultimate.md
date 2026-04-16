@@ -4,6 +4,8 @@ creator: twizidsinz
 description: 
 categories:
 - moonshell2
+downloads:
+- Aero Ultimate.7z
 images:
 - url: "/assets/images/moonshell2/Aero Ultimate/1.png"
 - url: "/assets/images/moonshell2/Aero Ultimate/2.png"

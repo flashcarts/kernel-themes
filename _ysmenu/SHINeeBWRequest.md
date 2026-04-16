@@ -4,6 +4,8 @@ creator: AfroSamurai61
 description: 
 categories:
 - ysmenu
+downloads:
+- SHINeeBWRequest.7z
 images:
 - url: "/assets/images/ysmenu/SHINeeBWRequest/1.png"
 ---

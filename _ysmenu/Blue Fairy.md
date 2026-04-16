@@ -4,6 +4,8 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
+downloads:
+- Blue Fairy.7z
 images:
 - url: "/assets/images/ysmenu/Blue Fairy/1.png"
 ---

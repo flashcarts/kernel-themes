@@ -6,6 +6,8 @@ categories:
 - abstract
 - blue
 - dark
+downloads:
+- SGA Atlantis.7z
 images:
 - url: "/assets/images/akmenu/SGA Atlantis/1.png"
 - url: "/assets/images/akmenu/SGA Atlantis/2.png"

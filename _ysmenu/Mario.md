@@ -7,6 +7,8 @@ categories:
 - mario
 - black
 - dark
+downloads:
+- Mario.7z
 images:
 - url: "/assets/images/ysmenu/Mario/1.png"
 ---

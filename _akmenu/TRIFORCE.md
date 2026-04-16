@@ -6,6 +6,8 @@ categories:
 - game
 - zelda
 - light
+downloads:
+- TRIFORCE.7z
 images:
 - url: "/assets/images/akmenu/TRIFORCE/1.png"
 - url: "/assets/images/akmenu/TRIFORCE/2.png"

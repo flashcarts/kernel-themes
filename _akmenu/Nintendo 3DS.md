@@ -5,6 +5,8 @@ description:
 categories:
 - os-replica
 - light
+downloads:
+- Nintendo 3DS.7z
 images:
 - url: "/assets/images/akmenu/Nintendo 3DS/1.png"
 - url: "/assets/images/akmenu/Nintendo 3DS/2.png"

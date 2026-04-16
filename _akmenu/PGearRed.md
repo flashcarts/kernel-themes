@@ -7,6 +7,8 @@ categories:
 - game
 - red
 - dark
+downloads:
+- PGearRed.7z
 images:
 - url: "/assets/images/akmenu/PGearRed/1.png"
 - url: "/assets/images/akmenu/PGearRed/2.png"

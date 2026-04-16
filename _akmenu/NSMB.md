@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- NSMB.7z
 images:
 - url: "/assets/images/akmenu/NSMB/1.png"
 - url: "/assets/images/akmenu/NSMB/2.png"

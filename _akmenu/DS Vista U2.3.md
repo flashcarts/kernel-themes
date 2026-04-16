@@ -6,6 +6,8 @@ categories:
 - os-replica
 - blue
 - dark
+downloads:
+- DS Vista U2.3.7z
 images:
 - url: "/assets/images/akmenu/DS Vista U2.3/1.png"
 - url: "/assets/images/akmenu/DS Vista U2.3/2.png"

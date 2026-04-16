@@ -4,6 +4,8 @@ creator: 360ad
 description:
 categories:
 - pico
+downloads:
+- PicoSearch.7z
 images:
 - url: "/assets/images/pico/PicoSearch/1.png"
 - url: "/assets/images/pico/PicoSearch/2.png"

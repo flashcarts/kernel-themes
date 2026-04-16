@@ -4,6 +4,8 @@ creator: Dragonman
 description: 
 categories:
 - ysmenu
+downloads:
+- DisneyCarsBoost.7z
 images:
 - url: "/assets/images/ysmenu/DisneyCarsBoost/1.png"
 ---

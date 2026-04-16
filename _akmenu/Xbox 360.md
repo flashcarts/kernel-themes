@@ -6,6 +6,8 @@ categories:
 - os-replica
 - green
 - light
+downloads:
+- Xbox 360.7z
 images:
 - url: "/assets/images/akmenu/Xbox 360/1.png"
 - url: "/assets/images/akmenu/Xbox 360/2.png"

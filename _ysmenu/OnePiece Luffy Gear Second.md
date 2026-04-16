@@ -4,6 +4,8 @@ creator: ryugi
 description: 
 categories:
 - ysmenu
+downloads:
+- OnePiece Luffy Gear Second.7z
 images:
 - url: "/assets/images/ysmenu/OnePiece Luffy Gear Second/1.png"
 ---

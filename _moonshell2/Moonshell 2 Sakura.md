@@ -4,6 +4,8 @@ creator: bekar
 description: 
 categories:
 - moonshell2
+downloads:
+- Moonshell 2 Sakura.7z
 images:
 - url: "/assets/images/moonshell2/Moonshell 2 Sakura/1.png"
 - url: "/assets/images/moonshell2/Moonshell 2 Sakura/2.png"

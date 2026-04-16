@@ -4,6 +4,8 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
+downloads:
+- Tekken Lili.7z
 images:
 - url: "/assets/images/ysmenu/Tekken Lili/1.png"
 ---

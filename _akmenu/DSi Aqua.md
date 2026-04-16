@@ -6,6 +6,8 @@ categories:
 - blue
 - abstract
 - light
+downloads:
+- DSi Aqua.7z
 images:
 - url: "/assets/images/akmenu/DSi Aqua/1.png"
 - url: "/assets/images/akmenu/DSi Aqua/2.png"

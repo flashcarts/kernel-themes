@@ -4,6 +4,8 @@ creator: AdoptedJellyFish
 description:
 categories:
 - pico
+downloads:
+- Samurai Champloo 2.7z
 images:
 - url: "/assets/images/pico/Samurai Champloo 2/1.png"
 - url: "/assets/images/pico/Samurai Champloo 2/2.png"

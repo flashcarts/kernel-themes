@@ -7,6 +7,8 @@ categories:
 - pikachu
 - game
 - stock
+downloads:
+- Black2Pokedex.7z
 images:
 - url: "/assets/images/akmenu/Black2Pokedex/1.png"
 - url: "/assets/images/akmenu/Black2Pokedex/2.png"

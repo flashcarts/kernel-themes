@@ -4,6 +4,8 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
+downloads:
+- One Piece.7z
 images:
 - url: "/assets/images/ysmenu/One Piece/1.png"
 ---

@@ -4,6 +4,8 @@ creator: newkira
 description: 
 categories:
 - ysmenu
+downloads:
+- AirTV.7z
 images:
 - url: "/assets/images/ysmenu/AirTV/1.png"
 ---

@@ -7,6 +7,8 @@ categories:
 - anime
 - black
 - dark
+downloads:
+- Zero Escape-999.7z
 images:
 - url: "/assets/images/akmenu/Zero Escape-999/1.png"
 - url: "/assets/images/akmenu/Zero Escape-999/2.png"

@@ -4,6 +4,8 @@ creator: Unknown
 description: 
 categories:
 - akmenu
+downloads:
+- City.7z
 images:
 - url: "/assets/images/akmenu/City/1.png"
 - url: "/assets/images/akmenu/City/2.png"

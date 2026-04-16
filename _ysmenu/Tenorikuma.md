@@ -4,6 +4,8 @@ creator: MelodyKitn
 description: 
 categories:
 - ysmenu
+downloads:
+- Tenorikuma.7z
 images:
 - url: "/assets/images/ysmenu/Tenorikuma/1.png"
 ---

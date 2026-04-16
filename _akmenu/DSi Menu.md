@@ -6,6 +6,8 @@ categories:
 - os-replica
 - dark
 - black
+downloads:
+- DSi Menu.7z
 images:
 - url: "/assets/images/akmenu/DSi Menu/1.png"
 - url: "/assets/images/akmenu/DSi Menu/2.png"

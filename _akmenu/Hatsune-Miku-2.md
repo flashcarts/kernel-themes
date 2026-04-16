@@ -6,6 +6,8 @@ categories:
 - anime
 - miku
 - light
+downloads:
+- Hatsune-Miku-2.7z
 images:
 - url: "/assets/images/akmenu/Hatsune-Miku-2/1.png"
 - url: "/assets/images/akmenu/Hatsune-Miku-2/2.png"

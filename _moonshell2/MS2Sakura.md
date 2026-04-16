@@ -4,6 +4,8 @@ creator: JurassicPlayer
 description: 
 categories:
 - moonshell2
+downloads:
+- MS2Sakura.7z
 images:
 - url: "/assets/images/moonshell2/MS2Sakura/1.png"
 - url: "/assets/images/moonshell2/MS2Sakura/2.png"

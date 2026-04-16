@@ -6,6 +6,8 @@ categories:
 - landscape
 - dark
 - black
+downloads:
+- SkyPic.7z
 images:
 - url: "/assets/images/akmenu/SkyPic/1.png"
 - url: "/assets/images/akmenu/SkyPic/2.png"

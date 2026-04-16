@@ -4,6 +4,8 @@ creator: AdoptedJellyFish
 description:
 categories:
 - pico
+downloads:
+- Skyline W Eurobeat.7z
 images:
 - url: "/assets/images/pico/Skyline W Eurobeat/1.png"
 - url: "/assets/images/pico/Skyline W Eurobeat/2.png"

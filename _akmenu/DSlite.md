@@ -5,6 +5,8 @@ description:
 categories:
 - akmenu
 - light
+downloads:
+- DSlite.7z
 images:
 - url: "/assets/images/akmenu/DSlite/1.png"
 - url: "/assets/images/akmenu/DSlite/2.png"

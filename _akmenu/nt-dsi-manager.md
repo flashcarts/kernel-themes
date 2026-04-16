@@ -7,6 +7,8 @@ categories:
 - anime
 - black
 - dark
+downloads:
+- nt-dsi-manager.7z
 images:
 - url: "/assets/images/akmenu/nt-dsi-manager/1.png"
 - url: "/assets/images/akmenu/nt-dsi-manager/2.png"

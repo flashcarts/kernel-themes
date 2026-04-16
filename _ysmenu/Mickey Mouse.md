@@ -4,6 +4,8 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
+downloads:
+- Mickey Mouse.7z
 images:
 - url: "/assets/images/ysmenu/Mickey Mouse/1.png"
 ---
