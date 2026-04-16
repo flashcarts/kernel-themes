@@ -7,9 +7,6 @@ categories:
 - black
 - dark
 - stock
-downloads:
-  Adv.Evo.7z:
-    url: "/assets/downloads/Adv.Evo.7z"
 images:
 - url: "/assets/images/akmenu/Adv.Evo/1.png"
 - url: "/assets/images/akmenu/Adv.Evo/2.png"

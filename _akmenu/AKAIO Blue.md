@@ -7,9 +7,6 @@ categories:
 - abstract
 - blue
 - light
-downloads:
-  AKAIO Blue.7z:
-    url: "/assets/downloads/AKAIO Blue.7z"
 images:
 - url: "/assets/images/akmenu/AKAIO Blue/1.png"
 - url: "/assets/images/akmenu/AKAIO Blue/2.png"

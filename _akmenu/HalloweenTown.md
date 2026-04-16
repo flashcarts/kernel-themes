@@ -6,9 +6,6 @@ categories:
 - game
 - seasonal
 - dark
-downloads:
-  HalloweenTown.7z:
-    url: "/assets/downloads/HalloweenTown.7z"
 images:
 - url: "/assets/images/akmenu/HalloweenTown/1.png"
 - url: "/assets/images/akmenu/HalloweenTown/2.png"

@@ -8,9 +8,6 @@ categories:
 - animated
 - black
 - dark
-downloads:
-  Zorua [Animated].7z:
-    url: "/assets/downloads/Zorua [Animated].7z"
 images:
 - url: "/assets/images/akmenu/Zorua [Animated]/1.png"
 - url: "/assets/images/akmenu/Zorua [Animated]/2.png"

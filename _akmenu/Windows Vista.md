@@ -7,9 +7,6 @@ categories:
 - green
 - blue
 - light
-downloads:
-  Windows Vista.7z:
-    url: "/assets/downloads/Windows Vista.7z"
 images:
 - url: "/assets/images/akmenu/Windows Vista/1.png"
 - url: "/assets/images/akmenu/Windows Vista/2.png"

@@ -4,9 +4,6 @@ creator: NachtaraChecker
 description: 
 categories:
 - moonshell2
-downloads:
-  Windows 7.7z:
-    url: "/assets/downloads/moonshell2/Windows 7.7z"
 images:
 - url: "/assets/images/moonshell2/Windows 7/1.png"
 - url: "/assets/images/moonshell2/Windows 7/2.png"

@@ -4,9 +4,6 @@ creator: JurassicPlayer
 description: 
 categories:
 - moonshell2
-downloads:
-  MikuShell.7z:
-    url: "/assets/downloads/moonshell2/MikuShell.7z"
 images:
 - url: "/assets/images/moonshell2/MikuShell/1.png"
 - url: "/assets/images/moonshell2/MikuShell/2.png"

@@ -6,9 +6,6 @@ categories:
 - os-replica
 - blue
 - light
-downloads:
-  Windows 7.7z:
-    url: "/assets/downloads/Windows 7.7z"
 images:
 - url: "/assets/images/akmenu/Windows 7/1.png"
 - url: "/assets/images/akmenu/Windows 7/2.png"

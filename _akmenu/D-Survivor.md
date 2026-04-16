@@ -7,9 +7,6 @@ categories:
 - abstract
 - red
 - dark
-downloads:
-  D-Survivor.7z:
-    url: "/assets/downloads/D-Survivor.7z"
 images:
 - url: "/assets/images/akmenu/D-Survivor/1.png"
 - url: "/assets/images/akmenu/D-Survivor/2.png"

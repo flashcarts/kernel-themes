@@ -7,9 +7,6 @@ categories:
 - black
 - abstract
 - dark
-downloads:
-  Cyberpunk.7z:
-    url: "/assets/downloads/Cyberpunk.7z"
 images:
 - url: "/assets/images/akmenu/Cyberpunk/1.png"
 - url: "/assets/images/akmenu/Cyberpunk/2.png"

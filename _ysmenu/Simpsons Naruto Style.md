@@ -4,9 +4,6 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
-downloads:
-  Simpsons Naruto Style.7z:
-    url: "/assets/downloads/ysmenu/Simpsons Naruto Style.7z"
 images:
 - url: "/assets/images/ysmenu/Simpsons Naruto Style/1.png"
 ---

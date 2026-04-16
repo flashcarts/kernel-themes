@@ -7,9 +7,6 @@ categories:
 - mario
 - green
 - dark
-downloads:
-  Super Mario Galaxy.7z:
-    url: "/assets/downloads/Super Mario Galaxy.7z"
 images:
 - url: "/assets/images/akmenu/Super Mario Galaxy/1.png"
 - url: "/assets/images/akmenu/Super Mario Galaxy/2.png"

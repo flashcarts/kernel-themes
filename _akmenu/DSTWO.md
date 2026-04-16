@@ -7,9 +7,6 @@ categories:
 - red
 - abstract
 - dark
-downloads:
-  DSTWO.7z:
-    url: "/assets/downloads/DSTWO.7z"
 images:
 - url: "/assets/images/akmenu/DSTWO/1.png"
 - url: "/assets/images/akmenu/DSTWO/2.png"

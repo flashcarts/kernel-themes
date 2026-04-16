@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  MaiSNK.7z:
-    url: "/assets/downloads/MaiSNK.7z"
 images:
 - url: "/assets/images/akmenu/MaiSNK/1.png"
 - url: "/assets/images/akmenu/MaiSNK/2.png"

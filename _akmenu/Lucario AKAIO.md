@@ -6,9 +6,6 @@ categories:
 - pokemon
 - game
 - light
-downloads:
-  Lucario AKAIO.7z:
-    url: "/assets/downloads/Lucario AKAIO.7z"
 images:
 - url: "/assets/images/akmenu/Lucario AKAIO/1.png"
 - url: "/assets/images/akmenu/Lucario AKAIO/2.png"

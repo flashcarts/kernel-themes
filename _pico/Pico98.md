@@ -4,9 +4,6 @@ creator: 360ad
 description:
 categories:
 - pico
-downloads:
-  Pico98_Flow.7z:
-    url: "/assets/downloads/pico/Pico98_Flow.7z"
   Pico98_Vertical.7z:
     url: "/assets/downloads/pico/Pico98_Vertical.7z"
 images:

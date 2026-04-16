@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  LUCK.7z:
-    url: "/assets/downloads/LUCK.7z"
 images:
 - url: "/assets/images/akmenu/LUCK/1.png"
 - url: "/assets/images/akmenu/LUCK/2.png"

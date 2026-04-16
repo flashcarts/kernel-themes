@@ -7,9 +7,6 @@ categories:
 - abstract
 - blue
 - dark
-downloads:
-  BlueStripes.7z:
-    url: "/assets/downloads/BlueStripes.7z"
 images:
 - url: "/assets/images/akmenu/BlueStripes/1.png"
 - url: "/assets/images/akmenu/BlueStripes/2.png"

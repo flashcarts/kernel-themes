@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  Kurumi Tokisaki.7z:
-    url: "/assets/downloads/Kurumi Tokisaki.7z"
 images:
 - url: "/assets/images/akmenu/Kurumi Tokisaki/1.png"
 - url: "/assets/images/akmenu/Kurumi Tokisaki/2.png"

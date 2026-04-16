@@ -6,9 +6,6 @@ categories:
 - stock
 - abstract
 - dark
-downloads:
-  r4isdhc.7z:
-    url: "/assets/downloads/r4isdhc.7z"
 images:
 - url: "/assets/images/akmenu/r4isdhc/1.png"
 - url: "/assets/images/akmenu/r4isdhc/2.png"

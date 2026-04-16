@@ -4,9 +4,6 @@ creator: Airth
 description: 
 categories:
 - moonshell2
-downloads:
-  Taijitu.7z:
-    url: "/assets/downloads/moonshell2/Taijitu.7z"
 images:
 - url: "/assets/images/moonshell2/Taijitu/1.png"
 - url: "/assets/images/moonshell2/Taijitu/2.png"

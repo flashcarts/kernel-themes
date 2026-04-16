@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  LiteMenu.7z:
-    url: "/assets/downloads/LiteMenu.7z"
 images:
 - url: "/assets/images/akmenu/LiteMenu/1.png"
 - url: "/assets/images/akmenu/LiteMenu/2.png"

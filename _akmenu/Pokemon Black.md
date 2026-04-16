@@ -7,9 +7,6 @@ categories:
 - game
 - black
 - dark
-downloads:
-  Pokemon Black.7z:
-    url: "/assets/downloads/Pokemon Black.7z"
 images:
 - url: "/assets/images/akmenu/Pokemon Black/1.png"
 - url: "/assets/images/akmenu/Pokemon Black/2.png"

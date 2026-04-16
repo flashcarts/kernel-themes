@@ -5,9 +5,6 @@ description:
 categories:
 - green
 - light
-downloads:
-  Draco.7z:
-    url: "/assets/downloads/Draco.7z"
 images:
 - url: "/assets/images/akmenu/Draco/1.png"
 - url: "/assets/images/akmenu/Draco/2.png"

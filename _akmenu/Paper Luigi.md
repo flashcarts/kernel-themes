@@ -7,9 +7,6 @@ categories:
 - mario
 - green
 - light
-downloads:
-  Paper Luigi.7z:
-    url: "/assets/downloads/Paper Luigi.7z"
 images:
 - url: "/assets/images/akmenu/Paper Luigi/1.png"
 - url: "/assets/images/akmenu/Paper Luigi/2.png"

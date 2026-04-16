@@ -4,9 +4,6 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
-downloads:
-  Jessica Alba Into The Blue.7z:
-    url: "/assets/downloads/ysmenu/Jessica Alba Into The Blue.7z"
 images:
 - url: "/assets/images/ysmenu/Jessica Alba Into The Blue/1.png"
 ---

@@ -7,9 +7,6 @@ categories:
 - pokemon
 - green
 - light
-downloads:
-  N Harmonia Skin.7z:
-    url: "/assets/downloads/N Harmonia Skin.7z"
 images:
 - url: "/assets/images/akmenu/N Harmonia Skin/1.png"
 - url: "/assets/images/akmenu/N Harmonia Skin/2.png"

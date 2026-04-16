@@ -4,9 +4,6 @@ creator: Anna
 description: 
 categories:
 - ysmenu
-downloads:
-  op1.7z:
-    url: "/assets/downloads/ysmenu/op1.7z"
 images:
 - url: "/assets/images/ysmenu/op1/1.png"
 ---

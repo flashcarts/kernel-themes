@@ -5,9 +5,6 @@ description:
 categories:
 - music
 - light
-downloads:
-  NewJeans - Haerin.7z:
-    url: "/assets/downloads/NewJeans - Haerin.7z"
 images:
 - url: "/assets/images/akmenu/NewJeans - Haerin/1.png"
 - url: "/assets/images/akmenu/NewJeans - Haerin/2.png"

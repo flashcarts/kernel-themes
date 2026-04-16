@@ -7,9 +7,6 @@ categories:
 - black
 - blue
 - dark
-downloads:
-  AKAIO 1.6 theme_Bruised.7z:
-    url: "/assets/downloads/AKAIO 1.6 theme_Bruised.7z"
 images:
 - url: "/assets/images/akmenu/AKAIO 1.6 theme_Bruised/1.png"
 - url: "/assets/images/akmenu/AKAIO 1.6 theme_Bruised/2.png"

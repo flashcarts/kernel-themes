@@ -4,9 +4,6 @@ creator: AdoptedJellyFish
 description:
 categories:
 - pico
-downloads:
-  AE86 W EuroBeat.7z:
-    url: "/assets/downloads/pico/AE86 W EuroBeat.7z"
 images:
 - url: "/assets/images/pico/AE86 W EuroBeat/1.png"
 - url: "/assets/images/pico/AE86 W EuroBeat/2.png"

@@ -4,9 +4,6 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
-downloads:
-  Moonlit Night.7z:
-    url: "/assets/downloads/ysmenu/Moonlit Night.7z"
 images:
 - url: "/assets/images/ysmenu/Moonlit Night/1.png"
 ---

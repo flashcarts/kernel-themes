@@ -4,9 +4,6 @@ creator: AdoptedJellyFish
 description:
 categories:
 - pico
-downloads:
-  Rurouni Kenshin.7z:
-    url: "/assets/downloads/pico/Rurouni Kenshin.7z"
 images:
 - url: "/assets/images/pico/Rurouni Kenshin/1.png"
 - url: "/assets/images/pico/Rurouni Kenshin/2.png"

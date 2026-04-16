@@ -4,9 +4,6 @@ creator: newkira
 description: 
 categories:
 - ysmenu
-downloads:
-  Natsu Dragonil.7z:
-    url: "/assets/downloads/ysmenu/Natsu Dragonil.7z"
 images:
 - url: "/assets/images/ysmenu/Natsu Dragonil/1.png"
 ---

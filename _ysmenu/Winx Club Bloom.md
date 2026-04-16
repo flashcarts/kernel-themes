@@ -4,9 +4,6 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
-downloads:
-  Winx Club Bloom.7z:
-    url: "/assets/downloads/ysmenu/Winx Club Bloom.7z"
 images:
 - url: "/assets/images/ysmenu/Winx Club Bloom/1.png"
 ---

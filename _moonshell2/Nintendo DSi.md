@@ -4,9 +4,6 @@ creator: Keeley
 description: 
 categories:
 - moonshell2
-downloads:
-  Nintendo DSi.7z:
-    url: "/assets/downloads/moonshell2/Nintendo DSi.7z"
 images:
 - url: "/assets/images/moonshell2/Nintendo DSi/1.png"
 - url: "/assets/images/moonshell2/Nintendo DSi/2.png"

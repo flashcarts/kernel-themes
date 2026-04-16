@@ -4,9 +4,6 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
-downloads:
-  Miss Bunny.7z:
-    url: "/assets/downloads/ysmenu/Miss Bunny.7z"
 images:
 - url: "/assets/images/ysmenu/Miss Bunny/1.png"
 ---

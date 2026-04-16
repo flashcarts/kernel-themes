@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  Lace.7z:
-    url: "/assets/downloads/Lace.7z"
 images:
 - url: "/assets/images/akmenu/Lace/1.png"
 - url: "/assets/images/akmenu/Lace/2.png"

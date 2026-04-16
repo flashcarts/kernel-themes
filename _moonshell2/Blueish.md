@@ -4,9 +4,6 @@ creator: Ant.i1558
 description: 
 categories:
 - moonshell2
-downloads:
-  Blueish.7z:
-    url: "/assets/downloads/moonshell2/Blueish.7z"
 images:
 - url: "/assets/images/moonshell2/Blueish/1.png"
 - url: "/assets/images/moonshell2/Blueish/2.png"

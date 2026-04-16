@@ -8,9 +8,6 @@ categories:
 - blue
 - game
 - pokemon
-downloads:
-  Anime Lucario.7z:
-    url: "/assets/downloads/Anime Lucario.7z"
 images:
 - url: "/assets/images/akmenu/Anime Lucario/1.png"
 - url: "/assets/images/akmenu/Anime Lucario/2.png"

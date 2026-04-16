@@ -4,9 +4,6 @@ creator: newkira
 description: 
 categories:
 - ysmenu
-downloads:
-  Black Rock Shooter.7z:
-    url: "/assets/downloads/ysmenu/Black Rock Shooter.7z"
 images:
 - url: "/assets/images/ysmenu/Black Rock Shooter/1.png"
 ---

@@ -4,9 +4,6 @@ creator: env
 description: 
 categories:
 - moonshell2
-downloads:
-  MARX.7z:
-    url: "/assets/downloads/moonshell2/MARX.7z"
 images:
 - url: "/assets/images/moonshell2/MARX/1.png"
 - url: "/assets/images/moonshell2/MARX/2.png"

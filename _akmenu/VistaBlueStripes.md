@@ -7,9 +7,6 @@ categories:
 - blue
 - abstract
 - light
-downloads:
-  VistaBlueStripes.7z:
-    url: "/assets/downloads/VistaBlueStripes.7z"
 images:
 - url: "/assets/images/akmenu/VistaBlueStripes/1.png"
 - url: "/assets/images/akmenu/VistaBlueStripes/2.png"

@@ -4,9 +4,6 @@ creator: AdoptedJellyFish
 description:
 categories:
 - pico
-downloads:
-  Rainbow Theme.7z:
-    url: "/assets/downloads/pico/Rainbow Theme.7z"
 images:
 - url: "/assets/images/pico/Rainbow Theme/1.png"
 - url: "/assets/images/pico/Rainbow Theme/2.png"

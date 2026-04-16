@@ -5,9 +5,6 @@ description:
 categories:
 - abstract
 - dark
-downloads:
-  CD - Indigo.7z:
-    url: "/assets/downloads/CD - Indigo.7z"
 images:
 - url: "/assets/images/akmenu/CD - Indigo/1.png"
 - url: "/assets/images/akmenu/CD - Indigo/2.png"

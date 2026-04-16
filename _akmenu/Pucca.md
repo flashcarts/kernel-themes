@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  Pucca.7z:
-    url: "/assets/downloads/Pucca.7z"
 images:
 - url: "/assets/images/akmenu/Pucca/1.png"
 - url: "/assets/images/akmenu/Pucca/2.png"

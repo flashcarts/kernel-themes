@@ -4,9 +4,6 @@ creator: JurassicPlayer
 description: 
 categories:
 - moonshell2
-downloads:
-  Oatmeal.7z:
-    url: "/assets/downloads/moonshell2/Oatmeal.7z"
 images:
 - url: "/assets/images/moonshell2/Oatmeal/1.png"
 - url: "/assets/images/moonshell2/Oatmeal/2.png"

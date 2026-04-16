@@ -6,9 +6,6 @@ categories:
 - os-replica
 - blue
 - light
-downloads:
-  luna XP.7z:
-    url: "/assets/downloads/luna XP.7z"
 images:
 - url: "/assets/images/akmenu/luna XP/1.png"
 - url: "/assets/images/akmenu/luna XP/2.png"

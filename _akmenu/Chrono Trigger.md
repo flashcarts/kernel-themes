@@ -6,9 +6,6 @@ categories:
 - game
 - black
 - dark
-downloads:
-  Chrono Trigger.7z:
-    url: "/assets/downloads/Chrono Trigger.7z"
 images:
 - url: "/assets/images/akmenu/Chrono Trigger/1.png"
 - url: "/assets/images/akmenu/Chrono Trigger/2.png"

@@ -7,9 +7,6 @@ categories:
 - blue
 - abstract
 - light
-downloads:
-  VistaPromisedPlace.7z:
-    url: "/assets/downloads/VistaPromisedPlace.7z"
 images:
 - url: "/assets/images/akmenu/VistaPromisedPlace/1.png"
 - url: "/assets/images/akmenu/VistaPromisedPlace/2.png"

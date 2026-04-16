@@ -6,9 +6,6 @@ categories:
 - green
 - abstract
 - dark
-downloads:
-  WE ARE BORG.7z:
-    url: "/assets/downloads/WE ARE BORG.7z"
 images:
 - url: "/assets/images/akmenu/WE ARE BORG/1.png"
 - url: "/assets/images/akmenu/WE ARE BORG/2.png"

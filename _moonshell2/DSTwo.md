@@ -4,9 +4,6 @@ creator: CannonFoddr
 description: 
 categories:
 - moonshell2
-downloads:
-  DSTwo.7z:
-    url: "/assets/downloads/moonshell2/DSTwo.7z"
 images:
 - url: "/assets/images/moonshell2/DSTwo/1.png"
 - url: "/assets/images/moonshell2/DSTwo/2.png"

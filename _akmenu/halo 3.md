@@ -5,9 +5,6 @@ description:
 categories:
 - game
 - dark
-downloads:
-  halo 3.7z:
-    url: "/assets/downloads/halo 3.7z"
 images:
 - url: "/assets/images/akmenu/halo 3/1.png"
 - url: "/assets/images/akmenu/halo 3/2.png"

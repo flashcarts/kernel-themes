@@ -7,9 +7,6 @@ categories:
 - anime
 - loveplus
 - light
-downloads:
-  AnimeTuna.7z:
-    url: "/assets/downloads/AnimeTuna.7z"
 images:
 - url: "/assets/images/akmenu/AnimeTuna/1.png"
 - url: "/assets/images/akmenu/AnimeTuna/2.png"

@@ -8,9 +8,6 @@ categories:
 - blue
 - music
 - dark
-downloads:
-  r4inp.7z:
-    url: "/assets/downloads/r4inp.7z"
 images:
 - url: "/assets/images/akmenu/r4inp/1.png"
 - url: "/assets/images/akmenu/r4inp/2.png"

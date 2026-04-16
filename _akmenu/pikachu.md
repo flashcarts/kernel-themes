@@ -7,9 +7,6 @@ categories:
 - pokemon
 - red
 - light
-downloads:
-  pikachu.7z:
-    url: "/assets/downloads/pikachu.7z"
 images:
 - url: "/assets/images/akmenu/pikachu/1.png"
 - url: "/assets/images/akmenu/pikachu/2.png"

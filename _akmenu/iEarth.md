@@ -6,9 +6,6 @@ categories:
 - os-replica
 - dark
 - landscape
-downloads:
-  iEarth.7z:
-    url: "/assets/downloads/iEarth.7z"
 images:
 - url: "/assets/images/akmenu/iEarth/1.png"
 - url: "/assets/images/akmenu/iEarth/2.png"

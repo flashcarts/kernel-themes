@@ -5,9 +5,6 @@ description:
 categories:
 - anime
 - light
-downloads:
-  Share Cuterabbit.7z:
-    url: "/assets/downloads/Share Cuterabbit.7z"
 images:
 - url: "/assets/images/akmenu/Share Cuterabbit/1.png"
 - url: "/assets/images/akmenu/Share Cuterabbit/2.png"

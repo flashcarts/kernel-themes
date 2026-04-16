@@ -4,9 +4,6 @@ creator: ggirl
 description: 
 categories:
 - ysmenu
-downloads:
-  Winnie The Pooh.7z:
-    url: "/assets/downloads/ysmenu/Winnie The Pooh.7z"
 images:
 - url: "/assets/images/ysmenu/Winnie The Pooh/1.png"
 ---

@@ -6,9 +6,6 @@ categories:
 - os-replica
 - wii
 - light
-downloads:
-  Acekard AK2Wii.7z:
-    url: "/assets/downloads/Acekard AK2Wii.7z"
 images:
 - url: "/assets/images/akmenu/Acekard AK2Wii/1.png"
 - url: "/assets/images/akmenu/Acekard AK2Wii/2.png"

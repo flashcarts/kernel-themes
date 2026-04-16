@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  K-ON!.7z:
-    url: "/assets/downloads/K-ON!.7z"
 images:
 - url: "/assets/images/akmenu/K-ON!/1.png"
 - url: "/assets/images/akmenu/K-ON!/2.png"

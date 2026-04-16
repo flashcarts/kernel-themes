@@ -4,9 +4,6 @@ creator: waste
 description: 
 categories:
 - ysmenu
-downloads:
-  Kitty Hunter.7z:
-    url: "/assets/downloads/ysmenu/Kitty Hunter.7z"
 images:
 - url: "/assets/images/ysmenu/Kitty Hunter/1.png"
 ---

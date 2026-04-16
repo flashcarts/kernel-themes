@@ -6,9 +6,6 @@ categories:
 - game
 - red
 - dark
-downloads:
-  Eggman Skin v1.7z:
-    url: "/assets/downloads/Eggman Skin v1.7z"
 images:
 - url: "/assets/images/akmenu/Eggman Skin v1/1.png"
 - url: "/assets/images/akmenu/Eggman Skin v1/2.png"

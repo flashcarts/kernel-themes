@@ -4,9 +4,6 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
-downloads:
-  devART.7z:
-    url: "/assets/downloads/ysmenu/devART.7z"
 images:
 - url: "/assets/images/ysmenu/devART/1.png"
 ---

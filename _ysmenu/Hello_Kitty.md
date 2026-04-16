@@ -4,9 +4,6 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
-downloads:
-  Hello Kitty.7z:
-    url: "/assets/downloads/ysmenu/Hello Kitty.7z"
 images:
 - url: "/assets/images/ysmenu/Hello Kitty/1.png"
 ---

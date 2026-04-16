@@ -6,9 +6,6 @@ categories:
 - ace3ds
 - light
 - stock
-downloads:
-  ACE.7z:
-    url: "/assets/downloads/ACE.7z"
 images:
 - url: "/assets/images/akmenu/ACE/1.png"
 - url: "/assets/images/akmenu/ACE/2.png"

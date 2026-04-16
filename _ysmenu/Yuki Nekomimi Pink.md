@@ -4,9 +4,6 @@ creator: newkira
 description: 
 categories:
 - ysmenu
-downloads:
-  Yuki Nekomimi Pink.7z:
-    url: "/assets/downloads/ysmenu/Yuki Nekomimi Pink.7z"
 images:
 - url: "/assets/images/ysmenu/Yuki Nekomimi Pink/1.png"
 ---

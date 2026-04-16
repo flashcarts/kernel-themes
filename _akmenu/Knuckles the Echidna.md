@@ -6,9 +6,6 @@ categories:
 - game
 - red
 - dark
-downloads:
-  Knuckles the Echidna.7z:
-    url: "/assets/downloads/Knuckles the Echidna.7z"
 images:
 - url: "/assets/images/akmenu/Knuckles the Echidna/1.png"
 - url: "/assets/images/akmenu/Knuckles the Echidna/2.png"

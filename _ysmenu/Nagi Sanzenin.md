@@ -4,9 +4,6 @@ creator: newkira
 description: 
 categories:
 - ysmenu
-downloads:
-  Nagi Sanzenin.7z:
-    url: "/assets/downloads/ysmenu/Nagi Sanzenin.7z"
 images:
 - url: "/assets/images/ysmenu/Nagi Sanzenin/1.png"
 ---

@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  Pokemon Platinum.7z:
-    url: "/assets/downloads/Pokemon Platinum.7z"
 images:
 - url: "/assets/images/akmenu/Pokemon Platinum/1.png"
 - url: "/assets/images/akmenu/Pokemon Platinum/2.png"

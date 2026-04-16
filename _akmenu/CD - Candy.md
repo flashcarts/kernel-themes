@@ -5,9 +5,6 @@ description:
 categories:
 - abstract
 - dark
-downloads:
-  CD - Candy.7z:
-    url: "/assets/downloads/CD - Candy.7z"
 images:
 - url: "/assets/images/akmenu/CD - Candy/1.png"
 - url: "/assets/images/akmenu/CD - Candy/2.png"

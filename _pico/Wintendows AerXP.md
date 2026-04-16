@@ -4,9 +4,6 @@ creator: 360ad
 description:
 categories:
 - pico
-downloads:
-  Wintendows AerXP.7z:
-    url: "/assets/downloads/pico/Wintendows AerXP.7z"
 images:
 - url: "/assets/images/pico/Wintendows AerXP/1.png"
 - url: "/assets/images/pico/Wintendows AerXP/2.png"

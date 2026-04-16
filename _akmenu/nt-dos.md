@@ -6,9 +6,6 @@ categories:
 - os-replica
 - black
 - dark
-downloads:
-  nt-dos.7z:
-    url: "/assets/downloads/nt-dos.7z"
 images:
 - url: "/assets/images/akmenu/nt-dos/1.png"
 - url: "/assets/images/akmenu/nt-dos/2.png"

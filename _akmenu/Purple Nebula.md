@@ -5,9 +5,6 @@ description:
 categories:
 - dark
 - abstract
-downloads:
-  Purple Nebula.7z:
-    url: "/assets/downloads/Purple Nebula.7z"
 images:
 - url: "/assets/images/akmenu/Purple Nebula/1.png"
 - url: "/assets/images/akmenu/Purple Nebula/2.png"

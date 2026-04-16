@@ -7,9 +7,6 @@ categories:
 - mario
 - green
 - light
-downloads:
-  Paper Dry Bones.7z:
-    url: "/assets/downloads/Paper Dry Bones.7z"
 images:
 - url: "/assets/images/akmenu/Paper Dry Bones/1.png"
 - url: "/assets/images/akmenu/Paper Dry Bones/2.png"

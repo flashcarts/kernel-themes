@@ -6,9 +6,6 @@ categories:
 - woodr4
 - gbatemp
 - stock
-downloads:
-  gbatemp.7z:
-    url: "/assets/downloads/gbatemp.7z"
 images:
 - url: "/assets/images/akmenu/gbatemp/1.png"
 - url: "/assets/images/akmenu/gbatemp/2.png"

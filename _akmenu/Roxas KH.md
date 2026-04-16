@@ -6,9 +6,6 @@ categories:
 - game
 - black
 - dark
-downloads:
-  Roxas KH.7z:
-    url: "/assets/downloads/Roxas KH.7z"
 images:
 - url: "/assets/images/akmenu/Roxas KH/1.png"
 - url: "/assets/images/akmenu/Roxas KH/2.png"

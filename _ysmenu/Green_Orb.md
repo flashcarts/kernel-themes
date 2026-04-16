@@ -4,9 +4,6 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
-downloads:
-  Green Orb.7z:
-    url: "/assets/downloads/ysmenu/Green Orb.7z"
 images:
 - url: "/assets/images/ysmenu/Green Orb/1.png"
 ---

@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  LollipopAnime.7z:
-    url: "/assets/downloads/LollipopAnime.7z"
 images:
 - url: "/assets/images/akmenu/LollipopAnime/1.png"
 - url: "/assets/images/akmenu/LollipopAnime/2.png"

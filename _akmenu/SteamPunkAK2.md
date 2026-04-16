@@ -5,9 +5,6 @@ description:
 categories:
 - abstract
 - light
-downloads:
-  SteamPunkAK2.7z:
-    url: "/assets/downloads/SteamPunkAK2.7z"
 images:
 - url: "/assets/images/akmenu/SteamPunkAK2/1.png"
 - url: "/assets/images/akmenu/SteamPunkAK2/2.png"

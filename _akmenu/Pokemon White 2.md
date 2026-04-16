@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  Pokemon White 2.7z:
-    url: "/assets/downloads/Pokemon White 2.7z"
 images:
 - url: "/assets/images/akmenu/Pokemon White 2/1.png"
 - url: "/assets/images/akmenu/Pokemon White 2/2.png"

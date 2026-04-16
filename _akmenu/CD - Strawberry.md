@@ -6,9 +6,6 @@ categories:
 - abstract
 - red
 - dark
-downloads:
-  CD - Strawberry.7z:
-    url: "/assets/downloads/CD - Strawberry.7z"
 images:
 - url: "/assets/images/akmenu/CD - Strawberry/1.png"
 - url: "/assets/images/akmenu/CD - Strawberry/2.png"

@@ -4,9 +4,6 @@ creator: Dragonman
 description: 
 categories:
 - ysmenu
-downloads:
-  TheStrongestTeamInFairyTail.7z:
-    url: "/assets/downloads/ysmenu/TheStrongestTeamInFairyTail.7z"
 images:
 - url: "/assets/images/ysmenu/TheStrongestTeamInFairyTail/1.png"
 ---

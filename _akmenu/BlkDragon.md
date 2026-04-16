@@ -6,9 +6,6 @@ categories:
 - dark
 - black
 - dragon
-downloads:
-  BlkDragon.7z:
-    url: "/assets/downloads/BlkDragon.7z"
 images:
 - url: "/assets/images/akmenu/BlkDragon/1.png"
 - url: "/assets/images/akmenu/BlkDragon/2.png"

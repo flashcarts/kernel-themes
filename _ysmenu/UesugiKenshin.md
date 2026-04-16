@@ -4,9 +4,6 @@ creator: DejectedAngel
 description: 
 categories:
 - ysmenu
-downloads:
-  UesugiKenshin.7z:
-    url: "/assets/downloads/ysmenu/UesugiKenshin.7z"
 images:
 - url: "/assets/images/ysmenu/UesugiKenshin/1.png"
 ---

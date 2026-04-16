@@ -6,9 +6,6 @@ categories:
 - os-replica
 - light
 - blue
-downloads:
-  Amiga Workbench.7z:
-    url: "/assets/downloads/Amiga Workbench.7z"
 images:
 - url: "/assets/images/akmenu/Amiga Workbench/1.png"
 - url: "/assets/images/akmenu/Amiga Workbench/2.png"

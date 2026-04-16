@@ -4,9 +4,6 @@ creator: VampireX
 description: 
 categories:
 - moonshell2
-downloads:
-  BlueXMB.7z:
-    url: "/assets/downloads/moonshell2/BlueXMB.7z"
 images:
 - url: "/assets/images/moonshell2/BlueXMB/1.png"
 - url: "/assets/images/moonshell2/BlueXMB/2.png"

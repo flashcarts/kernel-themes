@@ -6,9 +6,6 @@ categories:
 - mario
 - blue
 - light
-downloads:
-  yoshi_island.7z:
-    url: "/assets/downloads/yoshi_island.7z"
 images:
 - url: "/assets/images/akmenu/yoshi_island/1.png"
 - url: "/assets/images/akmenu/yoshi_island/2.png"

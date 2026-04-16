@@ -7,9 +7,6 @@ categories:
 - red
 - black
 - light
-downloads:
-  Angel Beats!.7z:
-    url: "/assets/downloads/Angel Beats!.7z"
 images:
 - url: "/assets/images/akmenu/Angel Beats!/1.png"
 - url: "/assets/images/akmenu/Angel Beats!/2.png"

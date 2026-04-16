@@ -7,9 +7,6 @@ categories:
 - mario
 - black
 - dark
-downloads:
-  SuperMarioGalaxy.7z:
-    url: "/assets/downloads/SuperMarioGalaxy.7z"
 images:
 - url: "/assets/images/akmenu/SuperMarioGalaxy/1.png"
 - url: "/assets/images/akmenu/SuperMarioGalaxy/2.png"

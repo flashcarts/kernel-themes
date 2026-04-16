@@ -4,9 +4,6 @@ creator: yukari~
 description: 
 categories:
 - ysmenu
-downloads:
-  Its Christmas Already.7z:
-    url: "/assets/downloads/ysmenu/Its Christmas Already.7z"
 images:
 - url: "/assets/images/ysmenu/Its Christmas Already/1.png"
 ---

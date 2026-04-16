@@ -6,9 +6,6 @@ categories:
 - game
 - black
 - dark
-downloads:
-  BorderlandsAK2.7z:
-    url: "/assets/downloads/BorderlandsAK2.7z"
 images:
 - url: "/assets/images/akmenu/BorderlandsAK2/1.png"
 - url: "/assets/images/akmenu/BorderlandsAK2/2.png"

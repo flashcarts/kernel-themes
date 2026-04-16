@@ -8,9 +8,6 @@ categories:
 - red
 - black
 - dark
-downloads:
-  Red Mario.7z:
-    url: "/assets/downloads/Red Mario.7z"
 images:
 - url: "/assets/images/akmenu/Red Mario/1.png"
 - url: "/assets/images/akmenu/Red Mario/2.png"

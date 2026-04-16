@@ -6,9 +6,6 @@ categories:
 - anime
 - black
 - dark
-downloads:
-  Chibi Akatsuki.7z:
-    url: "/assets/downloads/Chibi Akatsuki.7z"
 images:
 - url: "/assets/images/akmenu/Chibi Akatsuki/1.png"
 - url: "/assets/images/akmenu/Chibi Akatsuki/2.png"

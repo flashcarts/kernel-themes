@@ -8,9 +8,6 @@ categories:
 - red
 - black
 - dark
-downloads:
-  Pink Peach.7z:
-    url: "/assets/downloads/Pink Peach.7z"
 images:
 - url: "/assets/images/akmenu/Pink Peach/1.png"
 - url: "/assets/images/akmenu/Pink Peach/2.png"

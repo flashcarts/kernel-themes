@@ -5,9 +5,6 @@ description:
 categories:
 - anime
 - light
-downloads:
-  CuteAnime.7z:
-    url: "/assets/downloads/CuteAnime.7z"
 images:
 - url: "/assets/images/akmenu/CuteAnime/1.png"
 - url: "/assets/images/akmenu/CuteAnime/2.png"

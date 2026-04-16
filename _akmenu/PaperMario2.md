@@ -7,9 +7,6 @@ categories:
 - mario
 - red
 - light
-downloads:
-  PaperMario2.7z:
-    url: "/assets/downloads/PaperMario2.7z"
 images:
 - url: "/assets/images/akmenu/PaperMario2/1.png"
 - url: "/assets/images/akmenu/PaperMario2/2.png"

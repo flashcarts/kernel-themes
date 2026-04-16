@@ -5,9 +5,6 @@ description:
 categories:
 - abstract
 - dark
-downloads:
-  Monochrome.7z:
-    url: "/assets/downloads/Monochrome.7z"
 images:
 - url: "/assets/images/akmenu/Monochrome/1.png"
 - url: "/assets/images/akmenu/Monochrome/2.png"

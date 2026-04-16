@@ -5,9 +5,6 @@ description:
 categories:
 - os-replica
 - light
-downloads:
-  DS Original.7z:
-    url: "/assets/downloads/DS Original.7z"
 images:
 - url: "/assets/images/akmenu/DS Original/1.png"
 - url: "/assets/images/akmenu/DS Original/2.png"

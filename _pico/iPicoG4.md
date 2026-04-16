@@ -4,9 +4,6 @@ creator: 360ad
 description:
 categories:
 - pico
-downloads:
-  iPicoG4.7z:
-    url: "/assets/downloads/pico/iPicoG4.7z"
 images:
 - url: "/assets/images/pico/iPicoG4/1.png"
 - url: "/assets/images/pico/iPicoG4/2.png"

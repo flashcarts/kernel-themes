@@ -4,9 +4,6 @@ creator: redriolu
 description: 
 categories:
 - ysmenu
-downloads:
-  Charlotte Dunois.7z:
-    url: "/assets/downloads/ysmenu/Charlotte Dunois.7z"
 images:
 - url: "/assets/images/ysmenu/Charlotte Dunois/1.png"
 ---

@@ -9,9 +9,6 @@ categories:
 - game
 - stock
 - light
-downloads:
-  zelda.7z:
-    url: "/assets/downloads/zelda.7z"
 images:
 - url: "/assets/images/akmenu/zelda/1.png"
 - url: "/assets/images/akmenu/zelda/2.png"

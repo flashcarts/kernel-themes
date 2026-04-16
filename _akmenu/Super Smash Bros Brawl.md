@@ -7,9 +7,6 @@ categories:
 - mario
 - red
 - light
-downloads:
-  Super Smash Bros Brawl.7z:
-    url: "/assets/downloads/Super Smash Bros Brawl.7z"
 images:
 - url: "/assets/images/akmenu/Super Smash Bros Brawl/1.png"
 - url: "/assets/images/akmenu/Super Smash Bros Brawl/2.png"

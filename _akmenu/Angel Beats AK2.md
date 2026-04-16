@@ -6,9 +6,6 @@ categories:
 - anime
 - blue
 - light
-downloads:
-  Angel Beats AK2.7z:
-    url: "/assets/downloads/Angel Beats AK2.7z"
 images:
 - url: "/assets/images/akmenu/Angel Beats AK2/1.png"
 - url: "/assets/images/akmenu/Angel Beats AK2/2.png"

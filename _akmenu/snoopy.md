@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  snoopy.7z:
-    url: "/assets/downloads/snoopy.7z"
 images:
 - url: "/assets/images/akmenu/snoopy/1.png"
 - url: "/assets/images/akmenu/snoopy/2.png"

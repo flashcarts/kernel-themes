@@ -4,9 +4,6 @@ creator: ShaolinAssassin
 description: 
 categories:
 - ysmenu
-downloads:
-  Game Boy.7z:
-    url: "/assets/downloads/ysmenu/Game Boy.7z"
 images:
 - url: "/assets/images/ysmenu/Game Boy/1.png"
 ---

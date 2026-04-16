@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  Kuromi.7z:
-    url: "/assets/downloads/Kuromi.7z"
 images:
 - url: "/assets/images/akmenu/Kuromi/1.png"
 - url: "/assets/images/akmenu/Kuromi/2.png"

@@ -4,9 +4,6 @@ creator: cawala
 description: 
 categories:
 - ysmenu
-downloads:
-  patchouliknowledge.7z:
-    url: "/assets/downloads/ysmenu/patchouliknowledge.7z"
 images:
 - url: "/assets/images/ysmenu/patchouliknowledge/1.png"
 ---

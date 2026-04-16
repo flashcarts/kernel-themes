@@ -6,9 +6,6 @@ categories:
 - os-replica
 - blue
 - light
-downloads:
-  KDE 3.5.7z:
-    url: "/assets/downloads/KDE 3.5.7z"
 images:
 - url: "/assets/images/akmenu/KDE 3.5/1.png"
 - url: "/assets/images/akmenu/KDE 3.5/2.png"

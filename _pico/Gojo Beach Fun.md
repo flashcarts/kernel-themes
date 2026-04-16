@@ -4,9 +4,6 @@ creator: AdoptedJellyFish
 description:
 categories:
 - pico
-downloads:
-  Gojo Beach Fun.7z:
-    url: "/assets/downloads/pico/Gojo Beach Fun.7z"
 images:
 - url: "/assets/images/pico/Gojo Beach Fun/1.png"
 - url: "/assets/images/pico/Gojo Beach Fun/2.png"

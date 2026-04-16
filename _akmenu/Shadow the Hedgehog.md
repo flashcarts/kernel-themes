@@ -7,9 +7,6 @@ categories:
 - black
 - red
 - dark
-downloads:
-  Shadow the Hedgehog.7z:
-    url: "/assets/downloads/Shadow the Hedgehog.7z"
 images:
 - url: "/assets/images/akmenu/Shadow the Hedgehog/1.png"
 - url: "/assets/images/akmenu/Shadow the Hedgehog/2.png"

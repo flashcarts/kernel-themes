@@ -4,9 +4,6 @@ creator: Adilord
 description:
 categories:
 - pico
-downloads:
-  Solatorobo.7z:
-    url: "/assets/downloads/pico/Solatorobo.7z"
 images:
 - url: "/assets/images/pico/Solatorobo/1.png"
 - url: "/assets/images/pico/Solatorobo/2.png"

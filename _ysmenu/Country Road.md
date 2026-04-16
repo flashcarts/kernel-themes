@@ -4,9 +4,6 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
-downloads:
-  Country Road.7z:
-    url: "/assets/downloads/ysmenu/Country Road.7z"
 images:
 - url: "/assets/images/ysmenu/Country Road/1.png"
 ---

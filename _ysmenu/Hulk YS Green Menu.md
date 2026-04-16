@@ -4,9 +4,6 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
-downloads:
-  Hulk YS Green Menu.7z:
-    url: "/assets/downloads/ysmenu/Hulk YS Green Menu.7z"
 images:
 - url: "/assets/images/ysmenu/Hulk YS Green Menu/1.png"
 ---

@@ -6,9 +6,6 @@ categories:
 - game
 - black
 - dark
-downloads:
-  Silent Hill 4.7z:
-    url: "/assets/downloads/Silent Hill 4.7z"
 images:
 - url: "/assets/images/akmenu/Silent Hill 4/1.png"
 - url: "/assets/images/akmenu/Silent Hill 4/2.png"

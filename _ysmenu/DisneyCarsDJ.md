@@ -4,9 +4,6 @@ creator: Dragonman
 description: 
 categories:
 - ysmenu
-downloads:
-  DisneyCarsDJ.7z:
-    url: "/assets/downloads/ysmenu/DisneyCarsDJ.7z"
 images:
 - url: "/assets/images/ysmenu/DisneyCarsDJ/1.png"
 ---

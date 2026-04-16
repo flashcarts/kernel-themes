@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  Shining.7z:
-    url: "/assets/downloads/Shining.7z"
 images:
 - url: "/assets/images/akmenu/Shining/1.png"
 - url: "/assets/images/akmenu/Shining/2.png"

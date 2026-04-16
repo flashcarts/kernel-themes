@@ -7,9 +7,6 @@ categories:
 - black
 - animated
 - dark
-downloads:
-  Tetris [Animated].7z:
-    url: "/assets/downloads/Tetris [Animated].7z"
 images:
 - url: "/assets/images/akmenu/Tetris [Animated]/1.png"
 - url: "/assets/images/akmenu/Tetris [Animated]/2.png"

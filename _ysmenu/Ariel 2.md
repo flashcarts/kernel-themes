@@ -4,9 +4,6 @@ creator: ZoomBoom
 description: 
 categories:
 - ysmenu
-downloads:
-  Ariel.7z:
-    url: "/assets/downloads/ysmenu/Ariel 2.7z"
 images:
 - url: "/assets/images/ysmenu/Ariel 2/1.png"
 ---

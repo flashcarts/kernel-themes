@@ -5,9 +5,6 @@ description:
 categories:
 - os-replica
 - dark
-downloads:
-  DS Menu Dark Mode.7z:
-    url: "/assets/downloads/DS Menu Dark Mode.7z"
 images:
 - url: "/assets/images/akmenu/DS Menu Dark Mode/1.png"
 - url: "/assets/images/akmenu/DS Menu Dark Mode/2.png"

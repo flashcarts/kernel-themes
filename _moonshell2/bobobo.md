@@ -4,9 +4,6 @@ creator: rbug2006
 description: 
 categories:
 - moonshell2
-downloads:
-  bobobo.7z:
-    url: "/assets/downloads/moonshell2/bobobo.7z"
 images:
 - url: "/assets/images/moonshell2/bobobo/1.png"
 - url: "/assets/images/moonshell2/bobobo/2.png"

@@ -6,9 +6,6 @@ categories:
 - game
 - landscape
 - light
-downloads:
-  BobSponge by igor.7z:
-    url: "/assets/downloads/BobSponge by igor.7z"
 images:
 - url: "/assets/images/akmenu/BobSponge by igor/1.png"
 - url: "/assets/images/akmenu/BobSponge by igor/2.png"

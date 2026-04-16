@@ -6,9 +6,6 @@ categories:
 - os-replica
 - black
 - dark
-downloads:
-  PICO-8 AKMenu.7z:
-    url: "/assets/downloads/PICO-8 AKMenu.7z"
 images:
 - url: "/assets/images/akmenu/PICO-8/1.png"
 - url: "/assets/images/akmenu/PICO-8/2.png"

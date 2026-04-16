@@ -4,9 +4,6 @@ creator: cawala
 description: 
 categories:
 - ysmenu
-downloads:
-  codegeassCC.7z:
-    url: "/assets/downloads/ysmenu/codegeassCC.7z"
 images:
 - url: "/assets/images/ysmenu/codegeassCC/1.png"
 ---

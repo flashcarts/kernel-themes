@@ -5,9 +5,6 @@ description:
 categories:
 - cars
 - dark
-downloads:
-  Cars 2.7z:
-    url: "/assets/downloads/Cars 2.7z"
 images:
 - url: "/assets/images/akmenu/Cars 2/1.png"
 - url: "/assets/images/akmenu/Cars 2/2.png"

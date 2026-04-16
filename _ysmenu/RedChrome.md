@@ -4,9 +4,6 @@ creator: NewFantasy
 description: 
 categories:
 - ysmenu
-downloads:
-  RedChrome.7z:
-    url: "/assets/downloads/ysmenu/RedChrome.7z"
 images:
 - url: "/assets/images/ysmenu/RedChrome/1.png"
 ---

@@ -4,9 +4,6 @@ creator: yetanothervocaloidfan
 description: 
 categories:
 - ysmenu
-downloads:
-  Hatsune Miku.7z:
-    url: "/assets/downloads/ysmenu/Hatsune Miku.7z"
 images:
 - url: "/assets/images/ysmenu/Hatsune Miku/1.png"
 ---

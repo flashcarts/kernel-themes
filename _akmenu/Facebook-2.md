@@ -6,9 +6,6 @@ categories:
 - os-replica
 - light
 - blue
-downloads:
-  Facebook-2.7z:
-    url: "/assets/downloads/Facebook-2.7z"
 images:
 - url: "/assets/images/akmenu/Facebook-2/1.png"
 - url: "/assets/images/akmenu/Facebook-2/2.png"

@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  RilakkumaBear.7z:
-    url: "/assets/downloads/RilakkumaBear.7z"
 images:
 - url: "/assets/images/akmenu/RilakkumaBear/1.png"
 - url: "/assets/images/akmenu/RilakkumaBear/2.png"

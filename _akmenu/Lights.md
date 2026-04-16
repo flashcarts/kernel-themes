@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  Lights.7z:
-    url: "/assets/downloads/Lights.7z"
 images:
 - url: "/assets/images/akmenu/Lights/1.png"
 - url: "/assets/images/akmenu/Lights/2.png"

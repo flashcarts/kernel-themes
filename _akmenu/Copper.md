@@ -5,9 +5,6 @@ description:
 categories:
 - light
 - abstract
-downloads:
-  Copper.7z:
-    url: "/assets/downloads/Copper.7z"
 images:
 - url: "/assets/images/akmenu/Copper/1.png"
 - url: "/assets/images/akmenu/Copper/2.png"

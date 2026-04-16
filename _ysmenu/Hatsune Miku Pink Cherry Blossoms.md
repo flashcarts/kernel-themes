@@ -4,9 +4,6 @@ creator: yukari~
 description: 
 categories:
 - ysmenu
-downloads:
-  Hatsune Miku Pink Cherry Blossoms.7z:
-    url: "/assets/downloads/ysmenu/Hatsune Miku Pink Cherry Blossoms.7z"
 images:
 - url: "/assets/images/ysmenu/Hatsune Miku Pink Cherry Blossoms/1.png"
 ---

@@ -4,9 +4,6 @@ creator: kamannetje
 description: 
 categories:
 - ysmenu
-downloads:
-  Shiny Xmas.7z:
-    url: "/assets/downloads/ysmenu/Shiny Xmas.7z"
 images:
 - url: "/assets/images/ysmenu/Shiny Xmas/1.png"
 ---

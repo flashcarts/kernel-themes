@@ -5,9 +5,6 @@ description:
 categories:
 - abstract
 - dark
-downloads:
-  Vyanjan.7z:
-    url: "/assets/downloads/Vyanjan.7z"
 images:
 - url: "/assets/images/akmenu/Vyanjan/1.png"
 - url: "/assets/images/akmenu/Vyanjan/2.png"

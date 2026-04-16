@@ -6,9 +6,6 @@ categories:
 - abstract
 - black
 - dark
-downloads:
-  akPaint.7z:
-    url: "/assets/downloads/akPaint.7z"
 images:
 - url: "/assets/images/akmenu/akPaint/1.png"
 - url: "/assets/images/akmenu/akPaint/2.png"

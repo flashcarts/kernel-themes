@@ -4,9 +4,6 @@ creator: newkira
 description: 
 categories:
 - ysmenu
-downloads:
-  Holo Spice and Wolf.7z:
-    url: "/assets/downloads/ysmenu/Holo Spice and Wolf.7z"
 images:
 - url: "/assets/images/ysmenu/Holo Spice and Wolf/1.png"
 ---

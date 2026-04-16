@@ -6,9 +6,6 @@ categories:
 - dragon
 - black
 - dark
-downloads:
-  Dragon Final.7z:
-    url: "/assets/downloads/Dragon Final.7z"
 images:
 - url: "/assets/images/akmenu/Dragon Final/1.png"
 - url: "/assets/images/akmenu/Dragon Final/2.png"

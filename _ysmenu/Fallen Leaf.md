@@ -4,9 +4,6 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
-downloads:
-  Fallen Leaf.7z:
-    url: "/assets/downloads/ysmenu/Fallen Leaf.7z"
 images:
 - url: "/assets/images/ysmenu/Fallen Leaf/1.png"
 ---

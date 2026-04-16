@@ -7,9 +7,6 @@ categories:
 - mario
 - blue
 - dark
-downloads:
-  Bowser The Inside Story.7z:
-    url: "/assets/downloads/Bowser The Inside Story.7z"
 images:
 - url: "/assets/images/akmenu/Bowser The Inside Story/1.png"
 - url: "/assets/images/akmenu/Bowser The Inside Story/2.png"

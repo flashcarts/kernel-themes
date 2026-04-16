@@ -6,9 +6,6 @@ categories:
 - akmenu
 - black
 - dark
-downloads:
-  BlackAK.7z:
-    url: "/assets/downloads/BlackAK.7z"
 images:
 - url: "/assets/images/akmenu/BlackAK/1.png"
 - url: "/assets/images/akmenu/BlackAK/2.png"

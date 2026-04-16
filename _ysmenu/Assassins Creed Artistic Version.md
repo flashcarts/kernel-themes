@@ -4,9 +4,6 @@ creator: Gabbynaruto
 description: 
 categories:
 - ysmenu
-downloads:
-  Assassins Creed Artistic Version.7z:
-    url: "/assets/downloads/ysmenu/Assassins Creed Artistic Version.7z"
 images:
 - url: "/assets/images/ysmenu/Assassins Creed Artistic Version/1.png"
 ---

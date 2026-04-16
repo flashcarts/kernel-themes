@@ -4,9 +4,6 @@ creator: Amy--Rose
 description: 
 categories:
 - ysmenu
-downloads:
-  BloomV2.7z:
-    url: "/assets/downloads/ysmenu/BloomV2.7z"
 images:
 - url: "/assets/images/ysmenu/BloomV2/1.png"
 ---

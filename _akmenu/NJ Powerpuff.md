@@ -5,9 +5,6 @@ description:
 categories:
 - music
 - light
-downloads:
-  NJ Powerpuff.7z:
-    url: "/assets/downloads/NJ Powerpuff.7z"
 images:
 - url: "/assets/images/akmenu/NJ Powerpuff/1.png"
 - url: "/assets/images/akmenu/NJ Powerpuff/2.png"

@@ -5,9 +5,6 @@ description:
 categories:
 - abstract
 - dark
-downloads:
-  Matte Black.7z:
-    url: "/assets/downloads/Matte Black.7z"
 images:
 - url: "/assets/images/akmenu/Matte Black/1.png"
 - url: "/assets/images/akmenu/Matte Black/2.png"

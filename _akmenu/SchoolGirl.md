@@ -4,9 +4,6 @@ creator: Unknown
 description: 
 categories:
 - akmenu
-downloads:
-  SchoolGirl.7z:
-    url: "/assets/downloads/SchoolGirl.7z"
 images:
 - url: "/assets/images/akmenu/SchoolGirl/1.png"
 - url: "/assets/images/akmenu/SchoolGirl/2.png"

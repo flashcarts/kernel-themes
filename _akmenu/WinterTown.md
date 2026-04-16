@@ -6,9 +6,6 @@ categories:
 - seasonal
 - landscape
 - dark
-downloads:
-  WinterTown.7z:
-    url: "/assets/downloads/WinterTown.7z"
 images:
 - url: "/assets/images/akmenu/WinterTown/1.png"
 - url: "/assets/images/akmenu/WinterTown/2.png"

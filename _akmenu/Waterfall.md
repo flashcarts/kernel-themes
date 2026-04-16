@@ -7,9 +7,6 @@ categories:
 - black
 - blue
 - dark
-downloads:
-  Waterfall.7z:
-    url: "/assets/downloads/Waterfall.7z"
 images:
 - url: "/assets/images/akmenu/Waterfall/1.png"
 - url: "/assets/images/akmenu/Waterfall/2.png"

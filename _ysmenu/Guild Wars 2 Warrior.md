@@ -4,9 +4,6 @@ creator: SlipknoT666
 description: 
 categories:
 - ysmenu
-downloads:
-  Guild Wars 2 Warrior.7z:
-    url: "/assets/downloads/ysmenu/Guild Wars 2 Warrior.7z"
 images:
 - url: "/assets/images/ysmenu/Guild Wars 2 Warrior/1.png"
 ---

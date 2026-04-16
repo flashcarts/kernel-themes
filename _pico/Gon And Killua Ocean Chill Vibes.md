@@ -4,9 +4,6 @@ creator: AdoptedJellyFish
 description:
 categories:
 - pico
-downloads:
-  Gon And Killua Ocean Chill Vibes.7z:
-    url: "/assets/downloads/pico/Gon And Killua Ocean Chill Vibes.7z"
 images:
 - url: "/assets/images/pico/Gon And Killua Ocean Chill Vibes/1.png"
 - url: "/assets/images/pico/Gon And Killua Ocean Chill Vibes/2.png"
