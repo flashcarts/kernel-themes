@@ -18,7 +18,7 @@ title: Home
 
 #### [4/20/2026]
 
-- New Pico-Launcher themes have been added. Authors E-L and M-R have been uploaded and are now available for download.
+- New Pico-Launcher themes have been added. All remaining Pico-Launcher themes in the backlog have been uploaded and are now available for download. (Authors E-Z)
 
 #### [4/14/2026]
 
