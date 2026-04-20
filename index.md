@@ -19,6 +19,7 @@ title: Home
 #### [4/20/2026]
 
 - New Pico-Launcher themes have been added. All remaining Pico-Launcher themes in the backlog have been uploaded and are now available for download. (Authors E-Z)
+- Also added 360ad's new Switch theme for Pico-Launcher.
 
 #### [4/14/2026]
 
