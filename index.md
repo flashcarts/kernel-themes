@@ -16,9 +16,13 @@ title: Home
 ### Site Status
 ---
 
+#### [4/20/2026]
+
+- New Pico-Launcher themes have been added. Authors E-L and M-R have been uploaded and are now available for download.
+
 #### [4/14/2026]
 
-- Pico-Launcher support has been added. Currently, themes from authors with A-D has been added. Themes with multiple layout variants are hosted under one theme tile, with multiple downloads available. More Pico-Launcher themes will be added soon in the next update.
+- Pico-Launcher support has been added. Currently, themes from authors A-D have been added. Themes with multiple layout variants are hosted under one theme tile, with multiple downloads available. More Pico-Launcher themes will be added soon in the next update.
 - More Moonshell 2, AKMenu, and YSMenu themes will still be uploaded in the future, once I am done going through the current batch of Pico-Launcher themes that are available.
 
 #### [3/15/2026]
