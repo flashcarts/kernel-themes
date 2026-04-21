@@ -134,7 +134,18 @@ layout: compress
 
 	{% include footer.html %}
 
+	{% if page.images.size > 0 %}
+	<div id="lightbox-overlay">
+		<button id="lightbox-close" aria-label="Close">&times;</button>
+		<a id="lightbox-prev" class="carousel-control-prev" role="button" aria-label="Previous"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="visually-hidden">Previous</span></a>
+		<img id="lightbox-img" src="" alt="">
+		<a id="lightbox-next" class="carousel-control-next" role="button" aria-label="Next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="visually-hidden">Next</span></a>
+		<div id="lightbox-indicators" class="carousel-indicators"></div>
+	</div>
+	{% endif %}
+
 	{% include common-js.html %}
 	<script src="/assets/js/modal.js"></script>
+	<script src="/assets/js/lightbox.js"></script>
 </body>
 </html>

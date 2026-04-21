@@ -576,6 +576,54 @@ a.footnote::after {
 	content: "]";
 }
 
+// Lightbox
+#lightbox-overlay {
+	display: none;
+	position: fixed;
+	inset: 0;
+	z-index: 9999;
+	background: rgba(0, 0, 0, 0.92);
+	align-items: center;
+	justify-content: center;
+	&.active { display: flex; }
+}
+
+#lightbox-img {
+	max-width: 88vw;
+	max-height: 90vh;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+	&.zoomed { max-width: none; max-height: none; }
+}
+
+#lightbox-close {
+	position: fixed;
+	top: 1rem;
+	right: 1.25rem;
+	background: none;
+	border: none;
+	color: rgba(255,255,255,0.85);
+	font-size: 2.5rem;
+	cursor: pointer;
+	z-index: 3;
+	&:hover { color: #fff; }
+}
+
+#lightbox-prev, #lightbox-next {
+	position: static;
+	width: 4rem;
+	.carousel-control-prev-icon, .carousel-control-next-icon { width: 3rem; height: 3rem; }
+}
+
+#lightbox-indicators {
+	position: fixed;
+	left: 50%;
+	bottom: 1rem;
+	transform: translateX(-50%);
+	margin: 0;
+	z-index: 2;
+}
+
 // Alerts
 .small-alert {
 	padding: 0.5rem 1rem;
