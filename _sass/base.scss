@@ -136,8 +136,7 @@ div .btn-primary:hover {
 	border-color: colours.$primary!important;
 }
 .btn-primary:hover, .btn-primary:active {
-	color: colours.$nav-link-color!important;
-	opacity: 0.8;
+	color: colours.$nav-link-color-hover!important;
 }
 .btn-outline-primary {
 	color: colours.$primary;
