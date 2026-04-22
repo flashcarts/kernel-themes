@@ -16,6 +16,9 @@ title: Home
 ### Site Status
 ---
 
+#### [4/22/2026]
+- New Pico Launcher themes added: SteamPico v1/v2, and 360ad's PicoScope.
+
 #### [4/20/2026]
 
 - New Pico-Launcher themes have been added. All remaining Pico-Launcher themes in the backlog have been uploaded and are now available for download. (Authors E-Z)
