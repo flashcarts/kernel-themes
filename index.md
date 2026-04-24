@@ -17,7 +17,7 @@ title: Home
 ---
 
 #### [4/22/2026]
-- New Pico Launcher themes added: SteamPico v1/v2, and 360ad's PicoScope.
+- New Pico Launcher themes added: SteamPico v1/v2, 360ad's PicoScope, and Persona Blue
 
 #### [4/20/2026]
 
