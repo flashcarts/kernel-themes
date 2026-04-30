@@ -16,8 +16,11 @@ title: Home
 ### Site Status
 ---
 
+#### [4/30/2026]
+- New Pico Launcher themes added: iPic 5G, DS Dark Pink variants, and Prophecy.
+
 #### [4/22/2026 - 4/25/26]
-- New Pico Launcher themes added: SteamPico v1/v2, Crystal Caves, 360ad's PicoScope, Persona Blue, PiCardboard/Dark, and Attack of the Grey Pico
+- New Pico Launcher themes added: SteamPico v1/v2, Crystal Caves, 360ad's PicoScope, Persona Blue, PiCardboard/Dark, and Attack of the Grey Pico.
 
 #### [4/20/2026]
 
