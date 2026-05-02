@@ -7,10 +7,10 @@ categories:
 downloads:
 - 初音ミク.7z
 images:
-- url: "/assets/images/pico/初音ミク/1.png"
-- url: "/assets/images/pico/初音ミク/2.png"
-- url: "/assets/images/pico/初音ミク/3.png"
-- url: "/assets/images/pico/初音ミク/4.png"
+- url: "/assets/images/pico/Monitoring/1.png"
+- url: "/assets/images/pico/Monitoring/2.png"
+- url: "/assets/images/pico/Monitoring/3.png"
+- url: "/assets/images/pico/Monitoring/4.png"
 ---
 
 {% include kernels/pico.md pico_themeFile="初音ミク.7z" pico_themeFolder="初音ミク" %}
