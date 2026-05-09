@@ -1,0 +1,27 @@
+---
+title: "Miku _Pink Party"
+creator: Row
+description:
+categories:
+- pico
+downloads:
+- Miku _Pink Party - Vertical.7z
+- Miku _Pink Party - Vertical Coverless.7z
+- Miku _Pink Party - Horizontal.7z
+- Miku _Pink Party - Horizontal Coverless.7z
+images:
+- url: "/assets/images/pico/Miku _Pink Party - Vertical/1.png"
+- url: "/assets/images/pico/Miku _Pink Party - Vertical/2.png"
+- url: "/assets/images/pico/Miku _Pink Party - Vertical Coverless/1.png"
+- url: "/assets/images/pico/Miku _Pink Party - Vertical Coverless/2.png"
+- url: "/assets/images/pico/Miku _Pink Party - Horizontal/1.png"
+- url: "/assets/images/pico/Miku _Pink Party - Horizontal/2.png"
+- url: "/assets/images/pico/Miku _Pink Party - Horizontal Coverless/1.png"
+- url: "/assets/images/pico/Miku _Pink Party - Horizontal Coverless/2.png"
+---
+
+{% include kernels/pico.md pico_themeFile="Miku _Pink Party - Vertical.7z" pico_themeFolder="Miku _Pink Party - Vertical" %}
+
+### Multiple Layouts
+
+{% include kernels/pico-variants.md pico_altLayout="horizontal" pico_themeFolder="Miku _Pink Party - Vertical" pico_themeAltFolder="Miku _Pink Party - Horizontal" %}
