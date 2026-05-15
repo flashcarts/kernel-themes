@@ -22,6 +22,7 @@ title: Home
 - [5/4] Added DSBook Redux, Lapras Goo!, Jirachi, PicoBook, and The Beach
 - [5/9] Added Altimit Pico OS, DSmiku, Miku Pink Party, PicoXP, Starry Night, and more Jirachi themes.
 - [5/13] Added Iruma-kun and Fallout 1 theme.
+- [5/15] Added HawkTec's stock themes.
 
 #### [4/22/2026 - 4/25/26]
 - New Pico Launcher themes added: SteamPico v1/v2, Crystal Caves, 360ad's PicoScope, Persona Blue, PiCardboard/Dark, and Attack of the Grey Pico.
