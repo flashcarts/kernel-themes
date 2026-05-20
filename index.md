@@ -16,13 +16,14 @@ title: Home
 ### Site Status
 ---
 
-#### [4/30/2026 - 5/15/2026]
+#### [4/30/2026 - 5/20/2026]
 - New Pico Launcher themes added: iPic 5G, DS Dark Pink variants, and Prophecy
 - [5/2] Added PiCord, PicoShop, Picofy, Miku themes, and DSBook
 - [5/4] Added DSBook Redux, Lapras Goo!, Jirachi, PicoBook, and The Beach
 - [5/9] Added Altimit Pico OS, DSmiku, Miku Pink Party, PicoXP, Starry Night, and more Jirachi themes.
 - [5/13] Added Iruma-kun and Fallout 1 theme.
 - [5/15] Added HawkTec's stock themes, and SF6 Genbu Temple theme.
+- [5/20] Added Zelda, Gauntlet, and BSOD themes.
 
 #### [4/22/2026 - 4/25/26]
 - New Pico Launcher themes added: SteamPico v1/v2, Crystal Caves, 360ad's PicoScope, Persona Blue, PiCardboard/Dark, and Attack of the Grey Pico.
