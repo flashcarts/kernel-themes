@@ -1,6 +1,6 @@
 ---
 title: Chrono Trigger
-creator:
+creator: Ark88
 description: 
 categories:
 - game

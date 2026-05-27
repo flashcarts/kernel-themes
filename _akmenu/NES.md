@@ -1,6 +1,6 @@
 ---
 title: NES
-creator: 
+creator: gnugnu
 description: 
 categories:
 - abstract

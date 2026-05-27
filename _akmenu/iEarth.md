@@ -1,6 +1,6 @@
 ---
 title: iEarth
-creator:
+creator: GT-R
 description: 
 categories:
 - os-replica
