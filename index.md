@@ -16,6 +16,9 @@ title: Home
 ### Site Status
 ---
 
+#### [5/26/2026]
+- Added new AKMenu themes from GBATemp. Still have a fairly large backlog of other AKMenu themes to add though from archives.
+
 #### [4/30/2026 - 5/20/2026]
 - New Pico Launcher themes added: iPic 5G, DS Dark Pink variants, and Prophecy
 - [5/2] Added PiCord, PicoShop, Picofy, Miku themes, and DSBook
