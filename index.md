@@ -16,6 +16,9 @@ title: Home
 ### Site Status
 ---
 
+#### [5/30/2026]
+- Added AKMenu themes recovered by Reddit user u/scaryPigMask
+
 #### [5/26/2026]
 - Added new AKMenu themes from GBATemp. Still have a fairly large backlog of other AKMenu themes to add though from archives.
 - Also added new themes from TWiLight's Wood UI repo

@@ -1,0 +1,15 @@
+---
+title: WinXP Grey
+creator: Unknown
+description:
+categories:
+- akmenu
+downloads:
+- WinXP Grey.7z
+images:
+- url: "/assets/images/akmenu/WinXP Grey/1.png"
+- url: "/assets/images/akmenu/WinXP Grey/2.png"
+- url: "/assets/images/akmenu/WinXP Grey/3.png"
+---
+
+{% include kernels/akmenu.md akmenu_themeFile="WinXP Grey.7z" akmenu_themeFolder="WinXP Grey" %}
