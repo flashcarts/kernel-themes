@@ -17,16 +17,17 @@ title: Home
 ---
 
 #### [5/30/2026]
-- Added AKMenu themes recovered by Reddit user u/scaryPigMask
+- Added AKMenu themes recovered by Reddit user u/scaryPigMask.
+- Also imported PokeWaifu theme from TWiLight skins repo.
 
 #### [5/26/2026]
 - Added new AKMenu themes from GBATemp. Still have a fairly large backlog of other AKMenu themes to add though from archives.
-- Also added new themes from TWiLight's Wood UI repo
+- Also added new themes from TWiLight's Wood UI repo.
 
 #### [4/30/2026 - 5/20/2026]
-- New Pico Launcher themes added: iPic 5G, DS Dark Pink variants, and Prophecy
-- [5/2] Added PiCord, PicoShop, Picofy, Miku themes, and DSBook
-- [5/4] Added DSBook Redux, Lapras Goo!, Jirachi, PicoBook, and The Beach
+- New Pico Launcher themes added: iPic 5G, DS Dark Pink variants, and Prophecy.
+- [5/2] Added PiCord, PicoShop, Picofy, Miku themes, and DSBook.
+- [5/4] Added DSBook Redux, Lapras Goo!, Jirachi, PicoBook, and The Beach.
 - [5/9] Added Altimit Pico OS, DSmiku, Miku Pink Party, PicoXP, Starry Night, and more Jirachi themes.
 - [5/13] Added Iruma-kun and Fallout 1 theme.
 - [5/15] Added HawkTec's stock themes, and SF6 Genbu Temple theme.
