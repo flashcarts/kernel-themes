@@ -16,6 +16,9 @@ title: Home
 ### Site Status
 ---
 
+#### [6/2/2026]
+- New Pico Launcher themes added: Bubble Cat Paradise, Dweeb, Pico LN-H, and PiCracked.
+
 #### [5/30/2026]
 - Added AKMenu themes recovered by Reddit user u/scaryPigMask.
 - Also imported PokeWaifu theme from TWiLight skins repo.
