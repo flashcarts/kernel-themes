@@ -1,0 +1,16 @@
+---
+title: DSpico Entertainment System
+creator: ChannelHealthy5892
+description:
+categories:
+- pico
+downloads:
+- DSpico Entertainment System.7z
+images:
+- url: "/assets/images/pico/DSpico Entertainment System/1.png"
+- url: "/assets/images/pico/DSpico Entertainment System/2.png"
+- url: "/assets/images/pico/DSpico Entertainment System/3.png"
+- url: "/assets/images/pico/DSpico Entertainment System/4.png"
+---
+
+{% include kernels/pico.md pico_themeFile="DSpico Entertainment System.7z" pico_themeFolder="DSpico Entertainment System" %}
