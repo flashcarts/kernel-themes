@@ -73,4 +73,4 @@ images:
 
 ### Multiple Wallpaper Options
 
-This theme has many different wallpapers available, so check out the previews! If you choose to use one of the other wallpaper version instead of the default Embedded wallpaper, simply subsitute `PicoXP Embedded - Embedded H` in the installation instructions above with the theme name of your wallpaper choice.
+This theme has many different wallpapers available, so check out the previews! If you choose to use one of the other wallpaper versions instead of the default Embedded wallpaper, simply subsitute `PicoXP Embedded - Embedded H` in the installation instructions above with the theme name of your wallpaper choice.
