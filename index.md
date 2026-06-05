@@ -18,7 +18,7 @@ title: Home
 
 #### [6/2/2026-6/4/2026]
 - New Pico Launcher themes added: Bubble Cat Paradise, Dweeb, Pico LN-H, and PiCracked.
-- [6/4] Added Bubble Cat Paradise V2, DSpico Entertainment System, and Sillycat.
+- [6/4] Added PicoXP Embedded [Horizontal], Bubble Cat Paradise V2, DSpico Entertainment System, and Sillycat.
 
 #### [5/30/2026]
 - Added AKMenu themes recovered by Reddit user u/scaryPigMask.
