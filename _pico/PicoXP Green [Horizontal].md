@@ -72,4 +72,4 @@ images:
 
 ### Multiple Wallpaper Options
 
-This theme has many different wallpapers available, so check out the previews! If you choose to use one of the other wallpaper versions instead of the default wallpaper, simply subsitute `PicoXP Green - Flag (Green) H` in the installation instructions above with the theme name of your wallpaper choice.
+This theme has many different wallpapers available, so check out the previews! If you choose to use one of the other wallpaper versions instead of the default PicoFX wallpaper, simply subsitute `PicoXP Green - PicoFX H` in the installation instructions above with the theme name of your wallpaper choice.
