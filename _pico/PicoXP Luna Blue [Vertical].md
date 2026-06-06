@@ -1,5 +1,5 @@
 ---
-title: PicoXP Luna Blue - Bliss V
+title: PicoXP Luna Blue [Vertical]
 creator: 360ad
 description:
 categories:

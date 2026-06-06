@@ -1,5 +1,5 @@
 ---
-title: PicoXP Luna Silver - Flag (Green) H
+title: PicoXP Luna Silver [Horizontal]
 creator: 360ad
 description:
 categories:

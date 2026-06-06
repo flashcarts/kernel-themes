@@ -1,5 +1,5 @@
 ---
-title: PicoXP Luna Olive - Tulips H
+title: PicoXP Luna Olive [Horizontal]
 creator: 360ad
 description:
 categories:
