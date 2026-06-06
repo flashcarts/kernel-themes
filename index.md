@@ -20,7 +20,7 @@ title: Home
 - New Pico Launcher themes added: Bubble Cat Paradise, Dweeb, Pico LN-H, and PiCracked.
 - [6/4] Added PicoXP Embedded, PicoXP Green, Bubble Cat Paradise V2, DSpico Entertainment System, and Sillycat.
     - PicoXP will be a days long upload and it will be uploaded bit-by-bit, as there is a very large number of variants to process.
-- [6/5] Added PicoXP Luna Blue theme
+- [6/5] Added PicoXP Luna Blue and Luna Olive themes
 
 #### [5/30/2026]
 - Added AKMenu themes recovered by Reddit user u/scaryPigMask.
