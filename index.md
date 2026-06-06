@@ -21,6 +21,7 @@ title: Home
 - [6/4] Added PicoXP Embedded, PicoXP Green, Bubble Cat Paradise V2, DSpico Entertainment System, and Sillycat.
     - PicoXP will be a days long upload and it will be uploaded bit-by-bit, as there is a very large number of variants to process.
 - [6/5] Added PicoXP Luna Blue, Luna Olive, and Luna Silver themes.
+- [6/6] Added PicoXP Pink theme.
 
 #### [5/30/2026]
 - Added AKMenu themes recovered by Reddit user u/scaryPigMask.
