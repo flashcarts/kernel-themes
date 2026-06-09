@@ -22,6 +22,7 @@ title: Home
     - PicoXP will be a days long upload and it will be uploaded bit-by-bit, as there is a very large number of variants to process.
 - [6/5] Added PicoXP Luna Blue, Luna Olive, and Luna Silver themes.
 - [6/6] Added PicoXP Pink theme.
+- [6/9] Added PicoXP Royale, Royale Noir, and Zune themes. This finishes up the PicoXP theme upload, all variants are now hosted.
 
 #### [5/30/2026]
 - Added AKMenu themes recovered by Reddit user u/scaryPigMask.
