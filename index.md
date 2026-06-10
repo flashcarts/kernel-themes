@@ -16,7 +16,10 @@ title: Home
 ### Site Status
 ---
 
-#### [6/2/2026-6/4/2026]
+#### [6/10/2026]
+- Added new Pico Launcher themes: 3DS White, Cute Bear, PiDeck, Pokemon Battle, and StarPico.
+
+#### [6/2/2026-6/9/2026]
 - New Pico Launcher themes added: Bubble Cat Paradise, Dweeb, Pico LN-H, and PiCracked.
 - [6/4] Added PicoXP Embedded, PicoXP Green, Bubble Cat Paradise V2, DSpico Entertainment System, and Sillycat.
     - PicoXP will be a days long upload and it will be uploaded bit-by-bit, as there is a very large number of variants to process.
