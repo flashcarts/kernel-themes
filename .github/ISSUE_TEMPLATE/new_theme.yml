@@ -1,0 +1,54 @@
+name: Upload a New Theme
+description: Submit a new theme for inclusion in the repository.
+title: "[Theme Upload]: "
+labels:
+  - theme submission
+body:
+  - type: dropdown
+    id: kernel
+    attributes:
+      label: Intended Kernel
+      description: Which kernel is this theme intended for?
+      options:
+        - WoodR4/AKMenu
+        - YSMenu
+        - Pico-Launcher
+        - Moonshell 2
+    validations:
+      required: true
+
+  - type: input
+    id: theme-author
+    attributes:
+      label: Theme Author
+      description: Who created the theme?
+      placeholder: "Author Name Here"
+    validations:
+      required: true
+
+  - type: input
+    id: theme-name
+    attributes:
+      label: Theme Name
+      description: What is the name of the theme?
+      placeholder: "Theme Name Here"
+    validations:
+      required: true
+
+  - type: textarea
+    id: theme-description
+    attributes:
+      label: Theme Description
+      description: Provide a short description of the theme. Please make sure this description is also in your theme's `theme.json` file.
+      placeholder: "Describe the theme's style, inspiration, special features, etc."
+    validations:
+      required: true
+
+  - type: textarea
+    id: theme-upload
+    attributes:
+      label: Theme Archive Upload
+      description: Upload a .zip or .7z archive of the theme here. You can drag and drop the file into this field.
+      placeholder: "Drag and drop your .zip or .7z file here."
+    validations:
+      required: true
