@@ -1,6 +1,6 @@
 ---
 title: R4iTT for DSpico
-creator: Yari
+creator: KonKon
 description: 'Theme based on the R4iTT firmware menu.'
 categories:
 - pico
