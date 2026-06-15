@@ -16,8 +16,9 @@ title: Home
 ### Uploading a Theme
 - Currently, the site has no automated (user-facing) system for uploading new themes. As such if you would like to see a new theme added to the repo that isn't already uploaded, please create a new issue in the [kernel-themes repository](https://github.com/flashcarts/kernel-themes/issues/new), and provide the theme file to be added, as well as a description of what kernel the theme is intended for. Note that only themes for supported kernels will be accepted - Pico-Launcher, WoodR4/AKMenu, YSMenu, and Moonshell 2.
 
-### Site Status
 ---
+
+### Site Status
 
 #### [6/10/2026 - 6/15/2026]
 - Added new Pico Launcher themes: 3DS White, Cute Bear, PiDeck, Pokemon Battle, and StarPico.
