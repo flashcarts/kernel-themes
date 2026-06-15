@@ -1,7 +1,7 @@
 ---
 title: Basic Gray
 creator: jayx3m
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

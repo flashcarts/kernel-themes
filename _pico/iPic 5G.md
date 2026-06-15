@@ -1,7 +1,7 @@
 ---
 title: iPic 5G
 creator: 360ad
-description:
+description: 'Theme based on the iPod 5G interface.'
 categories:
 - pico
 downloads:

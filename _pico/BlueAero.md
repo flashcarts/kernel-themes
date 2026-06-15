@@ -1,7 +1,7 @@
 ---
 title: BlueAero
 creator: JuiceBox
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

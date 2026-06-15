@@ -1,7 +1,7 @@
 ---
 title: Inazuma 3
 creator: Virgixz
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

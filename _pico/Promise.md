@@ -1,7 +1,7 @@
 ---
 title: Promise
 creator: detenog
-description:
+description: 'Theme based on an unfulfilled promise.'
 categories:
 - pico
 downloads:

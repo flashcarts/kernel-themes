@@ -1,7 +1,7 @@
 ---
 title: PicoShop
 creator: 360ad
-description:
+description: 'Theme based on the Photoshop interface.'
 categories:
 - pico
 downloads:

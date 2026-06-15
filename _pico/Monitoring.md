@@ -1,7 +1,7 @@
 ---
 title: 初音ミク
 creator: littlegoob
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

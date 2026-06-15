@@ -1,7 +1,7 @@
 ---
 title: DS Classic Pink
 creator: Row
-description:
+description: 'Theme based on the DS menus.'
 categories:
 - pico
 downloads:

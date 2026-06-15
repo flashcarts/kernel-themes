@@ -1,7 +1,7 @@
 ---
 title: SimpleTerminal
 creator: 360ad
-description:
+description: 'Theme based on a black/green terminal interface.'
 categories:
 - pico
 downloads:

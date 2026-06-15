@@ -1,7 +1,7 @@
 ---
 title: Neon Genesis Evangelion - Second Children
 creator: RealPolybius
-description:
+description: 'NGE: The Second Child'
 categories:
 - pico
 downloads:

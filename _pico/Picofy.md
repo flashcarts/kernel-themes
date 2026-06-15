@@ -1,7 +1,7 @@
 ---
 title: Picofy
 creator: ChannelHealthy5892
-description:
+description: 'Spotify theme'
 categories:
 - pico
 downloads:

@@ -1,7 +1,7 @@
 ---
 title: Persona Blue
 creator: 360ad
-description:
+description: 'Theme inspired by Persona.'
 categories:
 - pico
 downloads:

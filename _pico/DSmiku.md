@@ -1,7 +1,7 @@
 ---
 title: DSmiku
 creator: ChannelHealthy5892
-description:
+description: 'Hatsune Miku theme'
 categories:
 - pico
 downloads:

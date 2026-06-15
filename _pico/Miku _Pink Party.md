@@ -1,7 +1,7 @@
 ---
 title: "Miku _Pink Party"
 creator: Row
-description:
+description: An incredible theme
 categories:
 - pico
 downloads:

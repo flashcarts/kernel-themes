@@ -1,7 +1,7 @@
 ---
 title: AE86 W EuroBeat
 creator: AdoptedJellyFish
-description:
+description: 'Drifting Bro '
 categories:
 - pico
 downloads:

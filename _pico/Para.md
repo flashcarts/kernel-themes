@@ -1,7 +1,7 @@
 ---
 title: Para
 creator: littlegoob
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

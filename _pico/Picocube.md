@@ -1,7 +1,7 @@
 ---
 title: Picocube
 creator: TheTechnomancer076
-description:
+description: 'A very simple Nintendo Gamecube inspired theme!'
 categories:
 - pico
 downloads:

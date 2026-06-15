@@ -1,7 +1,7 @@
 ---
 title: WhiteScope
 creator: 360ad
-description:
+description: 'Theme based on the RedScope theme for Wood.'
 categories:
 - pico
 downloads:

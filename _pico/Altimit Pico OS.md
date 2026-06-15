@@ -1,7 +1,7 @@
 ---
 title: Altimit Pico OS
 creator: Egoistamamono
-description:
+description: 'Inspired by Altimit OS from .hack//IMOQ series.'
 categories:
 - pico
 downloads:

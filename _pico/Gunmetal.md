@@ -1,7 +1,7 @@
 ---
 title: Gunmetal
 creator: Mow
-description:
+description: 'Basic metallic theme.'
 categories:
 - pico
 downloads:

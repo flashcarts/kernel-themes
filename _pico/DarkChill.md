@@ -1,7 +1,7 @@
 ---
 title: DarkChill
 creator: BlankName_Error
-description: For those who want to relax the eyes and the soul
+description: 'For those who wants to relax the eyes and the soul'
 categories:
 - pico
 downloads:

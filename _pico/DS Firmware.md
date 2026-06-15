@@ -1,7 +1,7 @@
 ---
 title: DS Firmware
 creator: Reno
-description:
+description: 'Theme based on the DS firmware menu.'
 categories:
 - pico
 downloads:

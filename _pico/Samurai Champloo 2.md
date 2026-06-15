@@ -1,7 +1,7 @@
 ---
 title: Samurai Champloo 2
 creator: AdoptedJellyFish
-description:
+description: 'Samurai Things'
 categories:
 - pico
 downloads:

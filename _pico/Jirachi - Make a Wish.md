@@ -1,7 +1,7 @@
 ---
 title: Jirachi - Make a Wish
 creator: Row
-description:
+description: 'Theme inspired by the RedScope theme for Wood.'
 categories:
 - pico
 downloads:

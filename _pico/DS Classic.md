@@ -1,7 +1,7 @@
 ---
 title: DS Classic
 creator: Mow
-description:
+description: 'Theme based on the DS menus.'
 categories:
 - pico
 downloads:

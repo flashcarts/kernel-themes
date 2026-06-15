@@ -1,7 +1,7 @@
 ---
 title: VA-11 Hall-A
 creator: Ryutsaki
-description:
+description: 'Made to complement VA-11 Hall-A 3DS themes'
 categories:
 - pico
 downloads:

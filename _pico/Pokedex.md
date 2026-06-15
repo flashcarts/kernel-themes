@@ -1,7 +1,7 @@
 ---
 title: Pokedex
 creator: Mow
-description:
+description: 'Theme based on a Pokedex.'
 categories:
 - pico
 downloads:

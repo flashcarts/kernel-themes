@@ -1,7 +1,7 @@
 ---
 title: PicoSearch
 creator: 360ad
-description:
+description: 'Theme based on the Google Search Page from ~2010.'
 categories:
 - pico
 downloads:

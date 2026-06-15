@@ -1,7 +1,7 @@
 ---
 title: Minecraft
 creator: Esentasse
-description:
+description: 'Theme based on Minecraft.'
 categories:
 - pico
 downloads:

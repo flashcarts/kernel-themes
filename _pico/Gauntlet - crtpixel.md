@@ -1,7 +1,7 @@
 ---
 title: Gauntlet - crtpixel
 creator: rabidrodent
-description:
+description: '(Photo by crtpixel.bsky.social)'
 categories:
 - pico
 downloads:

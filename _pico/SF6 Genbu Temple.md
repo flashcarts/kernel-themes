@@ -1,7 +1,7 @@
 ---
 title: SF6 Genbu Temple
 creator: giancarlozero
-description:
+description: 'SF6 Ryu Theme for DSpico'
 categories:
 - pico
 downloads:

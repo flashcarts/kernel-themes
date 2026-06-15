@@ -1,7 +1,7 @@
 ---
 title: Win95
 creator: Mow
-description:
+description: 'Theme based on Windows 95.'
 categories:
 - pico
 downloads:

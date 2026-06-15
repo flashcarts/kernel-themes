@@ -1,7 +1,7 @@
 ---
 title: Pokemon Mystery Dungeon Sky
 creator: Mow
-description:
+description: 'Theme based on Pokemon Mystery Dungeon: Explorers of Sky (inspired by Rayhan''s TWLMenu theme).'
 categories:
 - pico
 downloads:

@@ -1,7 +1,7 @@
 ---
 title: PicoXP Luna Blue [Horizontal]
 creator: 360ad
-description:
+description: 'Theme based on Windows XP.'
 categories:
 - pico
 downloads:

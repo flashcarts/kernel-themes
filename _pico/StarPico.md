@@ -1,7 +1,7 @@
 ---
 title: StarPico
 creator: Adrighg-scripts
-description:
+description: 'StarWars based theme'
 categories:
 - pico
 downloads:

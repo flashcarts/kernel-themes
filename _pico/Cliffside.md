@@ -1,7 +1,7 @@
 ---
 title: Cliffside
 creator: HawkTec
-description:
+description: 'Dramatic cliffs and rugged coastline.'
 categories:
 - pico
 downloads:

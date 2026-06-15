@@ -1,7 +1,7 @@
 ---
 title: iPicoG4
 creator: 360ad
-description:
+description: 'Theme based on the iMac G4.'
 categories:
 - pico
 downloads:

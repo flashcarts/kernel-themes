@@ -1,7 +1,7 @@
 ---
 title: PiCord
 creator: 360ad
-description:
+description: 'Theme based on the Discord interface.'
 categories:
 - pico
 downloads:

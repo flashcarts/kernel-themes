@@ -1,7 +1,7 @@
 ---
 title: DSFlow Translucent
 creator: Leaply
-description:
+description: 'Porting of Wii Flow'
 categories:
 - pico
 downloads:

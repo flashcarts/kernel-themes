@@ -1,7 +1,7 @@
 ---
 title: Telepathy
 creator: littlegoob
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

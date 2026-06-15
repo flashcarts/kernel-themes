@@ -1,7 +1,7 @@
 ---
 title: Prophecy
 creator: TheRealQhoir
-description:
+description: 'Deltarune Theme'
 categories:
 - pico
 downloads:

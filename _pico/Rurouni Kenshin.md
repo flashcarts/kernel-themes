@@ -1,7 +1,7 @@
 ---
 title: Rurouni Kenshin
 creator: AdoptedJellyFish
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

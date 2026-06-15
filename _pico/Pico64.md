@@ -1,7 +1,7 @@
 ---
 title: Pico64
 creator: 360ad
-description:
+description: 'Theme based on the Commodore 64.'
 categories:
 - pico
 downloads:

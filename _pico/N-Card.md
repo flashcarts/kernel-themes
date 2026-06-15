@@ -1,7 +1,7 @@
 ---
 title: N-Card
 creator: Apache Thunder
-description:
+description: 'Based on default theme used on many DSFlash2/N-Card clones.'
 categories:
 - pico
 downloads:

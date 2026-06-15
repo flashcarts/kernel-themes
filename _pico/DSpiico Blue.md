@@ -1,7 +1,7 @@
 ---
 title: DSpiico Blue
 creator: 360ad
-description:
+description: 'Theme based on the Nintendo Wii.'
 categories:
 - pico
 downloads:

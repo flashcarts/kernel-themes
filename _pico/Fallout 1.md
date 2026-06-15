@@ -1,7 +1,7 @@
 ---
 title: Fallout 1
 creator: ChannelHealthy5892
-description:
+description: 'Fallout 1 theme'
 categories:
 - pico
 downloads:

@@ -1,7 +1,7 @@
 ---
 title: The World Ends With You
 creator: Sub
-description:
+description: 'Theme based on the DS Game, The World Ends With You'
 categories:
 - pico
 downloads:

@@ -1,7 +1,7 @@
 ---
 title: Gojo Beach Fun
 creator: AdoptedJellyFish
-description:
+description: 'Its A Beach Theme What More Do You Want From Me'
 categories:
 - pico
 downloads:

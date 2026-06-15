@@ -1,7 +1,7 @@
 ---
 title: Starry Night
 creator: Row
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

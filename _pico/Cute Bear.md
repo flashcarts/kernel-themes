@@ -1,7 +1,7 @@
 ---
 title: Cute Bear
 creator: Row
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

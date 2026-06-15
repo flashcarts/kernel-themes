@@ -1,7 +1,7 @@
 ---
 title: Sillycat
 creator: ChannelHealthy5892
-description:
+description: 'silly car theme'
 categories:
 - pico
 downloads:

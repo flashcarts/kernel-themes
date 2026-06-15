@@ -1,7 +1,7 @@
 ---
 title: Pico98
 creator: 360ad
-description:
+description: 'Theme based on Windows 98.'
 categories:
 - pico
 downloads:

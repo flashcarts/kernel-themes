@@ -1,7 +1,7 @@
 ---
 title: Ecruteak City
 creator: Esentasse
-description:
+description: 'Theme based on Ecruteak City.'
 categories:
 - pico
 downloads:

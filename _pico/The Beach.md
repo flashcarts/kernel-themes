@@ -1,7 +1,7 @@
 ---
 title: The Beach
 creator: EDDIE-X
-description:
+description: 'A port of "The Beach" CycloDS theme made by prettygirl16'
 categories:
 - pico
 downloads:

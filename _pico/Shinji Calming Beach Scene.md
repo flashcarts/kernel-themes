@@ -1,7 +1,7 @@
 ---
 title: Shinji Calming Beach Scene
 creator: AdoptedJellyFish
-description:
+description: 'Bro its the ocean what more you need?'
 categories:
 - pico
 downloads:

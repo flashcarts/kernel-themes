@@ -1,7 +1,7 @@
 ---
 title: GreyScope
 creator: 360ad
-description:
+description: 'Theme inspired by the RedScope theme for Wood.'
 categories:
 - pico
 downloads:

@@ -1,7 +1,7 @@
 ---
 title: PiCardboard Dark
 creator: 360ad
-description:
+description: 'Theme based on cardboard & paper.'
 categories:
 - pico
 downloads:

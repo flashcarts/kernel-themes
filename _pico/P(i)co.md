@@ -1,7 +1,7 @@
 ---
 title: P(i)co
 creator: TheTechnomancer076
-description:
+description: 'A very simple Nintendo DSi inspired theme!'
 categories:
 - pico
 downloads:

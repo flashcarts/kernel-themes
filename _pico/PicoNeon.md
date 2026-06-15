@@ -1,7 +1,7 @@
 ---
 title: PicoNeon
 creator: 360ad
-description:
+description: 'Theme based on neon signs.'
 categories:
 - pico
 downloads:

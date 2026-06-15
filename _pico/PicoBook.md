@@ -1,7 +1,7 @@
 ---
 title: PicoBook
 creator: ChannelHealthy5892
-description:
+description: 'Facebook theme'
 categories:
 - pico
 downloads:

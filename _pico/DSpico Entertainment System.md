@@ -1,7 +1,7 @@
 ---
 title: DSpico Entertainment System
 creator: ChannelHealthy5892
-description:
+description: 'NES theme'
 categories:
 - pico
 downloads:

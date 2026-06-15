@@ -1,7 +1,7 @@
 ---
 title: DSBook Redux
 creator: 360ad
-description:
+description: 'Theme based on Row''s DSbook Theme.'
 categories:
 - pico
 downloads:

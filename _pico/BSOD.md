@@ -1,7 +1,7 @@
 ---
 title: BSOD
 creator: ChannelHealthy5892
-description:
+description: 'Blue Screen'
 categories:
 - pico
 downloads:

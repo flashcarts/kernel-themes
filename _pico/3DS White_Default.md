@@ -1,7 +1,7 @@
 ---
 title: 3DS White_Default
 creator: Mamamia
-description:
+description: 'Recreation of the 3DS interface (default white theme) adapted for PicoLauncher'
 categories:
 - pico
 downloads:

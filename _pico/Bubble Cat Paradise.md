@@ -1,7 +1,7 @@
 ---
 title: Bubble Cat Paradise
 creator: Row
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

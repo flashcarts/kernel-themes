@@ -1,7 +1,7 @@
 ---
 title: Dweeb
 creator: ChannelHealthy5892
-description:
+description: 'tech dweeb theme'
 categories:
 - pico
 downloads:

@@ -1,7 +1,7 @@
 ---
 title: Terminal
 creator: RealPolybius
-description:
+description: 'Terminal'
 categories:
 - pico
 downloads:

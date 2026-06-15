@@ -1,7 +1,7 @@
 ---
 title: PiDeck
 creator: 360ad
-description:
+description: 'Theme based on Yamaha Natural Sound Cassette Decks, mainly the KX-10 and the KX-393.'
 categories:
 - pico
 downloads:

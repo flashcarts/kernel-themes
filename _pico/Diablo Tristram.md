@@ -1,7 +1,7 @@
 ---
 title: Diablo Tristram
 creator: TheGoldenDorito
-description:
+description: 'Diablo Tristram'
 categories:
 - pico
 downloads:

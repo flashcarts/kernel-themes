@@ -1,7 +1,7 @@
 ---
 title: Ocean
 creator: HawkTec
-description:
+description: 'Calm waters stretching to the horizon.'
 categories:
 - pico
 downloads:

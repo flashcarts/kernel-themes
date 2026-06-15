@@ -1,7 +1,7 @@
 ---
 title: Skyline W Eurobeat
 creator: AdoptedJellyFish
-description:
+description: 'Need I Say More'
 categories:
 - pico
 downloads:

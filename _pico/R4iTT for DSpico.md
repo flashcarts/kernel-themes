@@ -1,7 +1,7 @@
 ---
 title: R4iTT for DSpico
 creator: Yari
-description:
+description: 'Theme based on the R4iTT firmware menu.'
 categories:
 - pico
 downloads:

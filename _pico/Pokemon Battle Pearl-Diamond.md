@@ -1,7 +1,7 @@
 ---
 title: Pokemon Battle Pearl-Diamond
 creator: Mamamia
-description:
+description: 'A theme with the style of Pokemon Diamond and Perl''s Pokemon battle (Turn off your folder cover by renaming it if you want to see the icons as enemies)'
 categories:
 - pico
 downloads:

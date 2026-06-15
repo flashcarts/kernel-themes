@@ -1,7 +1,7 @@
 ---
 title: Rainbow Theme
 creator: AdoptedJellyFish
-description:
+description: 'Iykyk'
 categories:
 - pico
 downloads:

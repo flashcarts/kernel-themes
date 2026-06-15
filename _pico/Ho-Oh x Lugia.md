@@ -1,7 +1,7 @@
 ---
 title: Ho-Oh x Lugia
 creator: PRIMESTE
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

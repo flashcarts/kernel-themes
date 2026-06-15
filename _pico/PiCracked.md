@@ -1,7 +1,7 @@
 ---
 title: PiCracked
 creator: 360ad
-description:
+description: 'A really bad prank. Green-needled w/ Foojingles.'
 categories:
 - pico
 downloads:

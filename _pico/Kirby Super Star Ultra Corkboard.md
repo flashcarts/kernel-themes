@@ -1,7 +1,7 @@
 ---
 title: Kirby Super Star Ultra Corkboard
 creator: rabidrodent
-description:
+description: 'Theme based on the main menu from Kirby Super Star Ultra.'
 categories:
 - pico
 downloads:

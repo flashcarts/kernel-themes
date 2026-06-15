@@ -1,7 +1,7 @@
 ---
 title: Neon Genesis Evangelion - First Children
 creator: RealPolybius
-description:
+description: 'NGE: The First Children'
 categories:
 - pico
 downloads:

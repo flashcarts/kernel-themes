@@ -1,7 +1,7 @@
 ---
 title: Gon And Killua Ocean Chill Vibes
 creator: AdoptedJellyFish
-description:
+description: 'Its ocean theme what more do you want from me :)'
 categories:
 - pico
 downloads:

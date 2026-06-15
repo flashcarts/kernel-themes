@@ -1,7 +1,7 @@
 ---
 title: Solatorobo
 creator: Adilord
-description:
+description: 'Solatorobo Theme for Pico Launcher V1.1.0'
 categories:
 - pico
 downloads:

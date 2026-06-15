@@ -1,7 +1,7 @@
 ---
 title: SwitchLight
 creator: 360ad
-description:
+description: 'Theme based on the Nintendo Switch.'
 categories:
 - pico
 downloads:

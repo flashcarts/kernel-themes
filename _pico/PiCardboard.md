@@ -1,7 +1,7 @@
 ---
 title: PiCardboard
 creator: 360ad
-description:
+description: 'Theme based on cardboard & paper.'
 categories:
 - pico
 downloads:

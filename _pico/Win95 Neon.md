@@ -1,7 +1,7 @@
 ---
 title: Win95 Neon
 creator: Mow
-description:
+description: 'Theme based on Windows 95 with vaporwave.'
 categories:
 - pico
 downloads:

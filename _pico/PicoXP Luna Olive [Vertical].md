@@ -1,7 +1,7 @@
 ---
 title: PicoXP Luna Olive [Vertical]
 creator: 360ad
-description:
+description: 'Theme based on Windows XP.'
 categories:
 - pico
 downloads:

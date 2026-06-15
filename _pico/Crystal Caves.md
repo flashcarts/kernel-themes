@@ -1,7 +1,7 @@
 ---
 title: Crystal Caves
 creator: PerformanceOk3575
-description:
+description: 'A theme of Crystal Caves from DK64'
 categories:
 - pico
 downloads:

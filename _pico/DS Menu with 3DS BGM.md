@@ -1,7 +1,7 @@
 ---
 title: DS Menu with 3DS BGM
 creator: ScoopDunk
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

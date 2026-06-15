@@ -1,7 +1,7 @@
 ---
 title: Godot
 creator: Singleton
-description:
+description: 'Theme based on Godot from Ace Attorney 3.'
 categories:
 - pico
 downloads:

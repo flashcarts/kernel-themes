@@ -1,7 +1,7 @@
 ---
 title: Shadow the Hedgehog
 creator: Dartz
-description:
+description: 'Theme from Sonic the Hedgehog 3 movie.'
 categories:
 - pico
 downloads:

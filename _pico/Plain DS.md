@@ -1,7 +1,7 @@
 ---
 title: Plain DS
 creator: ScoopDunk
-description:
+description: 'An incredible theme'
 categories:
 - pico
 downloads:

@@ -1,7 +1,7 @@
 ---
 title: PiBuntu (Multiple Wallpapers)
 creator: 360ad
-description:
+description: 'Theme based on the modern Ubuntu interface.'
 categories:
 - pico
 downloads:

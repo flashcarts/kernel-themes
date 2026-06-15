@@ -1,7 +1,7 @@
 ---
 title: SteamPico
 creator: ChannelHealthy5892
-description:
+description: 'steam ui'
 categories:
 - pico
 downloads:

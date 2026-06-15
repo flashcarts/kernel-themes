@@ -1,7 +1,7 @@
 ---
 title: Zelda
 creator: 360ad
-description:
+description: "Theme based on the Acekard 'zelda' theme."
 categories:
 - pico
 downloads:

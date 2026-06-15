@@ -1,7 +1,7 @@
 ---
 title: Pico LN-H
 creator: 360ad
-description:
+description: 'Theme based on the KORG DS-10 Synthesizer.'
 categories:
 - pico
 downloads:

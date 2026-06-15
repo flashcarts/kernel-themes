@@ -1,7 +1,7 @@
 ---
 title: Attack of the Grey Pico
 creator: 360ad
-description:
+description: 'Theme inspired by Mansun''s ''Attack of the Grey Lantern''.'
 categories:
 - pico
 downloads:

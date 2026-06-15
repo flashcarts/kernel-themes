@@ -1,7 +1,7 @@
 ---
 title: Hatsune Miku Classic
 creator: Apache Thunder & Sanras
-description:
+description: 'Theme based on Hatsune Miku WoodR4 Theme.'
 categories:
 - pico
 downloads:

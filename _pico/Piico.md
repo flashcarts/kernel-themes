@@ -1,7 +1,7 @@
 ---
 title: Piico
 creator: TheTechnomancer076
-description:
+description: 'A very simple Nintendo Wii inspired theme!'
 categories:
 - pico
 downloads:
