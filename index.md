@@ -20,10 +20,11 @@ title: Home
 
 ### Site Status
 
-#### [6/10/2026 - 6/15/2026]
+#### [6/10/2026 - 6/20/2026]
 - Added new Pico Launcher themes: 3DS White, Cute Bear, PiDeck, Pokemon Battle, and StarPico.
 - [6/13] Added new Pico themes: PiBuntu, R4iTT, and DarkChill.
 - [6/15] Added new Pico themes: PICOiTTDS, PICOiTTDS Revolution, R4iTT for DSpico V2.
+- [6/20] Added new Pico themes: Contemporary Pico, P4ico Final Fantasy, P4ico Mario Kart, and Sonic Rush Adventure.
 
 #### [6/2/2026-6/9/2026]
 - New Pico Launcher themes added: Bubble Cat Paradise, Dweeb, Pico LN-H, and PiCracked.
