@@ -12,6 +12,8 @@ exclude:
   - Gemfile*
   - vendor
   - LICENSE*
+  - process_dates.rb
+  - README.md
 
 defaults:
   - scope:
