@@ -1,5 +1,7 @@
 ---
 title: Sonic Rush Adventure
+created: 2026-06-20 13:42:41+0000
+updated: 2026-06-20 14:28:46+0000
 creator: Gioshi78
 description: "a theme based of Sonic Rush Adventure"
 categories:

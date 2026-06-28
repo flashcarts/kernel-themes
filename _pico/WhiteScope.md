@@ -1,5 +1,7 @@
 ---
 title: WhiteScope
+created: 2026-04-22 16:22:55+0000
+updated: 2026-06-15 15:58:12+0000
 creator: 360ad
 description: 'Theme based on the RedScope theme for Wood.'
 categories:

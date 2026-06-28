@@ -1,5 +1,7 @@
 ---
 title: Kirby Super Star Ultra Corkboard
+created: 2026-04-20 15:46:49+0000
+updated: 2026-06-15 15:58:12+0000
 creator: rabidrodent
 description: 'Theme based on the main menu from Kirby Super Star Ultra.'
 categories:

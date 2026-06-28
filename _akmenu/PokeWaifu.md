@@ -1,5 +1,7 @@
 ---
 title: PokeWaifu
+created: 2026-05-31 01:59:45+0000
+updated: 2026-05-31 01:59:45+0000
 creator: Unknown
 description:
 categories:

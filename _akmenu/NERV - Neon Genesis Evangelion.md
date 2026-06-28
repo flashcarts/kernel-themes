@@ -1,5 +1,7 @@
 ---
 title: NERV - Neon Genesis Evangelion
+created: 2026-05-27 02:06:30+0000
+updated: 2026-05-27 02:06:30+0000
 creator: alfredox
 description:
 categories:

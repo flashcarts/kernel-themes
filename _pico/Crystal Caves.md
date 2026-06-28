@@ -1,5 +1,7 @@
 ---
 title: Crystal Caves
+created: 2026-04-25 17:35:35+0000
+updated: 2026-06-15 15:58:12+0000
 creator: PerformanceOk3575
 description: 'A theme of Crystal Caves from DK64'
 categories:

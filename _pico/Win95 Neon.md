@@ -1,5 +1,7 @@
 ---
 title: Win95 Neon
+created: 2026-04-20 15:46:49+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Mow
 description: 'Theme based on Windows 95 with vaporwave.'
 categories:

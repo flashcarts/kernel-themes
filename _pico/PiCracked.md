@@ -1,5 +1,7 @@
 ---
 title: PiCracked
+created: 2026-06-02 13:38:08+0000
+updated: 2026-06-15 15:58:12+0000
 creator: 360ad
 description: 'A really bad prank. Green-needled w/ Foojingles.'
 categories:

@@ -1,5 +1,7 @@
 ---
 title: The Beach
+created: 2026-05-04 14:23:49+0000
+updated: 2026-06-15 15:58:12+0000
 creator: EDDIE-X
 description: 'A port of "The Beach" CycloDS theme made by prettygirl16'
 categories:

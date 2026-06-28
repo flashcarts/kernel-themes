@@ -1,5 +1,7 @@
 ---
 title: Jirachi - Make a Wish
+created: 2026-05-04 14:23:49+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Row
 description: 'Theme inspired by the RedScope theme for Wood.'
 categories:

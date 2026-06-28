@@ -1,5 +1,7 @@
 ---
 title: Ecruteak City
+created: 2026-04-20 14:42:10+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Esentasse
 description: 'Theme based on Ecruteak City.'
 categories:

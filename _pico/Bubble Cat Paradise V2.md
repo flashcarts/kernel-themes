@@ -1,5 +1,7 @@
 ---
 title: Bubble Cat Paradise V2
+created: 2026-06-04 23:05:54+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Row
 description: 'An incredible theme'
 categories:

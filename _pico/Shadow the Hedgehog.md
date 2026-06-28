@@ -1,5 +1,7 @@
 ---
 title: Shadow the Hedgehog
+created: 2026-04-14 20:58:43+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Dartz
 description: 'Theme from Sonic the Hedgehog 3 movie.'
 categories:

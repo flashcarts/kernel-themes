@@ -1,5 +1,7 @@
 ---
 title: Brushed Metal Pink
+created: 2025-02-20 16:15:35+0000
+updated: 2026-04-16 22:10:44+0000
 creator: Retro Game Fan
 description: 
 categories:
