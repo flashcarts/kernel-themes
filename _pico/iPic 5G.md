@@ -1,5 +1,7 @@
 ---
 title: iPic 5G
+created: 2026-04-30 22:43:01+0000
+updated: 2026-06-15 15:58:12+0000
 creator: 360ad
 description: 'Theme based on the iPod 5G interface.'
 categories:

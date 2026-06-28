@@ -1,5 +1,7 @@
 ---
 title: 3DS White_Default
+created: 2026-06-10 16:05:43+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Mamamia
 description: 'Recreation of the 3DS interface (default white theme) adapted for PicoLauncher'
 categories:

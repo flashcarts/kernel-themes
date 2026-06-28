@@ -1,5 +1,7 @@
 ---
 title: Altimit Pico OS
+created: 2026-05-09 14:34:16+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Egoistamamono
 description: 'Inspired by Altimit OS from .hack//IMOQ series.'
 categories:

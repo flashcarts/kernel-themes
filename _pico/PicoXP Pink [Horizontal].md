@@ -1,5 +1,7 @@
 ---
 title: PicoXP Pink [Horizontal]
+created: 2026-06-06 18:11:49+0000
+updated: 2026-06-15 15:58:12+0000
 creator: 360ad
 description: 'Theme based on Windows XP.'
 categories:

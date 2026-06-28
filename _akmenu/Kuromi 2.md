@@ -1,5 +1,7 @@
 ---
 title: Kuromi 2
+created: 2025-11-03 19:36:24+0000
+updated: 2026-04-16 22:10:44+0000
 creator: Unknown
 description: 
 categories:

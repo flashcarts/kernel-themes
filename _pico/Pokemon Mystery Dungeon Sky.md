@@ -1,5 +1,7 @@
 ---
 title: Pokemon Mystery Dungeon Sky
+created: 2026-04-20 15:46:49+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Mow
 description: 'Theme based on Pokemon Mystery Dungeon: Explorers of Sky (inspired by Rayhan''s TWLMenu theme).'
 categories:

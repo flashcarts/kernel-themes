@@ -1,5 +1,7 @@
 ---
 title: Basic Pico
+created: 2026-06-23 18:50:20+0000
+updated: 2026-06-23 18:50:20+0000
 creator: 360ad
 description: "A basic custom theme utilising the Pico Launcher logo."
 categories:

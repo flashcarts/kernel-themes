@@ -1,5 +1,7 @@
 ---
 title: HGSS Interface
+created: 2026-03-15 23:29:24+0000
+updated: 2026-04-16 22:10:44+0000
 creator: env
 description: 
 categories:

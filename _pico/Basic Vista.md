@@ -1,5 +1,7 @@
 ---
 title: Basic Vista
+created: 2026-06-23 18:50:20+0000
+updated: 2026-06-23 18:50:20+0000
 creator: 360ad
 description: "A simple theme based on Windows Vista."
 categories:

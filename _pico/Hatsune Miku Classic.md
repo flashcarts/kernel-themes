@@ -1,5 +1,7 @@
 ---
 title: Hatsune Miku Classic
+created: 2026-04-14 20:58:43+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Apache Thunder & Sanras
 description: 'Theme based on Hatsune Miku WoodR4 Theme.'
 categories:

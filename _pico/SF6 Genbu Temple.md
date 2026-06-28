@@ -1,5 +1,7 @@
 ---
 title: SF6 Genbu Temple
+created: 2026-05-16 00:33:59+0000
+updated: 2026-06-15 15:58:12+0000
 creator: giancarlozero
 description: 'SF6 Ryu Theme for DSpico'
 categories:

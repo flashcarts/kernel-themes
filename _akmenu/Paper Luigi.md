@@ -1,5 +1,7 @@
 ---
 title: Paper Luigi
+created: 2025-01-06 18:53:17+0000
+updated: 2026-04-16 22:10:44+0000
 creator: Chris Hair
 description: 
 categories:

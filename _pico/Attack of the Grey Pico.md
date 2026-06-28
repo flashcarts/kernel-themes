@@ -1,5 +1,7 @@
 ---
 title: Attack of the Grey Pico
+created: 2026-04-25 17:35:35+0000
+updated: 2026-06-15 15:58:12+0000
 creator: 360ad
 description: 'Theme inspired by Mansun''s ''Attack of the Grey Lantern''.'
 categories:

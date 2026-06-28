@@ -1,5 +1,7 @@
 ---
 title: Jirachi Go!
+created: 2026-05-09 14:34:16+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Row
 description: 'An incredible theme'
 categories:

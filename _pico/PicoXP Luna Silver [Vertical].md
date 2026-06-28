@@ -1,5 +1,7 @@
 ---
 title: PicoXP Luna Silver [Vertical]
+created: 2026-06-06 01:40:40+0000
+updated: 2026-06-15 15:58:12+0000
 creator: 360ad
 description: 'Theme based on Windows XP.'
 categories:

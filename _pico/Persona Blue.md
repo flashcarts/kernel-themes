@@ -1,5 +1,7 @@
 ---
 title: Persona Blue
+created: 2026-04-24 01:51:51+0000
+updated: 2026-06-15 15:58:12+0000
 creator: 360ad
 description: 'Theme inspired by Persona.'
 categories:

@@ -1,5 +1,7 @@
 ---
 title: Cute Bear
+created: 2026-06-10 16:05:43+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Row
 description: 'An incredible theme'
 categories:

@@ -1,5 +1,7 @@
 ---
 title: Nitro Menu
+created: 2026-06-23 18:50:20+0000
+updated: 2026-06-23 18:50:20+0000
 creator: Ryan B
 description: "Theme based on the DS/DS Lite menu in blue-grey"
 categories:

@@ -1,5 +1,7 @@
 ---
 title: BSOD
+created: 2026-05-20 17:01:29+0000
+updated: 2026-06-15 15:58:12+0000
 creator: ChannelHealthy5892
 description: 'Blue Screen'
 categories:

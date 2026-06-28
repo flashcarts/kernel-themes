@@ -1,5 +1,7 @@
 ---
 title: DSFlow Translucent
+created: 2026-04-20 14:42:10+0000
+updated: 2026-06-15 15:58:12+0000
 creator: Leaply
 description: 'Porting of Wii Flow'
 categories:

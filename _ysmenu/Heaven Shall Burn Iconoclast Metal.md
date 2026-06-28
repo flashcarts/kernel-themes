@@ -1,5 +1,7 @@
 ---
 title: Heaven Shall Burn Iconoclast Metal
+created: 2025-10-30 16:33:24+0000
+updated: 2026-04-16 22:10:44+0000
 creator: SlipknoT666
 description: 
 categories:

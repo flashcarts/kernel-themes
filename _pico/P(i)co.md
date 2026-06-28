@@ -1,5 +1,7 @@
 ---
 title: P(i)co
+created: 2026-04-20 16:24:08+0000
+updated: 2026-06-15 15:58:12+0000
 creator: TheTechnomancer076
 description: 'A very simple Nintendo DSi inspired theme!'
 categories:
