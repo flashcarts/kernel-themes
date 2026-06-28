@@ -29,6 +29,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Process theme update times
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          ruby process_dates.rb -p
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:

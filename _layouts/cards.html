@@ -33,7 +33,8 @@ layout: compress
 									<button id="sort-title" class="btn btn-outline-secondary i18n innerHTML-title" onclick="sort('title')">Title</button>
 									<button id="sort-creator" class="btn btn-outline-secondary i18n innerHTML-creator" onclick="sort('creator')">Creator</button>
 									<button id="sort-description" class="btn btn-outline-secondary i18n innerHTML-description" onclick="sort('description')">Description</button>
-									<button id="sort-direction" class="btn btn-outline-secondary float-end i18n innerHTML-ascending data-ascending-ascending data-descending-descending" onclick="toggleSortDirection()" data-ascending="Ascending" data-descending="Descending">Ascending</button>
+									<button id="sort-updated" class="btn btn-outline-secondary i18n innerHTML-updated" onclick="sort('updated')">Recently Updated</button>
+									<button id="sort-direction" class="btn btn-outline-secondary float-end i18n innerHTML-ascending data-ascending-ascending data-descending-descending" onclick="toggleSortDirection()" data-ascending="Ascending" data-descending="Descending">Descending</button>
 								</div>
 								<div class="input-group mb-3">
 									<label for="search" class="input-group-text i18n innerHTML-search">Search:</label>
@@ -50,26 +51,13 @@ layout: compress
 							{% endunless %}
 						{% endfor %}
 
-						{% if page.title == "Home" %}
-							{% assign temp = site.card %}
-							{% for item in temp %}
-								{% assign id = item.creator | append: item.title %}
-								{% unless existing contains id %}
-									{% assign id = id | split: "////////" %}
-									{% assign existing = existing | concat: id %}
-									{% assign t = temp | where_exp: "i", "i == item" %}
-									{% assign cards = cards | concat: t %}
-								{% endunless %}
-							{% endfor %}
-						{% endif %}
-
-						{% assign cards = cards | sort: "title" %}
+						{% assign cards = cards | sort: "updated" | reverse %}
 
 						<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4" id="card-container">
 							{% for app in cards limit: page.limit %}
 								{% if page.category == Nil or app.categories contains page.category %}
 									<div class="col mb-3 {% if page.limit == 4 and forloop.index == 4 %}d-md-none d-xl-block{% endif %}">
-										<div class="card h-100" data-title="{{ app.title | escape}}" data-creator="{{ app.creator | escape}}" data-description="{{ app.description | escape }}">
+										<div class="card h-100" data-title="{{ app.title | escape}}" data-creator="{{ app.creator | escape}}" data-description="{{ app.description | escape }}" data-created="{{ app.created }}" data-updated="{{ app.updated }}">
 											<a class="flex-grow-1" href="{{ app.url | remove: ".html"  | relative_url }}">
 												{% if app.images.size > 0 %}
 													<div class="card-header card-image-header">
@@ -86,6 +74,14 @@ layout: compress
 													</div>
 												</div>
 											</a>
+											<div class="card-footer">
+												<small>
+													<span class="innerHTML-created-date">Added:</span>
+													<time datetime="{{ app.created }}">{{ app.created }}</time><br>
+													<span class="innerHTML-last-updated">Last Updated:</span>
+													<time datetime="{{ app.updated }}">{{ app.updated }}</time>
+												</small>
+											</div>
 										</div>
 									</div>
 								{% endif %}
@@ -104,6 +100,7 @@ layout: compress
 	<script src="/assets/js/modal.js"></script>
 	{% if page.system %}
 		<script src="/assets/js/sort.js"></script>
+		<script src="/assets/js/localtime.js"></script>
 	{% endif %}
 </body>
 </html>
