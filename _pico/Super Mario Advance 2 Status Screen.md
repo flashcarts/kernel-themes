@@ -1,5 +1,7 @@
 ---
 title: Super Mario Advance 2 Status Screen
+created: 2026-06-29 15:32:10+0000
+updated: 2026-06-29 15:32:10+0000
 creator: BKayWoneZ
 description: "A theme based on the Super Mario Advance 2 Status Screen. I made this in like 2 and a half hours. I hope this doesn't look like trash."
 categories:
