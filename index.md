@@ -22,6 +22,7 @@ title: Home
 
 #### [7/31/2026]
 - Added new akmenu theme: Ibuki Mioda
+- Added new Pico theme: iiSU Theme
 
 #### [7/13/2026]
 - Added new Pico theme: Isabelle Rain
