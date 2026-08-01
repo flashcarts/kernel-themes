@@ -1,5 +1,7 @@
 ---
 title: iiSU Official Theme
+created: 2026-08-01 13:22:49+0000
+updated: 2026-08-01 13:22:49+0000
 creator: the_swest
 description: "iiSU is a visuals-first emulation frontend for Android. This theme replicates the visuals and UI from iiSU, now for your Nintendo DS! This theme has been bought to you by the official iiSU team and all assets and music has been used with permission."
 categories:
