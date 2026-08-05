@@ -14,14 +14,20 @@ title: Home
 {% include home-categories.html %}
 
 ### Uploading a Theme
-- Currently, the site has no automated (user-facing) system for uploading new themes. As such if you would like to see a new theme added to the repo that isn't already uploaded, please create a new issue in the [kernel-themes repository](https://github.com/flashcarts/kernel-themes/issues/new?template=new_theme.yml), and provide the theme file to be added, as well as a description of what kernel the theme is intended for. Note that only themes for supported kernels will be accepted - Pico-Launcher, WoodR4/AKMenu, YSMenu, and Moonshell 2.
+- Currently, the site has no automated (user-facing) system for uploading new themes. As such if you would like to see a new theme added to the repo that isn't already uploaded, please create a new issue in the [kernel-themes repository](https://github.com/flashcarts/kernel-themes/issues/new?template=new_theme.yml), and provide the theme file to be added, as well as a description of what kernel the theme is intended for. Note that only themes for supported kernels will be accepted - Pico-Launcher, WoodR4/AKMenu, YSMenu, Moonshell 2, and Astronaut.
 
 ---
 
 ### Site Status
 
+#### [8/5/2026]
+- Added theme hosting for the new DSi Unlaunch replacement, Astronaut!
+    - Imported all currently known Astronaut themes.
+- Added new AKMenu theme: Rabbit2026
+- Added new Pico theme: Cyber Punk Future
+
 #### [7/31/2026]
-- Added new akmenu theme: Ibuki Mioda
+- Added new AKMenu theme: Ibuki Mioda
 - Added new Pico theme: iiSU Theme
 
 #### [7/13/2026]
