@@ -1,5 +1,7 @@
 ---
 title: Deltarune Theme
+created: 2026-08-05 18:26:02+0000
+updated: 2026-08-05 18:26:02+0000
 creator: Vikrinox
 description:
 categories:
