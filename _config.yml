@@ -42,3 +42,8 @@ collections:
     title: "Moonshell 2"
     image: "/assets/images/site-images/MS2_TitlePage.png"
     order: 4
+  astronaut:
+    output: true
+    title: "Astronaut"
+    image: "/assets/images/site-images/Astronaut_TitlePage.png"
+    order: 5
