@@ -40,7 +40,7 @@ body:
     id: theme-description
     attributes:
       label: Theme Description
-      description: Provide a short description of the theme. Please make sure this description is also in your theme's `theme.json` file.
+      description: Provide a short description of the theme. (For Pico-Launcher, please make sure this description is also in your theme's `theme.json` file.)
       placeholder: "Describe the theme's style, inspiration, special features, etc."
     validations:
       required: true
@@ -49,7 +49,7 @@ body:
     id: theme-upload
     attributes:
       label: Theme Archive Upload
-      description: Upload a .zip or .7z archive of the theme here. You can drag and drop the file into this field.
-      placeholder: "Drag and drop your .zip or .7z file here."
+      description: Upload a .zip or .7z archive of the theme here. You can drag and drop the file into this field. If the file is too large, upload it to an external file host such as Google Drive instead.
+      placeholder: "Drag and drop your .zip or .7z file here, or paste a link to your file."
     validations:
       required: true
