@@ -1,7 +1,7 @@
 ---
 title: "Mario & Luigi: Bowser's Inside Story"
 created: 2025-01-06 18:53:17+0000
-updated: 2026-04-16 22:10:44+0000
+updated: 2026-08-10 23:17:55+0000
 creator: 2012
 description: 
 categories:
