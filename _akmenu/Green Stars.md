@@ -1,5 +1,7 @@
 ---
 title: Green Stars
+created: 2026-08-11 19:16:31+0000
+updated: 2026-08-11 19:16:31+0000
 creator: Bakuryu91
 description:
 categories:
