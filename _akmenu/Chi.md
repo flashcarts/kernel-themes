@@ -1,0 +1,15 @@
+---
+title: Chi
+creator: andyho
+description:
+categories:
+- akmenu
+downloads:
+- Chi.7z
+images:
+- url: "/assets/images/akmenu/Chi/1.png"
+- url: "/assets/images/akmenu/Chi/2.png"
+- url: "/assets/images/akmenu/Chi/3.png"
+---
+
+{% include kernels/akmenu.md akmenu_themeFile="Chi.7z" akmenu_themeFolder="Chi" %}
