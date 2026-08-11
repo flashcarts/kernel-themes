@@ -1,5 +1,7 @@
 ---
 title: Give You New Feeling
+created: 2026-08-11 19:57:15+0000
+updated: 2026-08-11 19:57:15+0000
 creator: Aar
 description: "Based on the classic r4ids.cn theme"
 categories:
