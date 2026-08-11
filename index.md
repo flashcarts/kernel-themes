@@ -21,6 +21,12 @@ title: Home
 ### Site Status
 
 #### [8/5/2026]
+- Started importing AKMenu themes from the acekard.com forums.
+    - Authors with usernames A-C have been uploaded.
+- Added new YSMenu theme: Weollex
+- Added new Pico theme: Give you new feeling
+
+#### [8/5/2026]
 - Added theme hosting for the new DSi Unlaunch replacement, Astronaut!
     - Imported all currently known Astronaut themes.
 - Added new AKMenu theme: Rabbit2026
