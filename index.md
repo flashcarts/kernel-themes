@@ -20,10 +20,10 @@ title: Home
 
 ### Site Status
 
-#### [8/11/2026]
+#### [8/11/2026 - 8/12/2026]
 - Started importing AKMenu themes from the acekard.com forums.
     - Authors with usernames A-C have been uploaded.
-- Added new YSMenu themes: Weollex, Lone Summer, and Touhou Halloween.
+- Added new YSMenu themes: Weollex, Lone Summer, Touhou Halloween, Maison Margiela, and Moody Blues.
 - Added new Pico theme: Give you new feeling
 
 #### [8/5/2026]
