@@ -1,0 +1,25 @@
+---
+title: Colour Converter
+layout: default
+---
+<h1>{{page.title}}</h1>
+<hr>
+
+<form class="row mb-3" id="colourForm">
+    <div class="input-group">
+        <span id="colourInputName" class="input-group-text">Colour</span>
+        <input type="text" class="form-control" name="colourInput" id="colourInput" aria-labeledby="colourInputName" aria-describedby="colourHelp">
+        <button type="submit" aria-label="Submit button" class="btn btn-secondary">Submit</button>
+    </div>
+    <div id="colourHelp" class="form-text">Accepted values: Hex (HTML), RGB, rgb(RRR, GGG, BBB), BGR15</div>
+</form>
+<div class="row g-3 mb-3">
+    <div class="col-md-6">
+        <p id="colourInfo"></p>
+    </div>
+    <div class="col" id="colourView" aria-hidden="true">
+        <!-- colour will change when submitted -->
+    </div>
+</div>
+
+<script src="/assets/js/colour-converter.js"></script>
