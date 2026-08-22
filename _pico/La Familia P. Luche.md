@@ -1,0 +1,16 @@
+---
+title: La Familia P. Luche
+creator: Mooniem
+description: "Theme based on Mexican Series \"La Familia P. Luche\""
+categories:
+- pico
+downloads:
+- La Familia P. Luche.7z
+images:
+- url: "/assets/images/pico/La Familia P. Luche/1.png"
+- url: "/assets/images/pico/La Familia P. Luche/2.png"
+- url: "/assets/images/pico/La Familia P. Luche/3.png"
+- url: "/assets/images/pico/La Familia P. Luche/4.png"
+---
+
+{% include kernels/pico.md pico_themeFile="La Familia P. Luche.7z" pico_themeFolder="La Familia P. Luche" %}
