@@ -1,7 +1,7 @@
 ---
 title: Ecruteak City
 created: 2026-04-20 14:42:10+0000
-creator: Esentasse
+updated: 2026-08-22 15:24:25+0000
 description: "Theme based on Ecruteak City."
 categories:
 - pico

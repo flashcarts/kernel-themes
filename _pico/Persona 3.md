@@ -1,5 +1,7 @@
 ---
 title: Persona 3
+created: 2026-08-22 15:24:25+0000
+updated: 2026-08-22 15:24:25+0000
 creator: shin
 description: "An incredible theme"
 categories:

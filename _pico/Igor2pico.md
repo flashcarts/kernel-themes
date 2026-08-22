@@ -1,5 +1,7 @@
 ---
 title: Igor2pico
+created: 2026-08-22 15:24:25+0000
+updated: 2026-08-22 15:24:25+0000
 creator: Mooniem
 description: "Another Igor based theme w the song \"Are We Still Friends\""
 categories:
