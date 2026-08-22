@@ -20,6 +20,10 @@ title: Home
 
 ### Site Status
 
+#### [8/22/2026]
+- Added new Pico themes: Burger, Welcome Back, Persona 3, Creepy Cute, Igor2pico, and La Familia P. Luche.
+- Updated Pico theme: Ecruteak City
+
 #### [8/11/2026 - 8/12/2026]
 - Started importing AKMenu themes from the acekard.com forums.
     - Authors with usernames A-C have been uploaded.
