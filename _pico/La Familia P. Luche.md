@@ -1,5 +1,7 @@
 ---
 title: La Familia P. Luche
+created: 2026-08-22 15:42:05+0000
+updated: 2026-08-22 15:42:05+0000
 creator: Mooniem
 description: "Theme based on Mexican Series \"La Familia P. Luche\""
 categories:
