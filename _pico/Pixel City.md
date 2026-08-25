@@ -1,5 +1,7 @@
 ---
 title: Pixel City
+created: 2026-08-25 17:47:56+0000
+updated: 2026-08-25 17:47:56+0000
 creator: KantoBound
 description: "Art by 1041uuu, music from Tower of Heaven OST"
 categories:
