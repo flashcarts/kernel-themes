@@ -1,5 +1,7 @@
 ---
 title: Persona 4
+created: 2026-08-26 21:12:50+0000
+updated: 2026-08-26 21:12:50+0000
 creator: kitsuneredFES
 description: "A theme based on the aesthetics of Persona 4 for the PlayStation 2"
 categories:
