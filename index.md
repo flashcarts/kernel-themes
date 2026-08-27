@@ -20,10 +20,12 @@ title: Home
 
 ### Site Status
 
-#### [8/25/2026 - 8/26/2026]
+#### [8/25/2026 - 8/27/2026]
 - Added new Pico themes: Pixel City and DSPico - Raspberry.
 - [8/26/2026] Added new Pico theme: Persona 4
 - [8/26/2026] Added new YSMenu theme: Lucid Dreams
+- [8/27/2026] Added new Pico theme: Joltik
+- [8/27/2026] Update Pico theme: DSPico - Raspberry
 
 #### [8/22/2026]
 - Added new Pico themes: Burger, Welcome Back, Persona 3, Creepy Cute, Igor2pico, and La Familia P. Luche.
