@@ -1,7 +1,7 @@
 ---
 title: DSPico - Raspberry
 created: 2026-08-25 17:47:56+0000
-updated: 2026-08-27 21:17:27+0000
+updated: 2026-08-27 21:23:03+0000
 creator: effL
 description: "A theme about the DSPico Raspberry (Inspired by 360ad's Basic Pico theme)."
 categories:
