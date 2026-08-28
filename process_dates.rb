@@ -11,33 +11,37 @@ edit = false
 theme_collections.each do |theme|
     puts "Processing #{theme} themes..."
     Dir.glob("#{theme}/*.md") do |file|
-        if !File.foreach(file).grep(/^created:/).any?
+        # read in file data
+        md = File.new(file,"r")
+        data = md.readlines
+        md.close
+
+        if !data.grep(/^created:/).any?
             creation_time = Time.at(`git log --reverse --pretty=%at -- "#{file}" | head -n 1`.to_i, in: '+00:00').strftime("%Y-%m-%d %H:%M:%S%z")
             update_time = Time.at(`git log -n 1 --pretty=%at -- "#{file}"`.to_i, in: '+00:00').strftime("%Y-%m-%d %H:%M:%S%z")
             edit = true
 
             puts "adding creation/update times to #{file}"
-            md = File.new(file,"r")
-            data = md.readlines
-            md.close
-
             # insert after title (2nd line)
-            data.insert(2, "created: #{creation_time}\n")
-            data.insert(3, "updated: #{update_time}\n")
+            data.insert(2, "created: #{creation_time}\n", "updated: #{update_time}\n")
             File.write(file, data.join, mode: "w")
         else
             puts "checking #{file} for updates"
             update_time = `git log -n 1 --pretty="%s|%at" -- "#{file}"`.split("|")
             update_time[1] = Time.at(update_time[1].to_i, in: '+00:00').strftime("%Y-%m-%d %H:%M:%S%z")
-            if update_time[0] != "process theme update times"
+            
+            if update_time[0] != "process theme update times" and !update_time[0].include?("[skip-update]")
                 puts "writing new update time to #{file}"
                 edit = true
 
-                md = File.new(file,"r")
-                data = md.readlines
-                md.close
+                if !data.grep(/^updated:/).any?
+                    index = data.index { |line| line =~ /^created:/ }
+                    data.insert(index + 1, "updated: #{update_time[1]}\n")
+                else
+                    index = data.index { |line| line =~ /^updated:/ }
+                    data[index] = "updated: #{update_time[1]}\n"
+                end
 
-                data[3] = "updated: #{update_time[1]}\n"
                 File.write(file, data.join, mode: "w")
             end
         end
