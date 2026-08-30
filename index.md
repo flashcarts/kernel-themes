@@ -20,6 +20,10 @@ title: Home
 
 ### Site Status
 
+#### [8/30/2026]
+- Added a tool that can convert between Hex (HTML), RGB and BGR15 colours: <https://themes.flashcarts.net/tools/colours>
+    - If you find any issues with the tool, please submit a report on our [GitHub issue tracker](https://github.com/flashcarts/kernel-themes/issues).
+
 #### [8/25/2026 - 8/27/2026]
 - Added new Pico themes: Pixel City and DSPico - Raspberry.
 - [8/26/2026] Added new Pico theme: Persona 4
