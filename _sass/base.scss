@@ -352,6 +352,9 @@ html[dir=rtl] {
 .form-control:hover:not(:disabled):not([readonly])::file-selector-button {
 	background-color: colours.$alert-secondary-border;
 }
+.form-text {
+	color: colours.$form-text;
+}
 
 // Cards
 .card {

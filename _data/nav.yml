@@ -10,3 +10,7 @@
   url: /moonshell2
 - title: Astronaut
   url: /astronaut
+- title: Tools
+  items:
+    - title: Colour Converter
+      url: /tools/colours
