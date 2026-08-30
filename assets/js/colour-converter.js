@@ -50,12 +50,12 @@ colourForm.addEventListener("submit", function (event) {
     }
 
     if (valid) {
-        output.innerHTML = `Hex (HTML): #${(rgb[0] << 16 | rgb[1] << 8 | rgb[2]).toString(16).toUpperCase()}<br>`;
+        output.innerHTML = `Hex (HTML): #${(rgb[0] << 16 | rgb[1] << 8 | rgb[2]).toString(16).padStart(6, "0").toUpperCase()}<br>`;
         output.innerHTML += `RGB: ${rgb[0]} ${rgb[1]} ${rgb[2]}<br>`;
         let rgb_css = `rgb(${rgb[0]}, ${rgb[1]}, ${rgb[2]})`;
         output.innerHTML += `RGB (CSS): ${rgb_css}<br>`;
         let bgr15 = (Math.round(rgb[0] * 31 / 255) | Math.round(rgb[1] * 31 / 255) << 5 | Math.round(rgb[2] * 31 / 255) << 10);
-        output.innerHTML += `BGR15: 0x${bgr15.toString(16).toUpperCase()} / 0x${(bgr15 | 1 << 15).toString(16).toUpperCase()}`;
+        output.innerHTML += `BGR15: 0x${bgr15.toString(16).padStart(4, "0").toUpperCase()} / 0x${(bgr15 | 1 << 15).toString(16).padStart(4, "0").toUpperCase()}`;
 
         colourView.style.backgroundColor = rgb_css;
         colourView.style.height = "200px";
