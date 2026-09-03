@@ -1,5 +1,7 @@
 ---
 title: HM Grande Bazar
+created: 2026-09-03 16:58:20+0000
+updated: 2026-09-03 16:58:20+0000
 creator: Row
 description: "Harvest Moon DS: Grande Bazar"
 categories:
