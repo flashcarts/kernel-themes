@@ -1,5 +1,7 @@
 ---
 title: Bird Castle
+created: 2026-09-17 23:22:54+0000
+updated: 2026-09-17 23:22:54+0000
 creator: mousepad429
 description: "just some image i had lying around"
 categories:

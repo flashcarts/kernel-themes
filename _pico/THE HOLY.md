@@ -1,5 +1,7 @@
 ---
 title: THE HOLY
+created: 2026-09-17 23:22:54+0000
+updated: 2026-09-17 23:22:54+0000
 creator: Kirbosh
 description: "This is a DELTARUNE theme inspired by the fountain theme \"THE HOLY\"."
 categories:
