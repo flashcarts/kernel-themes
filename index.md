@@ -20,6 +20,9 @@ title: Home
 
 ### Site Status
 
+#### [9/17/2026]
+- Added new Pico-Launcher themes: Android 5.0, Bird Castle, and THE HOLY.
+
 #### [9/3/2026]
 - Added new Pico-Launcher themes: Eevee Clover, HM Grande Bazar, and Kuromi.
 
