@@ -22,28 +22,33 @@ defaults:
       layout: app
 
 collections:
-  akmenu:
-    output: true
-    title: "WoodR4/AKMenu"
-    image: "/assets/images/site-images/AKMenu_TitlePage.png"
-    order: 1
-  ysmenu:
-    output: true
-    title: "YSMenu"
-    image: "/assets/images/site-images/YSMenu_TitlePage.png"
-    order: 2
   pico:
     output: true
     title: "Pico-Launcher"
     image: "/assets/images/site-images/Pico_TitlePage.png"
-    order: 3
-  moonshell2:
+    order: 1
+  aknext:
     output: true
-    title: "Moonshell 2"
-    image: "/assets/images/site-images/MS2_TitlePage.png"
+    title: "AKMenu-Next"
+    image: "/assets/images/site-images/AKNext_TitlePage.png"
+    order: 2
+  akmenu:
+    output: true
+    title: "WoodR4/AKMenu"
+    image: "/assets/images/site-images/AKMenu_TitlePage.png"
+    order: 3
+  ysmenu:
+    output: true
+    title: "YSMenu"
+    image: "/assets/images/site-images/YSMenu_TitlePage.png"
     order: 4
   astronaut:
     output: true
     title: "Astronaut"
     image: "/assets/images/site-images/Astronaut_TitlePage.png"
     order: 5
+  moonshell2:
+    output: true
+    title: "Moonshell 2"
+    image: "/assets/images/site-images/MS2_TitlePage.png"
+    order: 6

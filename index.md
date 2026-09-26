@@ -14,11 +14,14 @@ title: Home
 {% include home-categories.html %}
 
 ### Uploading a Theme
-- Currently, the site has no automated (user-facing) system for uploading new themes. As such if you would like to see a new theme added to the repo that isn't already uploaded, please create a new issue in the [kernel-themes repository](https://github.com/flashcarts/kernel-themes/issues/new?template=new_theme.yml), and provide the theme file to be added, as well as a description of what kernel the theme is intended for. Note that only themes for supported kernels will be accepted - Pico-Launcher, WoodR4/AKMenu, YSMenu, Moonshell 2, and Astronaut.
+- Currently, the site has no automated (user-facing) system for uploading new themes. As such if you would like to see a new theme added to the repo that isn't already uploaded, please create a new issue in the [kernel-themes repository](https://github.com/flashcarts/kernel-themes/issues/new?template=new_theme.yml), and provide the theme file to be added, as well as a description of what kernel the theme is intended for. Note that only themes for supported kernels will be accepted - Pico-Launcher, WoodR4/AKMenu, AKMenu-Next, YSMenu, Moonshell 2, and Astronaut.
 
 ---
 
 ### Site Status
+
+#### [9/26/2026]
+- Added AKMenu-Next theme section for AKMenu-Next enhanced themes: AKBlack Game Covers, AKBlack, Blue Skies Game Covers, Blue Skies(AKMenu-Next), DSpico Game Covers, DSpico, Starlight, Starlight Game Covers, Winter Twilight, Zelda Game Covers and Zelda (AKMenu-Next)
 
 #### [9/17/2026]
 - Added new Pico-Launcher themes: Android 5.0, Bird Castle, and THE HOLY.
