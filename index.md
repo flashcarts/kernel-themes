@@ -21,7 +21,7 @@ title: Home
 ### Site Status
 
 #### [9/26/2026]
-- Added AKMenu-Next theme section for AKMenu-Next enhanced themes: AKBlack Game Covers, AKBlack, Blue Skies Game Covers, Blue Skies(AKMenu-Next), DSpico Game Covers, DSpico, Starlight, Starlight Game Covers, Winter Twilight, Zelda Game Covers, Zelda (AKMenu-Next) and Zelda Game Covers
+- Added AKMenu-Next theme section for AKMenu-Next enhanced themes: AKBlack Game Covers, AKBlack, Blue Skies Game Covers, Blue Skies(AKMenu-Next), DSpico Game Covers, DSpico, Starlight, Starlight Game Covers, Winter Twilight, Zelda Game Covers and Zelda (AKMenu-Next)
 
 #### [9/17/2026]
 - Added new Pico-Launcher themes: Android 5.0, Bird Castle, and THE HOLY.
