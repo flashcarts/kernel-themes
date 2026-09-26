@@ -2,7 +2,7 @@
 title: Blue Skies (AKMenu-Next)
 created: 2026-09-14 12:00:00+0000
 updated: 2026-09-14 12:00:00+0000
-creator: coderkei
+creator: SylverRez
 description:
 categories:
 - aknext
