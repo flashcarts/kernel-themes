@@ -15,6 +15,7 @@ body:
         - Pico-Launcher
         - Moonshell 2
         - Astronaut
+        - AKMenu-Next
     validations:
       required: true
 
