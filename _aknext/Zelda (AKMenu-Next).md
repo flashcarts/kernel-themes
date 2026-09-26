@@ -11,9 +11,9 @@ categories:
 downloads:
 - Zelda(AKMenu-Next).7z
 images:
-- url: "/assets/images/akmenu/Zelda (AKMenu-Next)/1.png"
-- url: "/assets/images/akmenu/Zelda (AKMenu-Next)/2.png"
-- url: "/assets/images/akmenu/Zelda (AKMenu-Next)/3.png"
+- url: "/assets/images/aknext/Zelda (AKMenu-Next)/1.png"
+- url: "/assets/images/aknext/Zelda (AKMenu-Next)/2.png"
+- url: "/assets/images/aknext/Zelda (AKMenu-Next)/3.png"
 ---
 
 {% include kernels/aknext.md aknext_themeFile="Zelda(AKMenu-Next).7z" aknext_themeFolder="Zelda (AKMenu-Next)" %}
