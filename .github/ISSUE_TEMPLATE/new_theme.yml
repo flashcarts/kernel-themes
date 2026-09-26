@@ -10,11 +10,12 @@ body:
       label: Intended Kernel
       description: Which kernel is this theme intended for?
       options:
+        - Pico-Launcher
+        - AKMenu-Next
         - WoodR4/AKMenu
         - YSMenu
-        - Pico-Launcher
-        - Moonshell 2
         - Astronaut
+        - Moonshell 2
     validations:
       required: true
 
