@@ -1,5 +1,7 @@
 ---
 title: Super Pico Brawl
+created: 2026-09-28 19:54:27+0000
+updated: 2026-09-28 19:54:27+0000
 creator: CoachTheThird
 description: "Brawl inspired DS Pico theme *includes BGM*"
 categories:

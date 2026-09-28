@@ -1,5 +1,7 @@
 ---
 title: Persona 5 Joker
+created: 2026-09-28 19:54:27+0000
+updated: 2026-09-28 19:54:27+0000
 creator: mousepad429
 description: "noir red"
 categories:

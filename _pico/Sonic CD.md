@@ -1,5 +1,7 @@
 ---
 title: Sonic CD
+created: 2026-09-28 19:54:27+0000
+updated: 2026-09-28 19:54:27+0000
 creator: CoachTheThird
 description: "DS Pico theme based on Sonic CD"
 categories:
