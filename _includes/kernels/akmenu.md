@@ -14,8 +14,8 @@ Select the flashcart kernel you are using from this list:
 
 1. Place the SD card back into your cart, and boot into the cart.
 
-1. Press the `START` key to open the AKMenu/WoodR4 start menu popup, then select `Settings`.
+1. Press the `START` key to open the AKMenu/WoodR4 start menu popup, then select <code id="menu-option">Settings</code>.
 
-1. Set the theme to `{{ include.akmenu_themeFolder }}`, then press `A` to save, and `A` again to restart.
+1. Set the theme to `{{ include.akmenu_themeFolder }}`, then press <code id="save-button">A</code> to save, and `A` again to restart.
 
 <script src="/assets/js/akmenu-instructions.js"></script>
