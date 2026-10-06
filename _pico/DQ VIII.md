@@ -1,5 +1,7 @@
 ---
 title: DQ VIII
+created: 2026-10-06 17:18:10+0000
+updated: 2026-10-06 17:18:10+0000
 creator: Mousepad429
 description: "The game that finally put Dragon Quest into the mainstream in America"
 categories:

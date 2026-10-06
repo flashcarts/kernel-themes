@@ -1,5 +1,7 @@
 ---
 title: Pikmin
+created: 2026-10-06 17:18:10+0000
+updated: 2026-10-06 17:18:10+0000
 creator: Mousepad429
 description: "A happy gardening adventure"
 categories:
