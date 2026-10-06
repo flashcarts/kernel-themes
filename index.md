@@ -20,6 +20,9 @@ title: Home
 
 ### Site Status
 
+#### [10/6/2026]
+- Added new Pico-Launcher themes: Chrono, DQ VII, FF VI, Pikmin, VA-11 Hall-A.
+
 #### [9/28/2026]
 - Added new Pico-Launcher themes: Persona 5 Joker, Sonic CD, and Super Pico Brawl.
 
