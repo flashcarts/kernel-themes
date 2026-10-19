@@ -20,6 +20,9 @@ title: Home
 
 ### Site Status
 
+#### [10/19/2026]
+- Added new Pico-Launcher themes: Family Guy DS, Simple Rilakkuma.
+
 #### [10/6/2026]
 - Added new Pico-Launcher themes: Chrono, DQ VII, FF VI, Pikmin, VA-11 Hall-A.
 
