@@ -1,5 +1,7 @@
 ---
 title: Simple Rilakkuma
+created: 2026-10-19 13:45:31+0000
+updated: 2026-10-19 13:45:31+0000
 creator: bnoknow
 description: "A simple theme for a simple bear"
 categories:
