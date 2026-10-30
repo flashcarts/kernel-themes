@@ -1,5 +1,7 @@
 ---
 title: Susie Haltmann
+created: 2026-10-22 20:04:12+0000
+updated: 2026-10-22 20:04:12+0000
 creator: JAOPlayer01
 description: "Theme inspired in the character from Kirby Planet Robobot, Susie Haltmann"
 categories:
