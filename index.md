@@ -21,6 +21,9 @@ title: Home
 ### Site Status
 
 #### [10/19/2026]
+- Added new AKMenu themes: Deltarune, Win98, OS 7, and Starlight.
+
+#### [10/19/2026]
 - Added new Pico-Launcher theme: Susie Haltmann.
 
 #### [10/19/2026]
