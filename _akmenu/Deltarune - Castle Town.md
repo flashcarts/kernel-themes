@@ -1,5 +1,7 @@
 ---
 title: Deltarune - Castle Town
+created: 2026-10-30 01:22:43+0000
+updated: 2026-10-30 01:22:43+0000
 creator: simona77715
 description:
 categories:
