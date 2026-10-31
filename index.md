@@ -23,6 +23,7 @@ title: Home
 #### [10/29/2026 - 10/30/2026]
 - Added new AKMenu themes: Deltarune, Win98, OS 7, Hellsing, and Starlight.
 - Added new Pico themes: Final Fantasy IV, Steam Green, and XMBC4NDS.
+- Added new Astronaut theme: ENA - Dating Oblivion
 
 #### [10/22/2026]
 - Added new Pico-Launcher theme: Susie Haltmann.
