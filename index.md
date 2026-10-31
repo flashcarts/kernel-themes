@@ -20,10 +20,11 @@ title: Home
 
 ### Site Status
 
-#### [10/19/2026]
+#### [10/29/2026 - 10/30/2026]
 - Added new AKMenu themes: Deltarune, Win98, OS 7, Hellsing, and Starlight.
+- Added new Pico themes: Final Fantasy IV, Steam Green, and XMBC4NDS.
 
-#### [10/19/2026]
+#### [10/22/2026]
 - Added new Pico-Launcher theme: Susie Haltmann.
 
 #### [10/19/2026]
