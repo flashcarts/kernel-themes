@@ -1,5 +1,7 @@
 ---
 title: Final Fantasy IV
+created: 2026-10-31 00:30:08+0000
+updated: 2026-10-31 00:30:08+0000
 creator: ArchanonV
 description: "Background pulled from FFIV Prologue screen"
 categories:

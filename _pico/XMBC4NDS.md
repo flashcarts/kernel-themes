@@ -1,5 +1,7 @@
 ---
 title: XMBC4NDS
+created: 2026-10-31 00:30:08+0000
+updated: 2026-10-31 00:30:08+0000
 creator: saulsa14
 description: "A cool theme based on XMBC's PM3 skin"
 categories:
