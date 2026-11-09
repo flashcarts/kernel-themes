@@ -20,6 +20,9 @@ title: Home
 
 ### Site Status
 
+#### [11/8/2026]
+- Added new Pico-Launcher themes: Kissland, Petra Leyte
+
 #### [10/29/2026 - 10/30/2026]
 - Added new AKMenu themes: Deltarune, Win98, OS 7, Hellsing, and Starlight.
 - Added new Pico themes: Final Fantasy IV, Steam Green, and XMBC4NDS.
