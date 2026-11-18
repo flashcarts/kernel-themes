@@ -20,8 +20,9 @@ title: Home
 
 ### Site Status
 
-#### [11/8/2026]
-- Added new Pico-Launcher themes: Kissland, Petra Leyte
+#### [11/8/2026 - 11/17/2026]
+- [11/8] Added new Pico-Launcher themes: Kissland, Petra Leyte
+- [11/17] Added new Pico-Lauuncher themes: Looping the Rooms, Risk of Rain 2
 
 #### [10/29/2026 - 10/30/2026]
 - Added new AKMenu themes: Deltarune, Win98, OS 7, Hellsing, and Starlight.
