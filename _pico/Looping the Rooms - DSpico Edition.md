@@ -1,5 +1,7 @@
 ---
 title: Looping the Rooms - DSpico Edition
+created: 2026-11-18 02:41:38+0000
+updated: 2026-11-18 02:41:38+0000
 creator: Funnyman8121
 description: "i made a version of this for 3ds now its the DSpico time to shine"
 categories:

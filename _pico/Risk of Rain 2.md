@@ -1,5 +1,7 @@
 ---
 title: Risk of Rain 2
+created: 2026-11-18 02:41:38+0000
+updated: 2026-11-18 02:41:38+0000
 creator: Grafberg
 description: "...and his theme was electric Based on the logbook in Risk of Rain 2 Artwork Credit to u/betawho on Reddit"
 categories:
